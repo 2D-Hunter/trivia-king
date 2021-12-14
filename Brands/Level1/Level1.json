@@ -9,7 +9,8 @@
     "questionText": "",
     "options":["Taco's", "Burgers And Fries", "Sushi", "Fish And Seafood"],
     "answer": "Burgers And Fries",
-    "title": "What type of food is McDonald's known for?"
+    "title": "What type of food is McDonald's known for?",
+	"qType":"Image"
   }
 
 ]
