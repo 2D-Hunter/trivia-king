@@ -6,11 +6,18 @@
   { 
     "id" : "1",
     "questionIMG": "1.png",
-    "questionText": "",
     "options":["Taco's", "Burgers And Fries", "Sushi", "Fish And Seafood"],
     "answer": "Burgers And Fries",
     "title": "What type of food is McDonald's known for?",
 	"qType":"Image"
+  },
+  { 
+    "id" : "2",
+    "questionIMG": "2.png",
+    "options":["Instagram", "Snapchat", "Facebook", "Twitter"],
+    "answer": "Twitter",
+    "title": "What type of food is McDonald's known for?",
+	"qType":"Text"
   }
 
 ]
