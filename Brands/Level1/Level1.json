@@ -1,5 +1,5 @@
 [
-	{
+  {
 
 
   },
@@ -16,9 +16,192 @@
     "questionIMG": "2.png",
     "options":["Instagram", "Snapchat", "Facebook", "Twitter"],
     "answer": "Twitter",
-    "title": "What type of food is McDonald's known for?",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "3",
+    "questionIMG": "3.png",
+    "options":["Pixel", "IPhone", "Samsung", "Sony"],
+    "answer": "IPhone",
+    "title": "Apple produces what kind of phones?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "4",
+    "questionIMG": "4.png",
+    "options":["Adobe", "AT&T", "Atari", "Amazon"],
+    "answer": "Amazon",
+    "title": "This company is the largest internet retailer in the world",
+	"qType":"Image"
+  },
+  { 
+    "id" : "5",
+    "questionIMG": "5.png",
+    "options":["Forever Faster", "Just Do It", "All Or Nothing", "Impossible Is Nothing"],
+    "answer": "Just Do It",
+    "title": "What is the slogan for Nike?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "6",
+    "questionIMG": "6.png",
+    "options":["United States", "Russia", "Canada", "China"],
+    "answer": "United States",
+    "title": "Starbucks was founded in which of the following Countries?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "7",
+    "questionIMG": "7.png",
+    "options":["Yahoo!", "Ask.com", "Bing", "Google"],
+    "answer": "Google",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "8",
+    "questionIMG": "8.png",
+    "options":["Paramount", "Pixar", "Disney World", "Warner Bros."],
+    "answer": "Disney World",
+    "title": "Where would you find Cinderella's Castle?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "9",
+    "questionIMG": "9.png",
+    "options":["'Taste the rainbow'", "'Im lovin it'", "'Snap Crackle Pop'", "'Eat Fresh'"],
+    "answer": "Taste the rainbow",
+    "title": "What is the slogan for Skittles?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "10",
+    "questionIMG": "10.png",
+    "options":["Mario", "Link", "Sonic", "Luigi"],
+    "answer": "Mario",
+    "title": "What is the name of Nintendo's main character?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "11",
+    "questionIMG": "11.png",
+    "options":["Crave TV", "Amazon Prime", "Netflix", "Hulu"],
+    "answer": "Netflix",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "12",
+    "questionIMG": "12.png",
+    "options":["Yamaha", "YoCam", "YouTube", "Yahoo"],
+    "answer": "YouTube",
+    "title": "Name this video-sharing platform",
+	"qType":"Image"
+  },
+  { 
+    "id" : "13",
+    "questionIMG": "13.png",
+    "options":["Nestlé", "Grupo", "Ferraro Rocher", "Cadbury"],
+    "answer": "Nestlé",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "14",
+    "questionIMG": "14.png",
+    "options":["Doritos", "Tostitos", "Sun Chips", "Ruffles"],
+    "answer": "Doritos",
+    "title": "What is this chip brand?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "15",
+    "questionIMG": "15.png",
+    "options":["Friendsy", "Facebook", "Flickr", "Foursquare"],
+    "answer": "Facebook",
+    "title": "Name this social networking company",
+	"qType":"Image"
+  },
+  { 
+    "id" : "16",
+    "questionIMG": "16.png",
+    "options":["Nutella", "Skippy", "Kraft", "Jif"],
+    "answer": "Nutella",
+    "title": "Name this hazelnut spread",
+	"qType":"Image"
+  },
+  { 
+    "id" : "17",
+    "questionIMG": "17.png",
+    "options":["Rockstar", "Red Bull", "Monster", "Five Hour Energy"],
+    "answer": "Red Bull",
+    "title": "What brand of energy drink is this?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "18",
+    "questionIMG": "18.png",
+    "options":["Pinterest", "Houzz", "Flickr", "eBay"],
+    "answer": "Pinterest",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "19",
+    "questionIMG": "19.png",
+    "options":["Harvey's", "Burger King", "Sonic", "McDonald's"],
+    "answer": "Burger King",
+    "title": "What fast food resturant is this?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "20",
+    "questionIMG": "20.png",
+    "options":["D.C.", "Grim brothers", "Marvel", "Warner Brothers"],
+    "answer": "Marvel",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "21",
+    "questionIMG": "21.png",
+    "options":["Excel", "Mentos", "LifeSavers", "Tic Tac"],
+    "answer": "Tic Tac",
+    "title": "What brand of mints are these?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "22",
+    "questionIMG": "22.png",
+    "options":["Burger King", "Chipotle", "Panera Bread", "Taco Bell"],
+    "answer": "Taco Bell",
+    "title": "Name this restaurant chain",
+	"qType":"Image"
+  },
+  { 
+    "id" : "23",
+    "questionIMG": "23.png",
+    "options":["Olympic Games", "Fifa World Cup", "Grand Prix", "Super Bowl"],
+    "answer": "Olympic Games",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "24",
+    "questionIMG": "24.png",
+    "options":["Barielle", "Barrie", "Barbie", "Bebe"],
+    "answer": "Barbie",
+    "title": "Name this brand",
+	"qType":"Image"
+  },
+  { 
+    "id" : "25",
+    "questionIMG": "25.png",
+    "options":["Twitter", "Snapchat", "LinkedIn", "Facebook"],
+    "answer": "Snapchat",
+    "title": "",
 	"qType":"Text"
   }
 
 ]
-  
