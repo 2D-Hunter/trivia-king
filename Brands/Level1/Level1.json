@@ -71,7 +71,7 @@
     "id" : "9",
     "questionIMG": "9.png",
     "options":["'Taste the rainbow'", "'Im lovin it'", "'Snap Crackle Pop'", "'Eat Fresh'"],
-    "answer": "Taste the rainbow",
+    "answer": "'Taste the rainbow'",
     "title": "What is the slogan for Skittles?",
 	"qType":"Image"
   },
