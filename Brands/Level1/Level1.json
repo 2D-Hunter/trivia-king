@@ -6,6 +6,7 @@
   { 
     "id" : "1",
     "questionIMG": "1.png",
+    "solutionIMG": "",
     "options":["Taco's", "Burgers And Fries", "Sushi", "Fish And Seafood"],
     "answer": "Burgers And Fries",
     "title": "What type of food is McDonald's known for?",
@@ -14,6 +15,7 @@
   { 
     "id" : "2",
     "questionIMG": "2.png",
+    "solutionIMG": "",
     "options":["Instagram", "Snapchat", "Facebook", "Twitter"],
     "answer": "Twitter",
     "title": "",
@@ -22,6 +24,7 @@
   { 
     "id" : "3",
     "questionIMG": "3.png",
+    "solutionIMG": "",
     "options":["Pixel", "IPhone", "Samsung", "Sony"],
     "answer": "IPhone",
     "title": "Apple produces what kind of phones?",
@@ -30,6 +33,7 @@
   { 
     "id" : "4",
     "questionIMG": "4.png",
+    "solutionIMG": "",
     "options":["Adobe", "AT&T", "Atari", "Amazon"],
     "answer": "Amazon",
     "title": "This company is the largest internet retailer in the world",
@@ -38,6 +42,7 @@
   { 
     "id" : "5",
     "questionIMG": "5.png",
+    "solutionIMG": "",
     "options":["Forever Faster", "Just Do It", "All Or Nothing", "Impossible Is Nothing"],
     "answer": "Just Do It",
     "title": "What is the slogan for Nike?",
@@ -46,6 +51,7 @@
   { 
     "id" : "6",
     "questionIMG": "6.png",
+    "solutionIMG": "",
     "options":["United States", "Russia", "Canada", "China"],
     "answer": "United States",
     "title": "Starbucks was founded in which of the following Countries?",
@@ -54,6 +60,7 @@
   { 
     "id" : "7",
     "questionIMG": "7.png",
+    "solutionIMG": "",
     "options":["Yahoo!", "Ask.com", "Bing", "Google"],
     "answer": "Google",
     "title": "",
@@ -62,6 +69,7 @@
   { 
     "id" : "8",
     "questionIMG": "8.png",
+    "solutionIMG": "",
     "options":["Paramount", "Pixar", "Disney World", "Warner Bros."],
     "answer": "Disney World",
     "title": "Where would you find Cinderella's Castle?",
@@ -70,6 +78,7 @@
   { 
     "id" : "9",
     "questionIMG": "9.png",
+    "solutionIMG": "",
     "options":["'Taste the rainbow'", "'Im lovin it'", "'Snap Crackle Pop'", "'Eat Fresh'"],
     "answer": "'Taste the rainbow'",
     "title": "What is the slogan for Skittles?",
@@ -78,6 +87,7 @@
   { 
     "id" : "10",
     "questionIMG": "10.png",
+    "solutionIMG": "",
     "options":["Mario", "Link", "Sonic", "Luigi"],
     "answer": "Mario",
     "title": "What is the name of Nintendo's main character?",
@@ -86,6 +96,7 @@
   { 
     "id" : "11",
     "questionIMG": "11.png",
+    "solutionIMG": "",
     "options":["Crave TV", "Amazon Prime", "Netflix", "Hulu"],
     "answer": "Netflix",
     "title": "",
@@ -94,6 +105,7 @@
   { 
     "id" : "12",
     "questionIMG": "12.png",
+    "solutionIMG": "12_12.png",
     "options":["Yamaha", "YoCam", "YouTube", "Yahoo"],
     "answer": "YouTube",
     "title": "Name this video-sharing platform",
@@ -102,6 +114,7 @@
   { 
     "id" : "13",
     "questionIMG": "13.png",
+    "solutionIMG": "",
     "options":["Nestlé", "Grupo", "Ferraro Rocher", "Cadbury"],
     "answer": "Nestlé",
     "title": "",
@@ -110,6 +123,7 @@
   { 
     "id" : "14",
     "questionIMG": "14.png",
+    "solutionIMG": "14_14.png",
     "options":["Doritos", "Tostitos", "Sun Chips", "Ruffles"],
     "answer": "Doritos",
     "title": "What is this chip brand?",
@@ -118,6 +132,7 @@
   { 
     "id" : "15",
     "questionIMG": "15.png",
+    "solutionIMG": "",
     "options":["Friendsy", "Facebook", "Flickr", "Foursquare"],
     "answer": "Facebook",
     "title": "Name this social networking company",
@@ -126,6 +141,7 @@
   { 
     "id" : "16",
     "questionIMG": "16.png",
+    "solutionIMG": "16_16.png",
     "options":["Nutella", "Skippy", "Kraft", "Jif"],
     "answer": "Nutella",
     "title": "Name this hazelnut spread",
@@ -134,6 +150,7 @@
   { 
     "id" : "17",
     "questionIMG": "17.png",
+    "solutionIMG": "17_17png",
     "options":["Rockstar", "Red Bull", "Monster", "Five Hour Energy"],
     "answer": "Red Bull",
     "title": "What brand of energy drink is this?",
@@ -142,6 +159,7 @@
   { 
     "id" : "18",
     "questionIMG": "18.png",
+    "solutionIMG": "",
     "options":["Pinterest", "Houzz", "Flickr", "eBay"],
     "answer": "Pinterest",
     "title": "",
@@ -150,6 +168,7 @@
   { 
     "id" : "19",
     "questionIMG": "19.png",
+    "solutionIMG": "19_19.png",
     "options":["Harvey's", "Burger King", "Sonic", "McDonald's"],
     "answer": "Burger King",
     "title": "What fast food resturant is this?",
@@ -158,6 +177,7 @@
   { 
     "id" : "20",
     "questionIMG": "20.png",
+    "solutionIMG": "",
     "options":["D.C.", "Grim brothers", "Marvel", "Warner Brothers"],
     "answer": "Marvel",
     "title": "",
@@ -166,6 +186,7 @@
   { 
     "id" : "21",
     "questionIMG": "21.png",
+    "solutionIMG": "21_21.png",
     "options":["Excel", "Mentos", "LifeSavers", "Tic Tac"],
     "answer": "Tic Tac",
     "title": "What brand of mints are these?",
@@ -174,6 +195,7 @@
   { 
     "id" : "22",
     "questionIMG": "22.png",
+    "solutionIMG": "",
     "options":["Burger King", "Chipotle", "Panera Bread", "Taco Bell"],
     "answer": "Taco Bell",
     "title": "Name this restaurant chain",
@@ -182,6 +204,7 @@
   { 
     "id" : "23",
     "questionIMG": "23.png",
+    "solutionIMG": "",
     "options":["Olympic Games", "Fifa World Cup", "Grand Prix", "Super Bowl"],
     "answer": "Olympic Games",
     "title": "",
@@ -190,6 +213,7 @@
   { 
     "id" : "24",
     "questionIMG": "24.png",
+    "solutionIMG": "24_24.png",
     "options":["Barielle", "Barrie", "Barbie", "Bebe"],
     "answer": "Barbie",
     "title": "Name this brand",
@@ -198,6 +222,7 @@
   { 
     "id" : "25",
     "questionIMG": "25.png",
+    "solutionIMG": "",
     "options":["Twitter", "Snapchat", "LinkedIn", "Facebook"],
     "answer": "Snapchat",
     "title": "",
