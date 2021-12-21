@@ -53,7 +53,7 @@
     "questionIMG": "6.png",
     "solutionIMG": "",
     "options":["Smarties", "Skittles", "M&M's", "Rolo"],
-    "answer": "United States",
+    "answer": "M&M's",
     "title": "What is the name of this candy?",
 	"qType":"Image"
   },
