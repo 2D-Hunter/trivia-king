@@ -9,7 +9,7 @@
     "solutionIMG": "1_1.png",
     "options":["Microsoft", "Motorola", "McAfee", "Memorex"],
     "answer": "Microsoft",
-    "title": "What technology company is this?",
+    "title": "Which technology company is this?",
 	"qType":"Image"
   },
   { 
@@ -108,7 +108,7 @@
     "solutionIMG": "",
     "options":["Nintendo", "XBox", "Oculus", "PlayStation"],
     "answer": "Nintendo",
-    "title": "What gaming system is this?",
+    "title": "Which gaming system is this?",
 	"qType":"Image"
   },
   { 
