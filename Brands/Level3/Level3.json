@@ -1,0 +1,232 @@
+[
+  {
+
+
+  },
+  { 
+    "id" : "1",
+    "questionIMG": "1.png",
+    "solutionIMG": "1_1.png",
+    "options":["Microsoft", "Motorola", "McAfee", "Memorex"],
+    "answer": "Microsoft",
+    "title": "What technology company is this?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "2",
+    "questionIMG": "2.png",
+    "solutionIMG": "",
+    "options":["GoPro", "Fujifilm", "Nikon", "Kodak"],
+    "answer": "GoPro",
+    "title": "Which camera is used in sports and high action movement?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "3",
+    "questionIMG": "3.png",
+    "solutionIMG": "",
+    "options":["Toms", "Converse", "Keds", "Vans"],
+    "answer": "Converse",
+    "title": "Which company makes this type of shoe?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "4",
+    "questionIMG": "4.png",
+    "solutionIMG": "",
+    "options":["Food storage containers", "Tin foil", "Coolers and fridges", "Microwaves and stoves"],
+    "answer": "Food storage containers",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "5",
+    "questionIMG": "5.png",
+    "solutionIMG": "",
+    "options":["Lego", "K'NEX", "Polly Pocket", "MEGA BLOX"],
+    "answer": "Lego",
+    "title": "Which brand created this?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "6",
+    "questionIMG": "6.png",
+    "solutionIMG": "",
+    "options":["Reddit", "zznokis", "Android", "LG"],
+    "answer": "Android",
+    "title": "This mascot belongs to which company?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "7",
+    "questionIMG": "7.png",
+    "solutionIMG": "7_7.png",
+    "options":["Wilkinson", "Philips", "Gillette", "Schick"],
+    "answer": "Gillette",
+    "title": "Name the make of this razor",
+	"qType":"Image"
+  },
+  { 
+    "id" : "8",
+    "questionIMG": "8.png",
+    "solutionIMG": "",
+    "options":["Hershey's", "Ghiradelli", "Nestle", "Cadbury"],
+    "answer": "Cadbury",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "9",
+    "questionIMG": "9.png",
+    "solutionIMG": "",
+    "options":["USA Today", "New York Times", "The Wall Street Times", "Los Angeles Times"],
+    "answer": "New York Times",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "10",
+    "questionIMG": "10.png",
+    "solutionIMG": "10_10.png",
+    "options":["Home Hardware", "Homecrest", "The Home Depot", "HomeSense"],
+    "answer": "The Home Depot",
+    "title": "Name this home improvement retailer",
+	"qType":"Image"
+  },
+  { 
+    "id" : "11",
+    "questionIMG": "11.png",
+    "solutionIMG": "",
+    "options":["Ford", "Chrysler", "Chevrolet", "BMW"],
+    "answer": "BMW",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "12",
+    "questionIMG": "12.png",
+    "solutionIMG": "",
+    "options":["Nintendo", "XBox", "Oculus", "PlayStation"],
+    "answer": "Nintendo",
+    "title": "What gaming system is this?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "13",
+    "questionIMG": "13.png",
+    "solutionIMG": "",
+    "options":["Everlast", "Jaguar", "Puma", "Air Jordan"],
+    "answer": "Puma",
+    "title": "Which brand of shoes are these?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "14",
+    "questionIMG": "14.png",
+    "solutionIMG": "",
+    "options":["Colgate", "Coca-Cola", "Arm & Hammer", "Herbal Essences"],
+    "answer": "Colgate",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "15",
+    "questionIMG": "15.png",
+    "solutionIMG": "",
+    "options":["Macy's", "Target", "Kohl's", "Winners"],
+    "answer": "Target",
+    "title": "Which company uses puppies as their mascot?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "16",
+    "questionIMG": "16.png",
+    "solutionIMG": "",
+    "options":["Chevrolet Malibu", "Mazda 3", "Ford Mustang", "Honda Accord"],
+    "answer": "Ford Mustang",
+    "title": "What kind of car is this?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "17",
+    "questionIMG": "17.png",
+    "solutionIMG": "",
+    "options":["Speedo", "Keds", "Sperry", "Crocs"],
+    "answer": "Crocs",
+    "title": "Which shoe manufacturer produces and distributes a foam clog?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "18",
+    "questionIMG": "18.png",
+    "solutionIMG": "",
+    "options":["Twitter", "Skype", "Facebook Messenger", "SoundCloud"],
+    "answer": "Skype",
+    "title": "This application was popular in 2010",
+	"qType":"Image"
+  },
+  { 
+    "id" : "19",
+    "questionIMG": "19.png",
+    "solutionIMG": "",
+    "options":["Monopoly", "Sorry", "Life", "Trouble"],
+    "answer": "Monopoly",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "20",
+    "questionIMG": "20.png",
+    "solutionIMG": "",
+    "options":["Buick", "Lincoln", "Chrysler", "GMC"],
+    "answer": "GMC",
+    "title": "Name the make of this truck",
+	"qType":"Image"
+  },
+  { 
+    "id" : "21",
+    "questionIMG": "21.png",
+    "solutionIMG": "21_21.png",
+    "options":["NBA", "MLB", "NLF", "NFL"],
+    "answer": "NFL",
+    "title": "Name this American  Football League",
+	"qType":"Image"
+  },
+  { 
+    "id" : "22",
+    "questionIMG": "22.png",
+    "solutionIMG": "",
+    "options":["Snapchat", "Yellow Snap", "Photo Booth", "Snapgram"],
+    "answer": "Snapchat",
+    "title": "This app allows users to 'snap' photos",
+	"qType":"Image"
+  },
+  { 
+    "id" : "23",
+    "questionIMG": "23.png",
+    "solutionIMG": "",
+    "options":["Nintendo Wii", "Sega Genesis", "Xbox", "GamCube"],
+    "answer": "Xbox",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "24",
+    "questionIMG": "24.png",
+    "solutionIMG": "24_24.png",
+    "options":["MSN", "CNN", "Avon", "Revlon"],
+    "answer": "MSN",
+    "title": "Which brand does this logo belong too?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "25",
+    "questionIMG": "25.png",
+    "solutionIMG": "",
+    "options":["Air Wick", "Febreeze", "Glade", "Lysol"],
+    "answer": "Air Wick",
+    "title": "",
+	"qType":"Text"
+  }
+
+]
