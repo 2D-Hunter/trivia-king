@@ -1,0 +1,232 @@
+[
+  {
+
+
+  },
+  { 
+    "id" : "1",
+    "questionIMG": "1.png",
+    "solutionIMG": "",
+    "options":["NBC", "CBC", "FOX", "ABC"],
+    "answer": "NBC",
+    "title": "Which TV station is this?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "2",
+    "questionIMG": "2.png",
+    "solutionIMG": "",
+    "options":["Starbucks", "Dunkin donuts", "McCafe", "Tim Hortons"],
+    "answer": "Tim Hortons",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "3",
+    "questionIMG": "3.png",
+    "solutionIMG": "",
+    "options":["MAC", "AAA", "GAP", "SAP"],
+    "answer": "GAP",
+    "title": "Name this clothing apparel store",
+	"qType":"Image"
+  },
+  { 
+    "id" : "4",
+    "questionIMG": "4.png",
+    "solutionIMG": "",
+    "options":["Expo", "Crayola", "Pacon", "Sharpie"],
+    "answer": "Crayola",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "5",
+    "questionIMG": "5.png",
+    "solutionIMG": "5_5.png",
+    "options":["Pepsi", "MUG", "Dr. Pepper", "Coca-Cola"],
+    "answer": "Dr. Pepper",
+    "title": "Name this type of soda",
+	"qType":"Image"
+  },
+  { 
+    "id" : "6",
+    "questionIMG": "6.png",
+    "solutionIMG": "6_6.png",
+    "options":["NEC", "Dell", "Bell", "Xerox"],
+    "answer": "Dell",
+    "title": "Name this computer company brand",
+	"qType":"Image"
+  },
+  { 
+    "id" : "7",
+    "questionIMG": "7.png",
+    "solutionIMG": "",
+    "options":["Tizen", "Windows 10 Mobile", "iOS", "Android"],
+    "answer": "Android",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "8",
+    "questionIMG": "8.png",
+    "solutionIMG": "",
+    "options":["Renault", "Mitsubishi", "Cadillac", "Land Rover"],
+    "answer": "Mitsubishi",
+    "title": "Which car company is this?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "9",
+    "questionIMG": "9.png",
+    "solutionIMG": "9_9.png",
+    "options":["LaCoste", "Crocs", "Nautica", "Billabong"],
+    "answer": "LaCoste",
+    "title": "What is the name of this brand?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "10",
+    "questionIMG": "10.png",
+    "solutionIMG": "10_10.png",
+    "options":["1978", "1994", "2010", "2013"],
+    "answer": "1994",
+    "title": "Which year was Amazon founded in?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "11",
+    "questionIMG": "11.png",
+    "solutionIMG": "",
+    "options":["M&M's", "Smarties", "Skittles", "Reese's Pieces"],
+    "answer": "M&M's",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "12",
+    "questionIMG": "12.png",
+    "solutionIMG": "12_12.png",
+    "options":["Burberry", "Birkenstock", "Blackberry", "Beanie Babies"],
+    "answer": "Blackberry",
+    "title": "Name this software company?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "13",
+    "questionIMG": "13.png",
+    "solutionIMG": "13_13.png",
+    "options":["Under Armour", "Reebok", "ASICS", "DC Shoes"],
+    "answer": "DC Shoes",
+    "title": "Which company made these shoes?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "14",
+    "questionIMG": "14.png",
+    "solutionIMG": "",
+    "options":["Tidal", "SoundCloud", "Spotify", "iTunes"],
+    "answer": "SoundCloud",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "15",
+    "questionIMG": "15.png",
+    "solutionIMG": "15_15.png",
+    "options":["Air Wick", "Lysol", "Glade", "Febreeze"],
+    "answer": "Air Wick",
+    "title": "What is the name of this brand?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "16",
+    "questionIMG": "16.png",
+    "solutionIMG": "16_16.png",
+    "options":["Xbox", "Playstation", "Atari", "Nintendo"],
+    "answer": "Playstation",
+    "title": "The Sony company also creates gaming consoles such as",
+	"qType":"Image"
+  },
+  { 
+    "id" : "17",
+    "questionIMG": "17.png",
+    "solutionIMG": "",
+    "options":["Audi", "Lamborghini", "Chevrolet", "Porsche"],
+    "answer": "Lamborghini",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "18",
+    "questionIMG": "18.png",
+    "solutionIMG": "18_18.png",
+    "options":["Green Giant", "General Motors", "Goodyear", "General Electric"],
+    "answer": "Goodyear",
+    "title": "Name this manufacturing company",
+	"qType":"Image"
+  },
+  { 
+    "id" : "19",
+    "questionIMG": "19.png",
+    "solutionIMG": "19_19.png",
+    "options":["Pine-sol", "Lysol", "Clorox", "Fabuloso"],
+    "answer": "Clorox",
+    "title": "What kind of bleach is this?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "20",
+    "questionIMG": "20.png",
+    "solutionIMG": "",
+    "options":["Kool-Aid", "Pepsi", "Gatorade", "Minute Maid"],
+    "answer": "Minute Maid",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "21",
+    "questionIMG": "21.png",
+    "solutionIMG": "",
+    "options":["Fox Racing", "Brammo", "Harley-Davidson", "Swift Racing"],
+    "answer": "Fox Racing",
+    "title": "Name this racing brand",
+	"qType":"Image"
+  },
+  { 
+    "id" : "22",
+    "questionIMG": "22.png",
+    "solutionIMG": "",
+    "options":["American Eagle", "American Express", "American Airlines", "Bank Of America"],
+    "answer": "American Eagle",
+    "title": "Name this clothing apparel store",
+	"qType":"Image"
+  },
+  { 
+    "id" : "23",
+    "questionIMG": "23.png",
+    "solutionIMG": "",
+    "options":["World Wildlife Fund", "Wild World Freedom", "World Wild & Free", "Willing World Freedom"],
+    "answer": "World Wildlife Fund",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "24",
+    "questionIMG": "24.png",
+    "solutionIMG": "",
+    "options":["Ferrari", "Mazerati", "Lincoln", "Aston Martin"],
+    "answer": "Ferrari",
+    "title": "Which company does this car belong too?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "25",
+    "questionIMG": "25.png",
+    "solutionIMG": "",
+    "options":["Schweppes", "Brisk", "Vernors", "Sprint"],
+    "answer": "Schweppes",
+    "title": "",
+	"qType":"Text"
+  }
+
+]
