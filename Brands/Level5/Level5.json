@@ -24,7 +24,7 @@
   { 
     "id" : "3",
     "questionIMG": "3.png",
-    "solutionIMG": "",
+    "solutionIMG": "3_3.png",
     "options":["MAC", "AAA", "GAP", "SAP"],
     "answer": "GAP",
     "title": "Name this clothing apparel store",
