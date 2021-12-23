@@ -1,0 +1,232 @@
+[
+  {
+
+
+  },
+  { 
+    "id" : "1",
+    "questionIMG": "1.png",
+    "solutionIMG": "",
+    "options":["Lamborghini", "Land Rover", "Lincoln", "Lexus"],
+    "answer": "Lexus",
+    "title": "Which company does this car belong too?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "2",
+    "questionIMG": "2.png",
+    "solutionIMG": "2_2.png",
+    "options":["Motorola", "Nokia", "LG", "Samsung"],
+    "answer": "Samsung",
+    "title": "Which company does this phone belong to?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "3",
+    "questionIMG": "3.png",
+    "solutionIMG": "",
+    "options":["Scooters", "alcohol", "chicken", "baby food"],
+    "answer": "baby food",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "4",
+    "questionIMG": "4.png",
+    "solutionIMG": "",
+    "options":["Axe", "Old Spice", "Redken", "Tom Ford"],
+    "answer": "Axe",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "5",
+    "questionIMG": "5.png",
+    "solutionIMG": "",
+    "options":["xBox 1", "Atari", "ps4", "Wii"],
+    "answer": "Atari",
+    "title": "Which gaming system is this?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "6",
+    "questionIMG": "6.png",
+    "solutionIMG": "",
+    "options":["Yogi Bear", "Mario", "Hello Kitty", "Betty Boop"],
+    "answer": "Hello Kitty",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "7",
+    "questionIMG": "7.png",
+    "solutionIMG": "7_7.png",
+    "options":["Blue Light", "Busch", "Budweiser", "Beck's"],
+    "answer": "Budweiser",
+    "title": "What is the name of this beer?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "8",
+    "questionIMG": "8.png",
+    "solutionIMG": "",
+    "options":["NBC", "CTV", "HBO", "FOX"],
+    "answer": "HBO",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "9",
+    "questionIMG": "9.png",
+    "solutionIMG": "9_9.png",
+    "options":["Olympus", "Fujifilm", "Canon", "Nikon"],
+    "answer": "Nikon",
+    "title": "Which company created this camera?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "10",
+    "questionIMG": "10.png",
+    "solutionIMG": "10_10.png",
+    "options":["Ruffles", "Lay's", "Pringles", "Cheetos"],
+    "answer": "Pringles",
+    "title": "What chip is this?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "11",
+    "questionIMG": "11.png",
+    "solutionIMG": "",
+    "options":["Fossil", "Chanel", "Gucci", "Dior"],
+    "answer": "Gucci",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "12",
+    "questionIMG": "12.png",
+    "solutionIMG": "",
+    "options":["Aston Martin", "Infiniti", "Lincoln", "Bentley"],
+    "answer": "Bentley",
+    "title": "What is this luxury car brand?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "13",
+    "questionIMG": "13.png",
+    "solutionIMG": "",
+    "options":["Dove", "Twitter", "Snapchat", "Skype"],
+    "answer": "Twitter",
+    "title": "What is the name of this social networking service?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "14",
+    "questionIMG": "14.png",
+    "solutionIMG": "",
+    "options":["Coffee Crisp", "Snickers", "Twix", "Kit Kat"],
+    "answer": "Kit Kat",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "15",
+    "questionIMG": "15.png",
+    "solutionIMG": "",
+    "options":["Asus", "McAfee", "Alienware", "Adobe"],
+    "answer": "Adobe",
+    "title": "Which software uses this logo?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "16",
+    "questionIMG": "16.png",
+    "solutionIMG": "16_16.png",
+    "options":["Fresca", "Mirinda", "Coca-Cola", "Fanta"],
+    "answer": "Fanta",
+    "title": "What is this brand?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "17",
+    "questionIMG": "17.png",
+    "solutionIMG": "",
+    "options":["Veet", "Aveeno", "Tresemme", "Olay"],
+    "answer": "Veet",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "18",
+    "questionIMG": "18.png",
+    "solutionIMG": "",
+    "options":["Songza", "iTunes", "Spotify", "Google Play Music"],
+    "answer": "iTunes",
+    "title": "Name this media player owned by Apple",
+	"qType":"Image"
+  },
+  { 
+    "id" : "19",
+    "questionIMG": "19.png",
+    "solutionIMG": "19_19.png",
+    "options":["Pampers", "Babies R US", "Huggies", "Luvs"],
+    "answer": "Pampers",
+    "title": "Name this diaper company",
+	"qType":"Image"
+  },
+  { 
+    "id" : "20",
+    "questionIMG": "20.png",
+    "solutionIMG": "",
+    "options":["Charmin", "Cottonelle", "Puffs", "Kleenex"],
+    "answer": "Kleenex",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "21",
+    "questionIMG": "21.png",
+    "solutionIMG": "21_21.png",
+    "options":["Nivea", "AVA", "Activia", "Avia"],
+    "answer": "Nivea",
+    "title": "This brand specializes in body-care",
+	"qType":"Image"
+  },
+  { 
+    "id" : "22",
+    "questionIMG": "22.png",
+    "solutionIMG": "",
+    "options":["Internet Explorer", "Etsy", "eBay", "Expedia"],
+    "answer": "Internet Explorer",
+    "title": "This web browser was developed by Microsoft",
+	"qType":"Image"
+  },
+  { 
+    "id" : "23",
+    "questionIMG": "23.png",
+    "solutionIMG": "",
+    "options":["Hunter", "SoftMoc", "Ugg", "Clarks"],
+    "answer": "Ugg",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "24",
+    "questionIMG": "24.png",
+    "solutionIMG": "24_24.png",
+    "options":["Sprint", "Virgin Mobile", "Telus", "AT&T"],
+    "answer": "AT&T",
+    "title": "This phone company was founded in the United States",
+	"qType":"Image"
+  },
+  { 
+    "id" : "25",
+    "questionIMG": "25.png",
+    "solutionIMG": "",
+    "options":["Soundcloud", "Tumblr", "Tinder", "Spotify"],
+    "answer": "Soundcloud",
+    "title": "",
+	"qType":"Text"
+  }
+
+]
