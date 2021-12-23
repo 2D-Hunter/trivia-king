@@ -1,0 +1,232 @@
+[
+  {
+
+
+  },
+  { 
+    "id" : "1",
+    "questionIMG": "1.png",
+    "solutionIMG": "",
+    "options":["Yellow Pages", "Youtube", "Yahoo!", "Yelp"],
+    "answer": "Yahoo!",
+    "title": "What is this logo?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "2",
+    "questionIMG": "2.png",
+    "solutionIMG": "",
+    "options":["Smirnoff", "Bombay Saphire", "Crown Royal", "White rum"],
+    "answer": "White rum",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "3",
+    "questionIMG": "3.png",
+    "solutionIMG": "3_3.png",
+    "options":["Chef Boyardee", "Contadina", "Campbell's", "Chilli's"],
+    "answer": "Campbell's",
+    "title": "What is this brand?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "4",
+    "questionIMG": "4.png",
+    "solutionIMG": "",
+    "options":["Ikea", "Century", "La-Z-Boy", "Wayfair"],
+    "answer": "Ikea",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "5",
+    "questionIMG": "5.png",
+    "solutionIMG": "",
+    "options":["Mercedes", "Buick", "Audi", "Cadillac"],
+    "answer": "Cadillac",
+    "title": "Which company does this car come from?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "6",
+    "questionIMG": "6.png",
+    "solutionIMG": "",
+    "options":["Google Maps", "MapQuest", "OpenStreetMap", "Yahoo Maps"],
+    "answer": "Google Maps",
+    "title": "What is the name of this application?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "7",
+    "questionIMG": "7.png",
+    "solutionIMG": "7_7.png",
+    "options":["CBC", "CBS", "CTV", "CNN"],
+    "answer": "CNN",
+    "title": "What is this logo?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "8",
+    "questionIMG": "8.png",
+    "solutionIMG": "",
+    "options":["Purolator", "FedEx", "UPS", "On Trac"],
+    "answer": "FedEx",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "9",
+    "questionIMG": "9.png",
+    "solutionIMG": "",
+    "options":["Asus", "Dell", "Toshiba", "Windows"],
+    "answer": "Windows",
+    "title": "What is this?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "10",
+    "questionIMG": "10.png",
+    "solutionIMG": "10_10.png",
+    "options":["New Balance", "Nature's Best", "NorthBound Leather", "National Bank of Canada"],
+    "answer": "New Balance",
+    "title": "What is this brand?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "11",
+    "questionIMG": "11.png",
+    "solutionIMG": "",
+    "options":["Visa", "MasterCard", "Chase", "American Express"],
+    "answer": "MasterCard",
+    "title": "What is this brand?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "12",
+    "questionIMG": "12.png",
+    "solutionIMG": "12_12.png",
+    "options":["Hot Wheels", "Nerf", "Hasbro", "Lego"],
+    "answer": "Hot Wheels",
+    "title": "What is the name of this brand?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "13",
+    "questionIMG": "13.png",
+    "solutionIMG": "",
+    "options":["Dove", "Twitter", "Swarovski", "Blue Bird"],
+    "answer": "Dove",
+    "title": "What is this brand?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "14",
+    "questionIMG": "14.png",
+    "solutionIMG": "",
+    "options":["Coke zero", "Vanilla", "Cherry", "Mello Yellow"],
+    "answer": "Mello Yellow",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "15",
+    "questionIMG": "15.png",
+    "solutionIMG": "",
+    "options":["Honda", "Dodge", "GM", "Ford"],
+    "answer": "Dodge",
+    "title": "Which company does the interior of this car belong to?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "16",
+    "questionIMG": "16.png",
+    "solutionIMG": "",
+    "options":["Payless Shoe Source", "Pine-Sol", "Photoshop", "Perfect Solutions"],
+    "answer": "Photoshop",
+    "title": "What does this logo stand for?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "17",
+    "questionIMG": "17.png",
+    "solutionIMG": "",
+    "options":["Cheerios", "Froot Loops", "Corn Pops", "Frosted Flakes"],
+    "answer": "Cheerios",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "18",
+    "questionIMG": "18.png",
+    "solutionIMG": "",
+    "options":["Guess", "Estee Lauder", "Juicy Couture", "Coach"],
+    "answer": "Juicy Couture",
+    "title": "Which fragrance brand is this?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "19",
+    "questionIMG": "19.png",
+    "solutionIMG": "19_19.png",
+    "options":["Burger King", "Harvey's", "A&W", "Five Guys"],
+    "answer": "Harvey's",
+    "title": "Which Canadian fast food restaurant is this?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "20",
+    "questionIMG": "20.png",
+    "solutionIMG": "",
+    "options":["Intel", "Dell", "Nvidia", "Asus"],
+    "answer": "Intel",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "21",
+    "questionIMG": "21.png",
+    "solutionIMG": "21_21.png",
+    "options":["Hampton Inn", "Hilton Garden Inn", "Holiday Inn", "Howard Johnson's"],
+    "answer": "Holiday Inn",
+    "title": "What is this?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "22",
+    "questionIMG": "22.png",
+    "solutionIMG": "22_22.png",
+    "options":["J.P. Wiser's", "Canadian Club", "Crown Royal", "Jack Daniel's"],
+    "answer": "Jack Daniel's",
+    "title": "What is the name of this?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "23",
+    "questionIMG": "23.png",
+    "solutionIMG": "",
+    "options":["Johnson & Johnson", "Gerber", "Procter & Gamble", "American Baby Corporation"],
+    "answer": "Johnson & Johnson",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "24",
+    "questionIMG": "24.png",
+    "solutionIMG": "",
+    "options":["Yamaha", "Harley-Davidson", "Suzuki", "Kawasaki"],
+    "answer": "Harley-Davidson",
+    "title": "What is this brand?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "25",
+    "questionIMG": "25.png",
+    "solutionIMG": "",
+    "options":["Tostitos", "Miss Vickies", "Lay's", "Ruffles"],
+    "answer": "Lay's",
+    "title": "",
+	"qType":"Text"
+  }
+
+]
