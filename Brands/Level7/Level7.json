@@ -1,0 +1,232 @@
+[
+  {
+
+
+  },
+  { 
+    "id" : "1",
+    "questionIMG": "1.png",
+    "solutionIMG": "1_1.png",
+    "options":["Accelerade", "Lucozade Sport", "Gatorade!", "Powerade"],
+    "answer": "Powerade",
+    "title": "What is this?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "2",
+    "questionIMG": "2.png",
+    "solutionIMG": "",
+    "options":["Sculpey", "Preemo", "Play-Doh", "Flarp"],
+    "answer": "Play-Doh",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "3",
+    "questionIMG": "3.png",
+    "solutionIMG": "",
+    "options":["Under Armour", "Nike", "Lululemon", "Reebok"],
+    "answer": "Under Armour",
+    "title": "Which brand of shoes are these?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "4",
+    "questionIMG": "4.png",
+    "solutionIMG": "",
+    "options":["Chobani", "Neilson", "Yoplait", "Danone"],
+    "answer": "Danone",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "5",
+    "questionIMG": "5.png",
+    "solutionIMG": "5_5.png",
+    "options":["Diesel", "Dirt Devil", "DayQuill", "Duracell"],
+    "answer": "Duracell",
+    "title": "Which battery company does this logo belong to?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "6",
+    "questionIMG": "6.png",
+    "solutionIMG": "",
+    "options":["Audi", "Jaguar", "Citroen", "Lexus"],
+    "answer": "Jaguar",
+    "title": "What is this car?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "7",
+    "questionIMG": "7.png",
+    "solutionIMG": "7_7.png",
+    "options":["Grey Goose", "Smirnoff", "Absolut", "Polar Ice"],
+    "answer": "Absolut",
+    "title": "Which logo does this belong too?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "8",
+    "questionIMG": "8.png",
+    "solutionIMG": "",
+    "options":["indestructible", "breakable", "unsuitable", "made of glass"],
+    "answer": "indestructible",
+    "title": "Nokia phones are known to be...",
+	"qType":"Image"
+  },
+  { 
+    "id" : "9",
+    "questionIMG": "9.png",
+    "solutionIMG": "",
+    "options":["HSBC", "Scotiabank", "RBC", "CIBC"],
+    "answer": "HSBC",
+    "title": "What is this logo?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "10",
+    "questionIMG": "10.png",
+    "solutionIMG": "",
+    "options":["Pioneer", "BP", "Shell", "Petro"],
+    "answer": "Shell",
+    "title": "What is this company?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "11",
+    "questionIMG": "11.png",
+    "solutionIMG": "",
+    "options":["Flickr", "Facebook", "Tumblr", "Wikipedia"],
+    "answer": "Tumblr",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "12",
+    "questionIMG": "12.png",
+    "solutionIMG": "12_12.png",
+    "options":["PlayStation", "Wii", "Oculus", "Xbox"],
+    "answer": "Wii",
+    "title": "What does this belong too?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "13",
+    "questionIMG": "13.png",
+    "solutionIMG": "13_13.png",
+    "options":["Brisk", "AriZona", "Lipton", "Nestea"],
+    "answer": "Lipton",
+    "title": "What is this brand?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "14",
+    "questionIMG": "14.png",
+    "solutionIMG": "",
+    "options":["Ikea", "H&M", "Bath & Body Works", "Sephora"],
+    "answer": "Sephora",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "15",
+    "questionIMG": "15.png",
+    "solutionIMG": "",
+    "options":["Mini Cooper", "Kia", "Mazda", "Volkswagen"],
+    "answer": "Volkswagen",
+    "title": "Which company does this car belong too?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "16",
+    "questionIMG": "16.png",
+    "solutionIMG": "16_16.png",
+    "options":["Jelly Belly", "Wonka", "Haribo", "Hershey's"],
+    "answer": "Wonka",
+    "title": "What is this brand?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "17",
+    "questionIMG": "17.png",
+    "solutionIMG": "",
+    "options":["Sunkist", "Allen's", "Ocean Spray", "Dole"],
+    "answer": "Dole",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "18",
+    "questionIMG": "18.png",
+    "solutionIMG": "18_18.png",
+    "options":["Levi's", "Luis Vuitton", "Lowe's", "Liz Claiborne"],
+    "answer": "Levi's",
+    "title": "Which store is this?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "19",
+    "questionIMG": "19.png",
+    "solutionIMG": "19_19.png",
+    "options":["Del monte", "DirectTV", "Discovery Channel", "Delta Air Lines"],
+    "answer": "DirectTV",
+    "title": "Which satellite company is this?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "20",
+    "questionIMG": "20.png",
+    "solutionIMG": "",
+    "options":["Toms", "Vans", "Supra", "Keds"],
+    "answer": "Vans",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "21",
+    "questionIMG": "21.png",
+    "solutionIMG": "21_21.png",
+    "options":["Philips", "Artline", "Staples", "Dahle"],
+    "answer": "Staples",
+    "title": "Which logo is this?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "22",
+    "questionIMG": "22.png",
+    "solutionIMG": "22_22.png",
+    "options":["Simply Orange", "Florida's Natural", "Tropicana", "Minute Maid"],
+    "answer": "Tropicana",
+    "title": "What is the name of this brand?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "23",
+    "questionIMG": "23.png",
+    "solutionIMG": "",
+    "options":["LG", "Google", "Sony", "Apple"],
+    "answer": "Apple",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "24",
+    "questionIMG": "24.png",
+    "solutionIMG": "24_24.png",
+    "options":["Argo", "Fleischmann's", "Arm & Hammer", "Davis"],
+    "answer": "Arm & Hammer",
+    "title": "What is this brand?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "25",
+    "questionIMG": "25.png",
+    "solutionIMG": "",
+    "options":["Playboy", "Penthouse", "Maxim", "Sports Illustrated"],
+    "answer": "Playboy",
+    "title": "",
+	"qType":"Text"
+  }
+
+]
