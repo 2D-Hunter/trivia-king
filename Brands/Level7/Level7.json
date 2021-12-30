@@ -132,7 +132,7 @@
   { 
     "id" : "15",
     "questionIMG": "15.png",
-    "solutionIMG": "",
+    "solutionIMG": "15_15.png",
     "options":["Mini Cooper", "Kia", "Mazda", "Volkswagen"],
     "answer": "Volkswagen",
     "title": "Which company does this car belong too?",
