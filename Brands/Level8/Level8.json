@@ -1,0 +1,232 @@
+[
+  {
+
+
+  },
+  { 
+    "id" : "1",
+    "questionIMG": "1.png",
+    "solutionIMG": "1_1.png",
+    "options":["Astro Pop", "Charms Blow Pops", "Tootsie Pop", "Chupa Chups"],
+    "answer": "Chupa Chups",
+    "title": "Name this candy",
+	"qType":"Image"
+  },
+  { 
+    "id" : "2",
+    "questionIMG": "2.png",
+    "solutionIMG": "",
+    "options":["Hotmail", "AOL", "Outlook", "Gmail"],
+    "answer": "Gmail",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "3",
+    "questionIMG": "3.png",
+    "solutionIMG": "",
+    "options":["Ferrari", "Land Rover", "Mercedes", "Kia"],
+    "answer": "Land Rover",
+    "title": "Which car is this?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "4",
+    "questionIMG": "4.png",
+    "solutionIMG": "4_4.png",
+    "options":["Sunlight", "Persil", "Gain", "Woolite"],
+    "answer": "Gain",
+    "title": "What is the missing logo?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "5",
+    "questionIMG": "5.png",
+    "solutionIMG": "5_5.png",
+    "options":["Bath & Body Works", "The Body Shop", "Lubriderm", "Lush"],
+    "answer": "Bath & Body Works",
+    "title": "What is this brand?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "6",
+    "questionIMG": "6.png",
+    "solutionIMG": "6_6.png",
+    "options":["Telus", "koodo", "TiVo", "Virgin mobile"],
+    "answer": "Telus",
+    "title": "Which mobile store is this?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "7",
+    "questionIMG": "7.png",
+    "solutionIMG": "",
+    "options":["tumblr", "LinkedIn", "Glassdoor", "facebook"],
+    "answer": "LinkedIn",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "8",
+    "questionIMG": "8.png",
+    "solutionIMG": "8_8.png",
+    "options":["Metro-Goldwyn-Mayer", "Warner Bros.", "20th Century Fox", "Paramount"],
+    "answer": "Paramount",
+    "title": "What is this brand?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "9",
+    "questionIMG": "9.png",
+    "solutionIMG": "",
+    "options":["Disney Channel", "Nickelodeon", "MuchMusic", "MTV"],
+    "answer": "MTV",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "10",
+    "questionIMG": "10.png",
+    "solutionIMG": "10_10.png",
+    "options":["Maxwell House", "Green Mountain", "Eight O'Clock", "Folgers"],
+    "answer": "Folgers",
+    "title": "What is this brand?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "11",
+    "questionIMG": "11.png",
+    "solutionIMG": "",
+    "options":["Quiksilver", "Rip Curl", "Billabong", "Hurley"],
+    "answer": "Billabong",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "12",
+    "questionIMG": "12.png",
+    "solutionIMG": "",
+    "options":["Youtube", "Google Play Store", "Apple Store", "Prisma"],
+    "answer": "Google Play Store",
+    "title": "What does this belong too?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "13",
+    "questionIMG": "13.png",
+    "solutionIMG": "13_13.png",
+    "options":["Walmart", "Kmart", "Toys R Us", "Marshalls"],
+    "answer": "Toys R Us",
+    "title": "Which store is this?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "14",
+    "questionIMG": "14.png",
+    "solutionIMG": "",
+    "options":["Sonic", "Wendy's", "Arby's", "A&W"],
+    "answer": "A&W",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "15",
+    "questionIMG": "15.png",
+    "solutionIMG": "15_15.png",
+    "options":["Nikon", "Olympus", "Leica", "Canon"],
+    "answer": "Canon",
+    "title": "Which company does this camera belong too?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "16",
+    "questionIMG": "16.png",
+    "solutionIMG": "",
+    "options":["Hurley", "Element", "Supreme", "Volcom"],
+    "answer": "Volcom",
+    "title": "What is this brand?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "17",
+    "questionIMG": "17.png",
+    "solutionIMG": "",
+    "options":["Chewy", "Nature Valley", "complements", "KIND"],
+    "answer": "Nature Valley",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "18",
+    "questionIMG": "18.png",
+    "solutionIMG": "18_18.png",
+    "options":["Shoppers Drug Mart", "Publix", "CVS", "Costco"],
+    "answer": "CVS",
+    "title": "Which store is this?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "19",
+    "questionIMG": "19.png",
+    "solutionIMG": "",
+    "options":["Skype", "BBM", "WhatsApp", "Facebook Messenger"],
+    "answer": "BBM",
+    "title": "What is this application?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "20",
+    "questionIMG": "20.png",
+    "solutionIMG": "",
+    "options":["Stella Artois", "Heineken", "Beck's", "Corona Extra"],
+    "answer": "Heineken",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "21",
+    "questionIMG": "21.png",
+    "solutionIMG": "21_21.png",
+    "options":["Naturalizer", "The North Face", "Nautica", "Nordstrom"],
+    "answer": "Nordstrom",
+    "title": "Which store is this?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "22",
+    "questionIMG": "22.png",
+    "solutionIMG": "22_22.png",
+    "options":["Mini Cooper", "Audi", "Smart Car", "Kia"],
+    "answer": "Kia",
+    "title": "Which company of car is this?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "23",
+    "questionIMG": "23.png",
+    "solutionIMG": "",
+    "options":["Kirkland", "Street wear society", "Great Value", "Sensations"],
+    "answer": "Great Value",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "24",
+    "questionIMG": "24.png",
+    "solutionIMG": "24_24.png",
+    "options":["Atari", "PlayStation", "Wii", "GameCube"],
+    "answer": "GameCube",
+    "title": "Which game system is this?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "25",
+    "questionIMG": "25.png",
+    "solutionIMG": "",
+    "options":["Toblerone", "Milka", "Lindt", "Merci"],
+    "answer": "Milka",
+    "title": "",
+	"qType":"Text"
+  }
+
+]
