@@ -1,0 +1,232 @@
+[
+  {
+
+
+  },
+  { 
+    "id" : "1",
+    "questionIMG": "1.png",
+    "solutionIMG": "1_1.png",
+    "options":["Guinness", "Heineken", "Budweiser", "Carlsberg"],
+    "answer": "Guinness",
+    "title": "What is the name of this famous beer?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "2",
+    "questionIMG": "2.png",
+    "solutionIMG": "",
+    "options":["Burt's Bees", "Lush", "EOS", "Physicians Formula"],
+    "answer": "Burt's Bees",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "3",
+    "questionIMG": "3.png",
+    "solutionIMG": "3_3.png",
+    "options":["BCBG", "AC/DC", "DC Shoes", "JC Penny"],
+    "answer": "AC/DC",
+    "title": "What is the name of this brand?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "4",
+    "questionIMG": "4.png",
+    "solutionIMG": "",
+    "options":["Breyer's", "Klondike", "Avalanche", "Chapman's"],
+    "answer": "Klondike",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "5",
+    "questionIMG": "5.png",
+    "solutionIMG": "",
+    "options":["Under Armour", "Puma", "Shaq", "Air Jordan"],
+    "answer": "Air Jordan",
+    "title": "What type of shoes are these?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "6",
+    "questionIMG": "6.png",
+    "solutionIMG": "",
+    "options":["Jelly Belly", "Wonka", "Skittles", "Haribo"],
+    "answer": "Jelly Belly",
+    "title": "Name this candy",
+	"qType":"Image"
+  },
+  { 
+    "id" : "7",
+    "questionIMG": "7.png",
+    "solutionIMG": "",
+    "options":["Farkle", "Boogle", "Risk", "Yahtzee"],
+    "answer": "Yahtzee",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "8",
+    "questionIMG": "8.png",
+    "solutionIMG": "8_8.png",
+    "options":["Green Giant", "Gatorade", "Garnier", "Guinness"],
+    "answer": "Gatorade",
+    "title": "What is this logo?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "9",
+    "questionIMG": "9.png",
+    "solutionIMG": "",
+    "options":["Colgate", "Aquafresh", "Crest", "Sensodyne"],
+    "answer": "Aquafresh",
+    "title": "Which toothpaste brand is this?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "10",
+    "questionIMG": "10.png",
+    "solutionIMG": "10_10.png",
+    "options":["Mahindra", "Kubota", "New Holland", "John Deere"],
+    "answer": "John Deere",
+    "title": "What is the make of this vehicle?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "11",
+    "questionIMG": "11.png",
+    "solutionIMG": "",
+    "options":["Eclipse", "Spry", "Orbit", "Trident"],
+    "answer": "Trident",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "12",
+    "questionIMG": "12.png",
+    "solutionIMG": "12_12.png",
+    "options":["Almay", "Olay", "Always", "Downy"],
+    "answer": "Olay",
+    "title": "What is this brand?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "13",
+    "questionIMG": "13.png",
+    "solutionIMG": "",
+    "options":["Bulwark", "Timberland", "Ugg", "Wolverine"],
+    "answer": "Timberland",
+    "title": "Which brand of shoe is this?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "14",
+    "questionIMG": "14.png",
+    "solutionIMG": "",
+    "options":["Cake", "Muffins", "Coffee", "Chocolate"],
+    "answer": "Chocolate",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "15",
+    "questionIMG": "15.png",
+    "solutionIMG": "15_15.png",
+    "options":["Braven", "BF Goodrich", "Barum", "Bridgestone"],
+    "answer": "Bridgestone",
+    "title": "What is the brand name of this tire?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "16",
+    "questionIMG": "16.png",
+    "solutionIMG": "16_16.png",
+    "options":["Sun Trust Banks", "Capital One", "Fifth Third Bank", "Chase"],
+    "answer": "Chase",
+    "title": "What is the name of this store?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "17",
+    "questionIMG": "17.png",
+    "solutionIMG": "",
+    "options":["Cineplex", "HMV", "EB Games", "Best Buy"],
+    "answer": "HMV",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "18",
+    "questionIMG": "18.png",
+    "solutionIMG": "18_18.png",
+    "options":["Charter", "Cox", "Cisco", "Comcast"],
+    "answer": "Cisco",
+    "title": "What is the name of this network?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "19",
+    "questionIMG": "19.png",
+    "solutionIMG": "19_19.png",
+    "options":["Smirnoff", "Grey Goose", "Absolut", "Bacardi"],
+    "answer": "Smirnoff",
+    "title": "What is the name of this liquor?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "20",
+    "questionIMG": "20.png",
+    "solutionIMG": "",
+    "options":["AllState", "Nationwide", "Progressive", "Liberty mutual"],
+    "answer": "Progressive",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "21",
+    "questionIMG": "21.png",
+    "solutionIMG": "21_21.png",
+    "options":["Rawlings", "Radisson", "Ralph Lauren", "Ray Ban"],
+    "answer": "Ray Ban",
+    "title": "What is this logo?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "22",
+    "questionIMG": "22.png",
+    "solutionIMG": "22_22.png",
+    "options":["Blue Sunoco", "Esso", "Valero", "Petro"],
+    "answer": "Esso",
+    "title": "Which store is this?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "23",
+    "questionIMG": "23.png",
+    "solutionIMG": "",
+    "options":["Forever 21", "Pacsun", "Columbia", "American Eagle"],
+    "answer": "Columbia",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "24",
+    "questionIMG": "24.png",
+    "solutionIMG": "",
+    "options":["Mazda", "Hyundai", "Volvo", "Tesla"],
+    "answer": "Volvo",
+    "title": "What is the name of this car?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "25",
+    "questionIMG": "25.png",
+    "solutionIMG": "",
+    "options":["HP", "Dell", "Toshiba", "Asus"],
+    "answer": "Asus",
+    "title": "",
+	"qType":"Text"
+  }
+
+]
