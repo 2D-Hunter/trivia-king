@@ -1,0 +1,232 @@
+[
+  {
+
+
+  },
+  { 
+    "id" : "1",
+    "questionIMG": "1.png",
+    "solutionIMG": "1_1.png",
+    "options":["Frito Lay", "Ben-Gay", "Old Navy", "Almond Joy"],
+    "answer": "Old Navy",
+    "title": "What is this brand?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "2",
+    "questionIMG": "2.png",
+    "solutionIMG": "",
+    "options":["Red Lobster", "McDonald's", "7-Eleven", "Cinnabon"],
+    "answer": "Red Lobster",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "3",
+    "questionIMG": "3.png",
+    "solutionIMG": "",
+    "options":["Rubbermaid", "Lock&Lock", "Tupperware", "OXO"],
+    "answer": "Rubbermaid",
+    "title": "What is this brand?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "4",
+    "questionIMG": "4.png",
+    "solutionIMG": "",
+    "options":["Jim Beam", "Jack Daniels", "Knob Creek", "J.P. Wiser's"],
+    "answer": "J.P. Wiser's",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "5",
+    "questionIMG": "5.png",
+    "solutionIMG": "5_5.png",
+    "options":["FOX", "Fila", "FedEx", "Fanta"],
+    "answer": "Fila",
+    "title": "What is this brand?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "6",
+    "questionIMG": "6.png",
+    "solutionIMG": "6_6.png",
+    "options":["Pedigree", "Pepcid", "Peugeot", "PepsiCo"],
+    "answer": "PepsiCo",
+    "title": "Which brand is known for selling soda products but eventually branched off into other products?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "7",
+    "questionIMG": "7.png",
+    "solutionIMG": "",
+    "options":["MAC", "NYX", "e.l.f.", "NARS"],
+    "answer": "NARS",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "8",
+    "questionIMG": "8.png",
+    "solutionIMG": "",
+    "options":["Spotify", "iHeartRadio", "SoundCloud", "Shazam"],
+    "answer": "Spotify",
+    "title": "Which streaming service is this?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "9",
+    "questionIMG": "9.png",
+    "solutionIMG": "9_9.png",
+    "options":["Nescafé", "Nestea", "Nestlé", "Nesquik"],
+    "answer": "Nescafé",
+    "title": "What is this brand?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "10",
+    "questionIMG": "10.png",
+    "solutionIMG": "10_10.png",
+    "options":["Wildfox", "Wrangler", "Wrap and Weft", "William Rast"],
+    "answer": "Wrangler",
+    "title": "What is this brand?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "11",
+    "questionIMG": "11.png",
+    "solutionIMG": "",
+    "options":["Fanta", "Sunkist", "Faygo", "Crush"],
+    "answer": "Crush",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "12",
+    "questionIMG": "12.png",
+    "solutionIMG": "12_12.png",
+    "options":["Panasonic", "Duracell", "Polaroid", "Energizer"],
+    "answer": "Energizer",
+    "title": "What is this brand?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "13",
+    "questionIMG": "13.png",
+    "solutionIMG": "13_13.png",
+    "options":["Kashi", "General Mills", "Kellogg's", "Quakers"],
+    "answer": "Kellogg's",
+    "title": "What is this brand?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "14",
+    "questionIMG": "14.png",
+    "solutionIMG": "",
+    "options":["JetBlue", "Delta Airlines", "American Airlines", "Allegiant Air"],
+    "answer": "Delta Airlines",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "15",
+    "questionIMG": "15.png",
+    "solutionIMG": "15_15.png",
+    "options":["Marshalls", "Best Buy", "Macy's", "Ikea"],
+    "answer": "Best Buy",
+    "title": "What is this brand?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "16",
+    "questionIMG": "16.png",
+    "solutionIMG": "16_16.png",
+    "options":["Carlsberg", "Corona", "Carling", "Molson Canadian"],
+    "answer": "Carlsberg",
+    "title": "What is this brand?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "17",
+    "questionIMG": "17.png",
+    "solutionIMG": "",
+    "options":["Tanteo", "Patron", "Sauza", "Santera"],
+    "answer": "Sauza",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "18",
+    "questionIMG": "18.png",
+    "solutionIMG": "",
+    "options":["Smart Car", "Mini", "Kia", "Honda"],
+    "answer": "Mini",
+    "title": "What is this brand?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "19",
+    "questionIMG": "19.png",
+    "solutionIMG": "19_19.png",
+    "options":["Sprite", "7UP", "Sierra Mist", "Sunkist"],
+    "answer": "Sprite",
+    "title": "What is this brand?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "20",
+    "questionIMG": "20.png",
+    "solutionIMG": "",
+    "options":["Panasonic", "Lenovo", "Toshiba", "Sony"],
+    "answer": "Toshiba",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "21",
+    "questionIMG": "21.png",
+    "solutionIMG": "21_21.png",
+    "options":["Bank of America", "American Express", "American Airlines", "American Apparel"],
+    "answer": "Bank of America",
+    "title": "What is this brand?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "22",
+    "questionIMG": "22.png",
+    "solutionIMG": "22_22.png",
+    "options":["Grey Goose", "Smirnoff", "Prince Igor", "Dillon's"],
+    "answer": "Grey Goose",
+    "title": "What brand is this?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "23",
+    "questionIMG": "23.png",
+    "solutionIMG": "",
+    "options":["Physicians Formula", "Pantene", "Lush", "L'Oreal"],
+    "answer": "Lush",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "24",
+    "questionIMG": "24.png",
+    "solutionIMG": "24_24.png",
+    "options":["Electronic Arts", "EHarmony", "Estee Lauder", "Elyxr Audio"],
+    "answer": "Electronic Arts",
+    "title": "What brand is this?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "25",
+    "questionIMG": "25.png",
+    "solutionIMG": "",
+    "options":["Pilsner Urquell", "Heineken", "Guinness", "Carlsberg"],
+    "answer": "Guinness",
+    "title": "",
+	"qType":"Text"
+  }
+
+]
