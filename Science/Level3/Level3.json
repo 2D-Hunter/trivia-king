@@ -1,0 +1,208 @@
+[
+  {
+
+
+  },
+  { 
+    "id" : "1",
+    "questionIMG": "1.png",
+    "options":["Stratosphere", "Mesosphere", "Troposphere", "Ozone"],
+    "answer": "Ozone",
+    "title": "What is the name of the layer that protects us from harmful rays?",
+	"qType":"Image"
+  },
+  
+  { 
+    "id" : "2",
+    "questionIMG": "2.png",
+    "options":["Root Beer", "Orange Crush", "Coca Cola", "Grape Soda"],
+    "answer": "Coca Cola",
+    "title": "If you mix mentos and this soda drink you get a reaction?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "3",
+    "questionIMG": "3.png",
+    "options":["Geologist", "Astronomer", "Biologist", "Meteorologist"],
+    "answer": "Meteorologist",
+    "title": "What is the name of a scientist who studies weather?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "4",
+    "questionIMG": "4.png",
+    "options":["Hydrogen", "Potassium", "Oxygen", "Salt"],
+    "answer": "Oxygen",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "5",
+    "questionIMG": "5.png",
+    "options":["Lava", "Water", "Sedimentary Rock", "Igneous Rock"],
+    "answer": "Lava",
+    "title": "",
+	"qType":"Text"
+},
+{ 
+  "id" : "6",
+  "questionIMG": "6.png",
+  "options":["Carbon Dioxide", "Oxygen", "Nitrogen", "Carbon Monoxide"],
+  "answer": "Carbon Dioxide",
+  "title": "What is dry ice?",
+"qType":"Image"
+},
+{ 
+  "id" : "7",
+  "questionIMG": "7.png",
+  "options":["Mount Everest", "Rocky Mountains", "Grand Canyon", "Mount Fuji"],
+  "answer": "Mount Everest",
+  "title": "What is the highest mountain on earth?",
+"qType":"Image"
+},
+{ 
+  "id" : "8",
+  "questionIMG": "8.png",
+  "options":["Liquidation", "Condensation", "Formation", "Precipitation"],
+  "answer": "Condensation",
+  "title": "",
+"qType":"Text"
+},
+{ 
+  "id" : "9",
+  "questionIMG": "9.png",
+  "options":["Oxygen", "Matter", "Weight", "Gravity"],
+  "answer": "Gravity",
+  "title": "",
+"qType":"Text"
+},
+{ 
+  "id" : "10",
+  "questionIMG": "10.png",
+  "options":["Mars", "Earth", "Venus", "Sun"],
+  "answer": "Earth",
+  "title": "A lunar eclipse is caused by who's shadow?",
+"qType":"Image"
+},
+{ 
+  "id" : "11",
+  "questionIMG": "11.png",
+  "options":["Year", "Month", "Day", "Week"],
+  "answer": "Year",
+  "title": "",
+"qType":"Text"
+},
+{ 
+  "id" : "12",
+  "questionIMG": "12.png",
+  "options":["Premolars", "Canines", "Wisdom Teeth", "Molars"],
+  "answer": "Canines",
+  "title": "What do you call the pointed teeth in the mouth?",
+"qType":"Image"
+},
+{ 
+  "id" : "13",
+  "questionIMG": "13.png",
+  "options":["Cut In Half", "Frozen Juice", "Baking A Cake", "Melted Butter"],
+  "answer": "Baking A Cake",
+  "title": "",
+"qType":"Text"
+},
+{ 
+  "id" : "14",
+  "questionIMG": "14.png",
+  "options":["Earth", "Venus", "Mars", "Jupiter"],
+  "answer": "Jupiter",
+  "title": "",
+"qType":"Text"
+},
+{ 
+  "id" : "15",
+  "questionIMG": "15.png",
+  "options":["Helium", "Silver", "Zinc", "Hydrogen"],
+  "answer": "Hydrogen",
+  "title": "",
+"qType":"Text"
+},
+{ 
+  "id" : "16",
+  "questionIMG": "16.png",
+  "options":["Birds", "Mammals", "Amphibian", "Reptiles"],
+  "answer": "Amphibian",
+  "title": "What is the name of animals that live on land and in water?",
+"qType":"Image"
+},
+{ 
+  "id" : "17",
+  "questionIMG": "17.png",
+  "options":["Red", "Blue", "Purple", "Green"],
+  "answer": "Green",
+  "title": "",
+"qType":"Text"
+},
+{ 
+  "id" : "18",
+  "questionIMG": "18.png",
+  "options":["Magnesium", "Lithium", "Phosphorus", "Nitrogen"],
+  "answer": "Nitrogen",
+  "title": "",
+"qType":"Text"
+},
+{ 
+  "id" : "19",
+  "questionIMG": "19.png",
+  "options":["Element", "Solution", "Compound", "Solid"],
+  "answer": "Solution",
+  "title": "",
+"qType":"Text"
+},
+{ 
+  "id" : "20",
+  "questionIMG": "20.png",
+  "options":["Dust Devil", "Hurricane", "Water Spout", "Twister"],
+  "answer": "Water Spout",
+  "title": "What is a tornado over water called?",
+"qType":"Image"
+},
+{ 
+  "id" : "21",
+  "questionIMG": "21.png",
+  "options":["Pluto", "Uranus", "Venus", "Mars"],
+  "answer": "Venus",
+  "title": "",
+"qType":"Text"
+},
+{ 
+  "id" : "22",
+  "questionIMG": "22.png",
+  "options":["Vitamin D", "Vitamin B12", "Melanin", "Keratin"],
+  "answer": "Melanin",
+  "title": "",
+"qType":"Text"
+},
+{ 
+  "id" : "23",
+  "questionIMG": "23.png",
+  "options":["High Cholesterol", "Lack of salt", "Lack of water", "Blood pressure"],
+  "answer": "Lack of water",
+  "title": "",
+"qType":"Text"
+},
+{ 
+  "id" : "24",
+  "questionIMG": "24.png",
+  "options":["they breath above water", "spin", "fins", "gills"],
+  "answer": "gills",
+  "title": "How do fish breath underwater?",
+"qType":"Image"
+},
+{ 
+  "id" : "25",
+  "questionIMG": "25.png",
+  "options":["Sour Milk", "Rust", "Molded Clay", "Bread To Toast"],
+  "answer": "Molded Clay",
+  "title": "",
+"qType":"Text"
+}
+  
+]
