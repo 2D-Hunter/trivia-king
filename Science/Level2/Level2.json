@@ -1,0 +1,210 @@
+[
+  {
+
+
+  },
+  { 
+    "id" : "1",
+    "questionIMG": "1.png",
+    "options":["Mercury", "Jupiter", "Uranus", "Venus"],
+    "answer": "Mercury",
+    "title": "What is the closest planet to the sun?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "2",
+    "questionIMG": "2.png",
+    "options":["Albert Einstein", "Sir Isaac Newton", "Thomas Edison", "Charles Darwin"],
+    "answer": "Sir Isaac Newton",
+    "title": "Who discovered 3 laws of motion?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "3",
+    "questionIMG": "3.png",
+    "options":["Antarctica", "Canada", "Arctic", "Russia"],
+    "answer": "Antarctica",
+    "title": "where is the coldest place on earth?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "4",
+    "questionIMG": "4.png",
+    "options":["Heart", "Liver", "Lungs", "Brain"],
+    "answer": "Lungs",
+    "title": "what organ is this?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "5",
+    "questionIMG": "5.png",
+    "options":["K", " NaCl,", "H2O", "C2o"],
+    "answer": "NaCl",
+    "title": "what is the compound of salt?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "6",
+    "questionIMG": "6.png",
+    "options":["Stem", "The flower", "Chlorophyll", "Roots"],
+    "answer": "Roots",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "7",
+    "questionIMG": "7.png",
+    "options":["Heart", "Lungs", "Skin", "Brain"],
+    "answer": "Heart",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "8",
+    "questionIMG": "8.png",
+    "options":["Heart", "Kidney's", "Brain", "Liver"],
+    "answer": "Brain",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "9",
+    "questionIMG": "9.png",
+    "options":["Grizzly Bear", "Giraffe", "Hippo", "Elephant"],
+    "answer": "Giraffe",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "10",
+    "questionIMG": "10.png",
+    "options":["Dragon Fly", "Spider", "Pill Bugs", "Crayfish"],
+    "answer": "Spider",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "11",
+    "questionIMG": "11.png",
+    "options":["4", "5,", "9", "8"],
+    "answer": "8",
+    "title": "How many legs does a spider have?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "12",
+    "questionIMG": "12.png",
+    "options":["Whirlpool", "Andromeda", "Sombrero", "Milky Way"],
+    "answer": "Milky Way",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "13",
+    "questionIMG": "13.png",
+    "options":["The Sun", "Water,", "Nuclear", "Wind"],
+    "answer": "The Sun",
+    "title": "Where does solar power get its energy from?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "14",
+    "questionIMG": "14.png",
+    "options":["Web Wide World", "World Wide Web", "Wise World Web", "Whole Web Work"],
+    "answer": "World Wide Web",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "15",
+    "questionIMG": "15.png",
+    "options":["Red", "Yellow", "Green", "Blue"],
+    "answer": "Green",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "16",
+    "questionIMG": "16.png",
+    "options":["B12", "Vitamin D,", "Calcium", "Vitamin C"],
+    "answer": "Calcium",
+    "title": "What mineral supports strong bones?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "17",
+    "questionIMG": "17.png",
+    "options":["Bananas", "Peaches", "Oranges", "Blueberries"],
+    "answer": "Oranges",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "18",
+    "questionIMG": "18.png",
+    "options":["Caprolactum", "Carcinogens", "Carrageenan", "Crude oil"],
+    "answer": "Carcinogens",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "19",
+    "questionIMG": "19.png",
+    "options":["Spice", "Citric", "Hot", "Sweet"],
+    "answer": "Citric",
+    "title": "",
+	"qType":"Text"
+  },
+
+  { 
+    "id" : "20",
+    "questionIMG": "20.png",
+    "options":["Hurricane", "Thunderstorm", "Tsunami", "Tornado"],
+    "answer": "Hurricane",
+    "title": "What kind of storm is this?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "21",
+    "questionIMG": "21.png",
+    "options":["Thunderstorm", "Hurricane,", "Tsunami", "Tornado"],
+    "answer": "Tornado",
+    "title": "What kind of storm is this?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "22",
+    "questionIMG": "22.png",
+    "options":["Nervous System", "Muscular System", "Cardiovascular", "Skeletal System"],
+    "answer": "Cardiovascular",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "23",
+    "questionIMG": "23.png",
+    "options":["Cardiovascular", "Muscular System,", "Nervous System", "Skeletal System"],
+    "answer": "Nervous System",
+    "title": "What system takes care of the brain?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "24",
+    "questionIMG": "24.png",
+    "options":["Prime Meridian", "Antarctic Circle", "North to South Pole", "Equator"],
+    "answer": "Equator",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "25",
+    "questionIMG": "25.png",
+    "options":["Amazon", "St. Lawrence", "Nile", "Mississippi"],
+    "answer": "Nile",
+    "title": "",
+	"qType":"Text"
+  },
+
+  
+
+]
