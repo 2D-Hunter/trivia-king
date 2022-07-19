@@ -1,0 +1,208 @@
+[
+  {
+
+
+  },
+  { 
+    "id" : "1",
+    "questionIMG": "1.png",
+    "options":["Silt", "Clay", "Sand", "Top Soil"],
+    "answer": "Top Soil",
+    "title": "What type of soil helps plants grow?",
+	"qType":"Image"
+  },  
+{ 
+  "id" : "2",
+  "questionIMG": "2.png",
+  "options":["Neon", "Argon", "Sulfur", "Silver"],
+  "answer": "Silver",
+  "title": "",
+"qType":"Text"
+},
+{ 
+  "id" : "3",
+  "questionIMG": "3.png",
+  "options":["Grand Canyon", "Dead Sea", "Great barrier reef", "Rocky Mountains"],
+  "answer": "Great barrier reef",
+  "title": "",
+"qType":"Text"
+},
+{ 
+  "id" : "4",
+  "questionIMG": "4.png",
+  "options":["Liver", "Skin", "Brain", "Lungs"],
+  "answer": "Skin",
+  "title": "What is the biggest organ in the human body?",
+"qType":"Image"
+},
+{ 
+  "id" : "5",
+  "questionIMG": "5.png",
+  "options":["Platinum", "Copper", "Iron", "Magnesium"],
+  "answer": "Copper",
+  "title": "",
+"qType":"Text"
+},
+{ 
+  "id" : "6",
+  "questionIMG": "6.png",
+  "options":["Seamount", "Seaweed", "Esker", "Drumlin"],
+  "answer": "Seamount",
+  "title": "What is an underwater mountain called?",
+"qType":"Image"
+},
+{ 
+  "id" : "7",
+  "questionIMG": "7.png",
+  "options":["Potassium", "Vinegar", "Helium", "Hydrogen"],
+  "answer": "Hydrogen",
+  "title": "",
+"qType":"Text"
+},
+{ 
+  "id" : "8",
+  "questionIMG": "8.png",
+  "options":["Test Tube", "Florence Flask", "Beaker", "DruGraduated Cylinder"],
+  "answer": "Test Tube",
+  "title": "What is the name of this device?",
+"qType":"Image"
+},
+{ 
+  "id" : "9",
+  "questionIMG": "9.png",
+  "options":["Deciduous", "Desert", "Boreal", "Coniferous"],
+  "answer": "Coniferous",
+  "title": "What type of forest is this?",
+"qType":"Image"
+},
+{ 
+  "id" : "10",
+  "questionIMG": "10.png",
+  "options":["Helium", "Chlorine", "Phosphorus", "Nitrogen"],
+  "answer": "Nitrogen",
+  "title": "What gas exists in the atmosphere?",
+"qType":"Image"
+},
+{ 
+  "id" : "11",
+  "questionIMG": "11.png",
+  "options":["The Kidney", "The Brain", "The Liver", "The Stomach"],
+  "answer": "The Brain",
+  "title": "",
+"qType":"Text"
+},
+{ 
+  "id" : "12",
+  "questionIMG": "12.png",
+  "options":["Platinum", "Krypton", "Antimony", "Potassium"],
+  "answer": "Potassium",
+  "title": "",
+"qType":"Text"
+},
+{ 
+  "id" : "13",
+  "questionIMG": "13.png",
+  "options":["Polyster", "Cotton", "Bamboo", "Silk"],
+  "answer": "Silk",
+  "title": "Which fabric comes from worms?",
+"qType":"Image"
+},
+{ 
+  "id" : "14",
+  "questionIMG": "14.png",
+  "options":["0", "6", "15", "5"],
+  "answer": "0",
+  "title": "",
+"qType":"Text"
+},
+{ 
+  "id" : "15",
+  "questionIMG": "15.png",
+  "options":["Gallon", "SI", "Amps", "Meters"],
+  "answer": "Amps",
+  "title": "",
+"qType":"Text"
+},
+{ 
+  "id" : "16",
+  "questionIMG": "16.png",
+  "options":["Wind", "Water", "Coal", "Nuclear"],
+  "answer": "Water",
+  "title": "",
+"qType":"Text"
+},
+{ 
+  "id" : "17",
+  "questionIMG": "17.png",
+  "options":["Tulip", "Hosta", "Lilly", "Venus fly trap"],
+  "answer": "Venus fly trap",
+  "title": "",
+"qType":"Text"
+},
+{ 
+  "id" : "18",
+  "questionIMG": "18.png",
+  "options":["No collar bones", "Double jointed", "9 lives", "Oddly shaped feet"],
+  "answer": "No collar bones",
+  "title": "What do cats always land on their feet?",
+"qType":"Image"
+},
+{ 
+  "id" : "19",
+  "questionIMG": "19.png",
+  "options":["Iris", "Eyelid", "Melanin", "Retina"],
+  "answer": "Retina",
+  "title": "Which tissue in the eye helps us to see?",
+"qType":"Image"
+},
+{ 
+  "id" : "20",
+  "questionIMG": "20.png",
+  "options":["Bleach", "Lemon juice", "Vinegar", "Stomach acid"],
+  "answer": "Bleach",
+  "title": "",
+"qType":"Text"
+},
+{ 
+  "id" : "21",
+  "questionIMG": "21.png",
+  "options":["Granite", "Basalt", "Bedrock", "Igneous"],
+  "answer": "Igneous",
+  "title": "",
+"qType":"Text"
+},
+{ 
+  "id" : "22",
+  "questionIMG": "22.png",
+  "options":["Rain", "Rainbow","Fog", "Tornado"],
+  "answer": "Rainbow",
+  "title": "",
+"qType":"Text"
+},
+{ 
+  "id" : "23",
+  "questionIMG": "23.png",
+  "options":["Ocean", "Earth science", "Plants", "Animals"],
+  "answer": "Plants",
+  "title": "",
+"qType":"Text"
+},
+{ 
+  "id" : "24",
+  "questionIMG": "24.png",
+  "options":["Storm", "Fog", "Apocalypse", "Rain"],
+  "answer": "Storm",
+  "title": "When would this cloud normally be observed?",
+"qType":"Image"
+},
+{ 
+  "id" : "25",
+  "questionIMG": "25.png",
+  "options":["Oxygen", "Carbon Monoxide", "Carbon Dioxide", "Laughing Gas"],
+  "answer": "Carbon Monoxide",
+  "title": "What is a deadly gas that can be emitted from gas stoves?",
+"qType":"Image"
+}
+  
+  
+]
