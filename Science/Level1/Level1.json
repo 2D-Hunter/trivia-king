@@ -1,0 +1,207 @@
+[
+  {
+
+
+  },
+  { 
+    "id" : "1",
+    "questionIMG": "1.png",
+    "options":["Sleep", "Water", "Insects", "Sun"],
+    "answer": "Sun",
+    "title": "How does a plant get its energy to grow?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "2",
+    "questionIMG": "2.png",
+    "options":["Photosynthesis", "Precipitation", "Humidity", "Fog"],
+    "answer": "Precipitation",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "3",
+    "questionIMG": "3.png",
+    "options":["Oxygen", "Salt", "Helium", "Water"],
+    "answer": "Water",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "4",
+    "questionIMG": "4.png",
+    "options":["Herbivore", "Carnivore", "Omnivore", "Folivore"],
+    "answer": "Omnivore",
+    "title": "What classification of food consumption do humans belong in?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "5",
+    "questionIMG": "5.png",
+    "options":["Pie graph", "Food chart", "Periodic table", "Multiplication table"],
+    "answer": "Periodic table",
+    "title": "What is the name of this table?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "6",
+    "questionIMG": "6.png",
+    "options":["Magnesium", "Potassium", "Mercury", "Zinc"],
+    "answer": "Mercury",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "7",
+    "questionIMG": "7.png",
+    "options":["Worm", "Fly", "Bird", "Butterfly"],
+    "answer": "Butterfly",
+    "title": "What does a caterpillar grow into?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "8",
+    "questionIMG": "8.png",
+    "options":["Crust", "Mantle", "Core", "Troposphere"],
+    "answer": "Core",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "9",
+    "questionIMG": "9.png",
+    "options":["3", "2", "7", "8"],
+    "answer": "3",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "10",
+    "questionIMG": "10.png",
+    "options":["Gas", "Water", "Soil", "All of the above"],
+    "answer": "All of the above",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "11",
+    "questionIMG": "11.png",
+    "options":["Neuro", "Transcript", "Chromosome", "DNA"],
+    "answer": "DNA",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "12",
+    "questionIMG": "12.png",
+    "options":["Indian", "Southern", "Atlantic", "Pacific"],
+    "answer": "Pacific",
+    "title": "What is the largest ocean on earth?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "13",
+    "questionIMG": "13.png",
+    "options":["Sulfur", "Carbon", "Calcium", "Helium"],
+    "answer": "Carbon",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "14",
+    "questionIMG": "14.png",
+    "options":["Zinc", "Mica", "Lead", "Graphite"],
+    "answer": "Graphite",
+    "title": "Which element is found in pencils?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "15",
+    "questionIMG": "15.png",
+    "options":["Diamond", "Calcite", "Limestone", "Diorite"],
+    "answer": "Diamond",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "16",
+    "questionIMG": "16.png",
+    "options":["Venus", "Mars", "Neptune", "Saturn"],
+    "answer": "Mars",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "17",
+    "questionIMG": "17.png",
+    "options":["Pup", "Tadpoles", "Kit", "Doe"],
+    "answer": "Tadpoles",
+    "title": "What are baby frogs and toads called?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "18",
+    "questionIMG": "18.png",
+    "options":["Radioactivity", "3 laws of motion", "Natural Selection", "Theory of relativity"],
+    "answer": "Theory of relativity",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "19",
+    "questionIMG": "19.png",
+    "options":["Sand Storm", "Tornadoes", "Hurricanes", "Firestorm"],
+    "answer": "Hurricanes",
+    "title": "What can tropical storms turn into?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "20",
+    "questionIMG": "20.png",
+    "options":["8", "2", "5", "3"],
+    "answer": "5",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "21",
+    "questionIMG": "21.png",
+    "options":["Venus", "Jupiter", "Neptune", "Mars"],
+    "answer": "Jupiter",
+    "title": "Which planet is the largest in our solar system?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "22",
+    "questionIMG": "22.png",
+    "options":["Buzz Aldrin", "Buzz Lightyear", "Neil Armstrong", "John Glenn"],
+    "answer": "Neil Armstrong",
+    "title": "Who was the first man on the moon?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "23",
+    "questionIMG": "23.png",
+    "options":["The Moon", "Sun", "Mars", "Saturn"],
+    "answer": "Sun",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "24",
+    "questionIMG": "24.png",
+    "options":["The Moon", "Venus", "Pluto", "Mars"],
+    "answer": "The Moon",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "25",
+    "questionIMG": "25.png",
+    "options":["7", "4", "3", "5"],
+    "answer": "7",
+    "title": "",
+	"qType":"Text"
+  }
+
+]
