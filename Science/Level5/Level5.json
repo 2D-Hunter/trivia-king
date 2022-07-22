@@ -1,0 +1,209 @@
+[
+  {
+
+
+  },
+  { 
+    "id" : "1",
+    "questionIMG": "1.png",
+    "options":["Read And Megabyte", "Range Of Memory", "Random Access Memory", "Read Only Memory"],
+    "answer": "Random Access Memory",
+    "title": "",
+	"qType":"Text"
+  }, 
+  { 
+    "id" : "2",
+    "questionIMG": "2.png",
+    "options":["Coniferous", "Boreal", "Deciduous", "Prairies"],
+    "answer": "Deciduous",
+    "title": "What kind of forest is this?",
+	"qType":"Image"
+  }, 
+  { 
+    "id" : "3",
+    "questionIMG": "3.png",
+    "options":["Florence Flask", "Beaker", "Graduated Cylinder", "Funnel"],
+    "answer": "Beaker",
+    "title": "What science utensil is this?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "4",
+    "questionIMG": "4.png",
+    "options":["Triple Beam Balance", "Beaker Tongs", "Bunsen Burner", "Microscope"],
+    "answer": "Microscope",
+    "title": "What science utensil is this?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "5",
+    "questionIMG": "5.png",
+    "options":["Saturn", "Venus", "Mars", "Uranus"],
+    "answer": "Venus",
+    "title": "Which planet spins in the opposite direction?",
+	"qType":"Image"
+  },
+{ 
+  "id" : "6",
+  "questionIMG": "6.png",
+  "options":["White", "Yellow", "Green", "Blue"],
+  "answer": "White",
+  "title": "",
+"qType":"Text"
+},
+{ 
+  "id" : "7",
+  "questionIMG": "7.png",
+  "options":["India", "USA", "China", "Canada"],
+  "answer": "China",
+  "title": "",
+"qType":"Text"
+},
+{ 
+  "id" : "8",
+  "questionIMG": "8.png",
+  "options":["Driller", "Mountaineering", "Spelunking", "Cliff diving"],
+  "answer": "Spelunking",
+  "title": "What is another word for cave exploring?",
+"qType":"Image"
+},
+{ 
+  "id" : "9",
+  "questionIMG": "9.png",
+  "options":["Magma", "Mantle", "Continents", "Tectonic"],
+  "answer": "Tectonic",
+  "title": "",
+"qType":"Text"
+},
+{ 
+  "id" : "10",
+  "questionIMG": "10.png",
+  "options":["Theory Of Relativity", "Laws Of Motion", "Space", "Radiation"],
+  "answer": "Radiation",
+  "title": "",
+"qType":"Text"
+},
+{ 
+  "id" : "11",
+  "questionIMG": "11.png",
+  "options":["Elon Musk", "Steven Hawkings", "Steve Jobs", "Bill Gates"],
+  "answer": "Elon Musk",
+  "title": "Who is the founder of SpaceX and Tesla",
+"qType":"Image"
+},
+{ 
+  "id" : "12",
+  "questionIMG": "12.png",
+  "options":["Biology", "Plants", "Invertebrates", "Animals"],
+  "answer": "Plants",
+  "title": "",
+"qType":"Text"
+},
+{ 
+  "id" : "13",
+  "questionIMG": "13.png",
+  "options":["Alzheimer's", "Diabetes", "Heart Attack", "Parkinson's"],
+  "answer": "Diabetes",
+  "title": "",
+"qType":"Text"
+},
+{ 
+  "id" : "14",
+  "questionIMG": "14.png",
+  "options":["Egby", "Gy", "Mt", "Mb"],
+  "answer": "Mb",
+  "title": "",
+"qType":"Text"
+},
+{ 
+  "id" : "15",
+  "questionIMG": "15.png",
+  "options":["Particle theory", "Gravity", "Kinesiology", "Cells"],
+  "answer": "Particle theory",
+  "title": "",
+"qType":"Text"
+},
+{ 
+  "id" : "16",
+  "questionIMG": "16.png",
+  "options":["Zoo's", "Insects", "Animals", "Fungus"],
+  "answer": "Animals",
+  "title": "what does zoologists study?",
+"qType":"Image"
+},
+{ 
+  "id" : "17",
+  "questionIMG": "17.png",
+  "options":["Virus", "Bacteria", "Plants", "Fungi"],
+  "answer": "Virus",
+  "title": "",
+"qType":"Text"
+},
+{ 
+  "id" : "18",
+  "questionIMG": "18.png",
+  "options":["Gypsum", "Basalt", "Granite", "Gabbro"],
+  "answer": "Gypsum",
+  "title": "",
+"qType":"Text"
+},
+{ 
+  "id" : "19",
+  "questionIMG": "19.png",
+  "options":["Above 7", "Above 13", "Below 7", "Below 13"],
+  "answer": "Below 7",
+  "title": "",
+"qType":"Text"
+},
+{ 
+  "id" : "20",
+  "questionIMG": "20.png",
+  "options":["Gold", "Tin", "Astatine", "Silver"],
+  "answer": "Gold",
+  "title": "",
+"qType":"Text"
+},
+{ 
+  "id" : "21",
+  "questionIMG": "21.png",
+  "options":["Japan trench", "Philippine Trench", "Marianas trench", "Tongs Trench"],
+  "answer": "Marianas trench",
+  "title": "What is the deepest point out of all the oceans?",
+"qType":"Image"
+},
+{ 
+  "id" : "22",
+  "questionIMG": "22.png",
+  "options":["Dragon Flies", "Ants", "Fireflies", "Spiders"],
+  "answer": "Spiders",
+  "title": "",
+"qType":"Text"
+},
+{ 
+  "id" : "23",
+  "questionIMG": "23.png",
+  "options":["Center Of The Earth", "The Climate", "Atmosphere", "Volcanoes"],
+  "answer": "The Climate",
+  "title": "",
+"qType":"Text"
+},
+{ 
+  "id" : "24",
+  "questionIMG": "24.png",
+  "options":["Yard", "Light Year", "Metre", "Kilometre"],
+  "answer": "Light Year",
+  "title": "",
+"qType":"Text"
+},
+{ 
+  "id" : "25",
+  "questionIMG": "25.png",
+  "options":["Oils And Spreads", "Wholemeal Cereals", "Milk And Dairy", "Fruits And Vegetables"],
+  "answer": "Wholemeal Cereals",
+  "title": "Where is rice located on the food pyramid?",
+"qType":"Image"
+}
+
+  
+  
+]
