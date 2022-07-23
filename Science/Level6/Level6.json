@@ -1,0 +1,210 @@
+[
+  {
+
+
+  },
+  { 
+    "id" : "1",
+    "questionIMG": "1.png",
+    "options":["Lungs", "Heart", "Liver", "Kidneys"],
+    "answer": "Liver",
+    "title": "What organ is this?",
+	"qType":"Image"
+  }, 
+  { 
+    "id" : "2",
+    "questionIMG": "2.png",
+    "options":["Gas", "Solids", "Processed Food", "Water"],
+    "answer": "Water",
+    "title": "",
+	"qType":"Text"
+  }, 
+   { 
+    "id" : "3",
+    "questionIMG": "3.png",
+    "options":["Atom Measure", "Atomic Mass Unit", "Aluminum Mass Unit", "Algorithm Metric Unit"],
+    "answer": "Atomic Mass Unit",
+    "title": "",
+	"qType":"Text"
+  }, 
+  { 
+    "id" : "4",
+    "questionIMG": "4.png",
+    "options":["Through their skin", "Gills", "Mouth", "Lungs"],
+    "answer": "Through their skin",
+    "title": "How do worms breath?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "5",
+    "questionIMG": "5.png",
+    "options":["Omnivore", "Herbivore", "Carnivore", "Vegan"],
+    "answer": "Carnivore",
+    "title": "What do you call a species that can only eat meat?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "6",
+    "questionIMG": "6.png",
+    "options":["Chromium", "Chlorine", "Radon", "Calcite"],
+    "answer": "Chlorine",
+    "title": "What chemical do we use in our pools?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "7",
+    "questionIMG": "7.png",
+    "options":["Opioid", "Narcotic", "Psychoactive", "Drug"],
+    "answer": "Psychoactive",
+    "title": "",
+	"qType":"Text"
+  }, 
+  { 
+    "id" : "8",
+    "questionIMG": "8.png",
+    "options":["Sensitivity", "Respiration", "Reproduction", "Excretion"],
+    "answer": "Reproduction",
+    "title": "What body system is in charge of having a baby?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "9",
+    "questionIMG": "9.png",
+    "options":["Helium", "Hydrogen", "Oxygen", "Phosphorus"],
+    "answer": "Phosphorus",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "10",
+    "questionIMG": "10.png",
+    "options":["Quartz", "Ruby", "Emerald", "Limestone"],
+    "answer": "Quartz",
+    "title": "What is the name of this minerals?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "11",
+    "questionIMG": "11.png",
+    "options":["Ruby", "Quartz", "Diamond", "Amethyst"],
+    "answer": "Amethyst",
+    "title": "What is the name of this mineral?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "12",
+    "questionIMG": "12.png",
+    "options":["Trapdoor spider", "Black widow", "Goliath Bird Eater", "Orb Weaver"],
+    "answer": "Goliath Bird Eater",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "13",
+    "questionIMG": "13.png",
+    "options":["Squirrel", "Penguin", "Bat", "Sloth"],
+    "answer": "Bat",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "14",
+    "questionIMG": "14.png",
+    "options":["Neptune", "Mars", "Earth", "Jupiter"],
+    "answer": "Earth",
+    "title": "Name this planet?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "15",
+    "questionIMG": "15.png",
+    "options":["Head", "Antennas", "Legs", "Chest"],
+    "answer": "Head",
+    "title": "Where is the heart of the shrimp located?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "16",
+    "questionIMG": "16.png",
+    "options":["Helium", "Hydrogen", "Nitrogen", "Oxygen"],
+    "answer": "Oxygen",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "17",
+    "questionIMG": "17.png",
+    "options":["China", "Japan", "Thailand", "Russia"],
+    "answer": "Japan",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "18",
+    "questionIMG": "18.png",
+    "options":["U.S.A", "Japan", "Canada", "Russia"],
+    "answer": "U.S.A",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "19",
+    "questionIMG": "19.png",
+    "options":["India", "China", "Japan", "Kenya"],
+    "answer": "China",
+    "title": "What is the only country you can find Panda bears?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "20",
+    "questionIMG": "20.png",
+    "options":["Blue Whale", "Beluga Whale", "Hippo", "Grizzly bear"],
+    "answer": "Blue Whale",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "21",
+    "questionIMG": "21.png",
+    "options":["Plankton", "Viruses", "Bacteria", "Tardigrades"],
+    "answer": "Tardigrades",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "22",
+    "questionIMG": "22.png",
+    "options":["Mountain Lions", "Cheetahs", "Bobcats", "Ligers"],
+    "answer": "Ligers",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "23",
+    "questionIMG": "23.png",
+    "options":["Natural Selection", "Philosophy", "Physiology", "Electricity"],
+    "answer": "Electricity",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "24",
+    "questionIMG": "24.png",
+    "options":["The First Computer", "The Light Bulb", "The Telescope", "The Calculator"],
+    "answer": "The Light Bulb",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "25",
+    "questionIMG": "25.png",
+    "options":["Special Protection Froce", "Sun Professional Face", "Sunshine Protectent", "Sun protection Factor"],
+    "answer": "Sun protection Factor",
+    "title": "What does SPF stand for?",
+	"qType":"Image"
+  },
+  
+  
+  
+  
+]
