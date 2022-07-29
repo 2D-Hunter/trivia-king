@@ -1,0 +1,26 @@
+[
+  {
+
+
+  },
+  { 
+    "id" : "1",
+    "questionIMG": "1.png",
+    "options":["Bresaola", "Culatello", "Capocollo", "Bruschetta"],
+    "answer": "Corn",
+    "title": "What is This?",
+	"qType":"Text"
+  }, 
+  { 
+    "id" : "2",
+    "questionIMG": "2.png",
+    "options":["Brie", "Goat Cheese", "Gouda", "Feta"],
+    "answer": "Feta",
+    "title": "What kind of cheese goes on a Greek salad?",
+	"qType":"Image"
+  }, 
+  
+  
+     
+   
+]
