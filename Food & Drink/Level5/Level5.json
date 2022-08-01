@@ -1,0 +1,213 @@
+[
+  {
+
+
+  },
+  { 
+    "id" : "1",
+    "questionIMG": "1.png",
+    "options":["Empanada", "Beef Wellington", "Pate Chaud", "Bougatsa"],
+    "answer": "Beef Wellington",
+    "title": "What is this?",
+	"qType":"Image"
+  }, 
+  { 
+    "id" : "2",
+    "questionIMG": "2.png",
+    "options":["Finland", "USA", "Ireland", "Sweden"],
+    "answer": "Finland",
+    "title": "",
+	"qType":"Text"
+  }, 
+  { 
+    "id" : "3",
+    "questionIMG": "3.png",
+    "options":["Aspartame ", "Stevia", "Sucralose", "Galactose"],
+    "answer": "Galactose",
+    "title": "Which of the following is NOT a sugar substitute?",
+	"qType":"Image"
+  }, 
+  { 
+    "id" : "4",
+    "questionIMG": "4.png",
+    "options":["Pomegranate", "Rose", "Bird", "Blood"],
+    "answer": "Blood",
+    "title": "The word sangria is thought to have come from the Spanish word for what?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "5",
+    "questionIMG": "5.png",
+    "options":["Steamed milk", "Cinnamon", "Espresso", "Milk foam"],
+    "answer": "Cinnamon",
+    "title": " Which of the following is NOT an ingredient in a cappuccino?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "6",
+    "questionIMG": "6.png",
+    "options":["It is made with ricotta cheese", "It traditionally contained a layer of caramel", "It is made with finger biscuits", "The original recipe contained alcohol"],
+    "answer": "It is made with finger biscuits",
+    "title": "Which of the following is true about tiramisu?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "7",
+    "questionIMG": "7.png",
+    "options":["Sesame seeds", "Lentils", "Chickpeas", "Soyabeans"],
+    "answer": "Soybeans",
+    "title": "What is miso made with?",
+	"qType":"Text"
+  },
+  { 
+    "id" : "8",
+    "questionIMG": "8.png",
+    "options":["Ketchup", "Onions", "Pickles", "Mustard"],
+    "answer": "Ketchup",
+    "title": "What is not found on a Chicago-style hot dog?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "9",
+    "questionIMG": "9.png",
+    "options":["Rugbrod", "Sourdough", "Pumpernickel", "Challah"],
+    "answer": "Pumpernickel",
+    "title": "What is the name of the dense, dark rye bread that originated in germany?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "10",
+    "questionIMG": "10.png",
+    "options":["Pomegranate", "Apples", "Plums", "Pears"],
+    "answer": "Pomegranate",
+    "title": "Which of the following fruits does NOT belong to the rose family?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "11",
+    "questionIMG": "11.png",
+    "options":["tree milk", "Sheep", "Horse", "Cow"],
+    "answer": "Cow",
+    "title": "Brie is typically made from the milk of what animal?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "12",
+    "questionIMG": "12.png",
+    "options":["Netherlands", "Denmark", "Sweden", "Norway"],
+    "answer": "Netherlands",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "13",
+    "questionIMG": "13.png",
+    "options":["Nutella", "Rasperry jam", "Peanut butter", "Strawberry jam"],
+    "answer": "Rasperry jam",
+    "title": "What do you add to Boston Cream Pie to make it Washington Pie?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "14",
+    "questionIMG": "14.png",
+    "options":["Hops", "Fat", "Resveratorl", "Malt"],
+    "answer": "Resveratorl",
+    "title": "What does the skin of a grape contain?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "15",
+    "questionIMG": "15.png",
+    "options":["Chow Mein", "Mapo Dofu", "Lo Mein", "Pad Thai"],
+    "answer": "Pad Thai",
+    "title": "What is this?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "16",
+    "questionIMG": "16.png",
+    "options":["Spaghetti", "Eggs", "Potato Chips", "Turmeric"],
+    "answer": "Spaghetti",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "17",
+    "questionIMG": "17.png",
+    "options":["Walnuts", "Hazelnuts", "Peanuts", "Almonds"],
+    "answer": "Almonds",
+    "title": "What nut is a macaroon made with?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "18",
+    "questionIMG": "18.png",
+    "options":["Lima beans", "Pinto beans", "Kidney beans", "Navy beans"],
+    "answer": "Lima beans",
+    "title": "Butter beans are also known as...?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "19",
+    "questionIMG": "19.png",
+    "options":["Pancakes", "Cake", "Cookies", "Chocolate"],
+    "answer": "Pancakes",
+    "title": "Butter beans are also known as....?",
+	"qType":"Text"
+  },
+  { 
+    "id" : "20",
+    "questionIMG": "20.png",
+    "options":["Riesling", "Sake", "Bordeaux", "Merlot"],
+    "answer": "Sake",
+    "title": "Which one of these wines are not made with grapes?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "21",
+    "questionIMG": "21.png",
+    "options":["Ciabatta", "Coppia Ferrarese", "Focaccia", "Borlengo"],
+    "answer": "Ciabatta",
+    "title": "Literally meaning slipper bread what is this board, flat, italian white bread called?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "22",
+    "questionIMG": "22.png",
+    "options":["Oregano", "Dill", "Basil", "Sage"],
+    "answer": "Sage",
+    "title": "Lincolnshire Sausages are flavoured with what herb?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "23",
+    "questionIMG": "23.png",
+    "options":["Italy", "Sweden", "Spain", "Brazil"],
+    "answer": "Spain",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "24",
+    "questionIMG": "24.png",
+    "options":["Curacao", "Vodka", "Cranberry Juice", "Lemonade"],
+    "answer": "Vodka",
+    "title": "The Harvey Wallbanger is a drink made from galliano, orange juice, and which other ingredient?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "25",
+    "questionIMG": "25.png",
+    "options":["Grapes", "Plums", "Cherries", "Figs"],
+    "answer": "Plums",
+    "title": "Knedle is a European dish of boiled potato-dough dumplings filled with what fruit??",
+	"qType":"Image"
+  }
+  
+  
+  
+
+  
+     
+   
+]
