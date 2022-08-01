@@ -1,0 +1,210 @@
+[
+  {
+
+
+  },
+  { 
+    "id" : "1",
+    "questionIMG": "1.png",
+    "options":["Strawberries", "Ice Cream", "Raspberries", "Melted Chocolate"],
+    "answer": "Ice Cream",
+    "title": "A brownie la made is served with what on top ?",
+	"qType":"Image"
+  }, 
+  { 
+    "id" : "2",
+    "questionIMG": "2.png",
+    "options":["An eggplant dip", "A type of pudding", "A type of hummus", "A spicy jerky"],
+    "answer": "An eggplant dip",
+    "title": "",
+	"qType":"Text"
+  }, 
+  { 
+    "id" : "3",
+    "questionIMG": "3.png",
+    "options":["Food ", "Tomatoes", "Beer", "Bread"],
+    "answer": "Beer",
+    "title": "The Welsh word Cwrw means what in English ?",
+	"qType":"Image"
+  }, 
+  { 
+    "id" : "4",
+    "questionIMG": "4.png",
+    "options":["Kielbasa", "Salami", "Bratwurst", "Chorizo"],
+    "answer": "Salami",
+    "title": "What is the name for a very thick spicy italian sausage that is usually flavoured with garlic?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "5",
+    "questionIMG": "5.png",
+    "options":["Carbonation", "Filtration", "Decaffeination", "Sweetening"],
+    "answer": "Decaffeination",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "6",
+    "questionIMG": "6.png",
+    "options":["Pomegranate", "Beets", "Rhurbarb", "Pomegranate"],
+    "answer": "Beets",
+    "title": "Instead of food colouring some recipes of Red velvet cake call for what?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "7",
+    "questionIMG": "7.png",
+    "options":["venezuela", "Spain", "Mexico", "Brazil"],
+    "answer": "Spain",
+    "title": "What country does Paella come from?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "8",
+    "questionIMG": "8.png",
+    "options":["Sheep", "Cow", "Goat", "Buffalo"],
+    "answer": "Sheep",
+    "title": "The milk of what animal is used to make Roquefort cheese?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "9",
+    "questionIMG": "9.png",
+    "options":["Leek", "Rutabaga", "Cassava", "Parsnip"],
+    "answer": "Rutabaga",
+    "title": "",
+	"qType":"Image"
+  },
+  { 
+    "id" : "10",
+    "questionIMG": "10.png",
+    "options":["Gin", "Rum", "Brandy", "Whiskey"],
+    "answer": "Whiskey",
+    "title": "What is the main ingredient of a Manhattan?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "11",
+    "questionIMG": "11.png",
+    "options":["Peas", "Green peppers", "Tomatillos", "Green food colouring"],
+    "answer": "Tomatillos",
+    "title": "What gives Mexican Salsa verde its colour?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "12",
+    "questionIMG": "12.png",
+    "options":["Raspberry", "Orange", "Grape", "Blueberry"],
+    "answer": "Orange",
+    "title": "What flavour is Blue Curacao?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "13",
+    "questionIMG": "13.png",
+    "options":["Blackberry", "Cherry", "Blueberry", "Black currant"],
+    "answer": "Blackberry",
+    "title": "A loganberry is a cross between a raspberry and what other fruit?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "14",
+    "questionIMG": "14.png",
+    "options":["Rice pastries", "Rice pudding", "Fried rice", "Rise wine"],
+    "answer": "Rise wine",
+    "title": "",
+	"qType":"Text"
+  },
+  { 
+    "id" : "15",
+    "questionIMG": "15.png",
+    "options":["Saffron", "Oregano", "Parsley", "Coriander"],
+    "answer": "Oregano",
+    "title": "Marjoram is variety of ....?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "16",
+    "questionIMG": "16.png",
+    "options":["Tuna", "Tilapia", "Herring", "Salmon"],
+    "answer": "Herring",
+    "title": "What is the most widely eaten fish in the world?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "17",
+    "questionIMG": "17.png",
+    "options":["Pine nuts", "Walnuts", "Almonds", "Pistachios"],
+    "answer": "Pine nuts",
+    "title": "What type of nut is traditionally used to make pesto?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "18",
+    "questionIMG": "18.png",
+    "options":["India", "Africa", "Mexico", "USA"],
+    "answer": "Africa",
+    "title": "Watermelon is a native to where?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "19",
+    "questionIMG": "19.png",
+    "options":["Torte", "Parkin", "Tompounce", "Sernik"],
+    "answer": "Torte",
+    "title": "A cake that uses ground nuts instead of flour is called....?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "20",
+    "questionIMG": "20.png",
+    "options":["Coconut oil", "Hazelnuts", "Cream", "Sesame seeds"],
+    "answer": "Sesame seeds",
+    "title": "What is the main ingredient in Halva?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "21",
+    "questionIMG": "21.png",
+    "options":["milk pudding", "Jell-O", "custard", "jam"],
+    "answer": "Jell-O",
+    "title": "What is the name of the sweetened gelatin jelly dessert in north america?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "22",
+    "questionIMG": "22.png",
+    "options":["Corned Beef", "Sauerkraut", "Swiss cheese", "Pastrami"],
+    "answer": "Pastramiak",
+    "title": "What is this?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "23",
+    "questionIMG": "23.png",
+    "options":["Wonton", "Dashi", "Miso", "Pho"],
+    "answer": "Pho",
+    "title": "What type of soup is this?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "24",
+    "questionIMG": "24.png",
+    "options":["Carrots", "Avocado", "Blue Cheese", "Eggs"],
+    "answer": "Carrots",
+    "title": "What is NOT an ingredient in a Cobb Salad?",
+	"qType":"Image"
+  },
+  { 
+    "id" : "25",
+    "questionIMG": "25.png",
+    "options":["Mango", "Durian", "Papaya", "Persimmon"],
+    "answer": "Papaya",
+    "title": "What fruit is this?",
+	"qType":"Image"
+  }
+
+  
+     
+   
+]
