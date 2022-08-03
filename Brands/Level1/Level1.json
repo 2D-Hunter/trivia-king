@@ -5,8 +5,15 @@
   },
   { 
     "id" : "1",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What type of food is McDonald's known for?",
+      "FR":"Pour quel type de nourriture McDonald's est-il connu?"
+    },
     "questionIMG": "1.png",
     "solutionIMG": "",
+    "question":"",
     "options":
     {
       "EN":["Taco's", "Burgers And Fries", "Sushi", "Fish And Seafood"],
@@ -16,61 +23,83 @@
     {
       "EN":"Burgers And Fries",
       "FR":"Burgers Et Frites"
-    },
-    "title":
-    {
-      "EN":"What type of food is McDonald's known for?",
-      "FR":"Pour quel type de nourriture McDonald's est-il connu?"
-    },
-    "qType":"Image"
+    }
   },
   { 
     "id" : "2",
+    "qType":"Text",
+    "title": "",
     "questionIMG": "",
     "solutionIMG": "",
+    "question":{
+            "EN":"Which social media platform allows you to 'Tweet'?",
+            "FR":"Quelle plate-forme de médias sociaux vous permet de 'Tweeter'?"
+    },
     "options":
     {
-      "EN":["Instagram", "Snapchat", "Facebook", "Twitter"],
-      "FR":["Instagram", "Snapchat", "Facebook", "Twitter"]
+            "EN":["Instagram", "Snapchat", "Facebook", "Twitter"],
+            "FR":["Instagram", "Snapchat", "Facebook", "Twitter"]
     },
     "answer":
     {
-      "EN":"Twitter",
-      "FR":"Twitter"
-    },
-    "title": "",
-	  "qType":"Text",
-    "question":{
-        "EN":"Which social media platform allows you to 'Tweet'?",
-        "FR":"Quelle plate-forme de médias sociaux vous permet de 'Tweeter'?"
+            "EN":"Twitter",
+            "FR":"Twitter"
     }
   },
   { 
     "id" : "3",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Apple produces what kind of phones?"
+    },
     "questionIMG": "3.png",
     "solutionIMG": "",
-    "options":["Pixel", "IPhone", "Samsung", "Sony"],
-    "answer": "IPhone",
-    "title": "Apple produces what kind of phones?",
-	"qType":"Image"
+    "question":"",
+    "options":
+    {
+      "EN":["Pixel", "IPhone", "Samsung", "Sony"]
+    },
+    "answer":
+    {
+      "EN":"IPhone"
+    }
   },
   { 
     "id" : "4",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"This company is the largest internet retailer in the world"
+    },
     "questionIMG": "4.png",
     "solutionIMG": "",
-    "options":["Adobe", "AT&T", "Atari", "Amazon"],
-    "answer": "Amazon",
-    "title": "This company is the largest internet retailer in the world",
-	"qType":"Image"
+    "options":
+    {
+      "EN":["Adobe", "AT&T", "Atari", "Amazon"]
+    },
+    "answer":
+    {
+      "EN":"Amazon"
+    }
   },
   { 
     "id" : "5",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What is the slogan for Nike?"
+    },
     "questionIMG": "5.png",
     "solutionIMG": "",
-    "options":["Forever Faster", "Just Do It", "All Or Nothing", "Impossible Is Nothing"],
-    "answer": "Just Do It",
-    "title": "What is the slogan for Nike?",
-	"qType":"Image"
+    "options":
+    {
+      "EN":["Forever Faster", "Just Do It", "All Or Nothing", "Impossible Is Nothing"]
+    },
+    "answer":
+    {
+      "EN":"Just Do It"
+    }
   },
   { 
     "id" : "6",
