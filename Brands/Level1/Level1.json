@@ -7,17 +7,37 @@
     "id" : "1",
     "questionIMG": "1.png",
     "solutionIMG": "",
-    "options":["Taco's", "Burgers And Fries", "Sushi", "Fish And Seafood"],
-    "answer": "Burgers And Fries",
-    "title": "What type of food is McDonald's known for?",
-	  "qType":"Image"
+    "options":
+    {
+      "EN":["Taco's", "Burgers And Fries", "Sushi", "Fish And Seafood"],
+      "FR":["Tacos", "Burgers Et Frites", "Sushi", "Poisson et fruits de mer"]
+    },
+    "answer":
+    {
+      "EN":"Burgers And Fries",
+      "FR":"Burgers Et Frites"
+    },
+    "title":
+    {
+      "EN":"What type of food is McDonald's known for?",
+      "FR":"Pour quel type de nourriture McDonald's est-il connu?"
+    },
+    "qType":"Image"
   },
   { 
     "id" : "2",
     "questionIMG": "",
     "solutionIMG": "",
-    "options":["Instagram", "Snapchat", "Facebook", "Twitter"],
-    "answer": "Twitter",
+    "options":
+    {
+      "EN":["Instagram", "Snapchat", "Facebook", "Twitter"],
+      "FR":["Instagram", "Snapchat", "Facebook", "Twitter"]
+    },
+    "answer":
+    {
+      "EN":"Twitter",
+      "FR":"Twitter"
+    },
     "title": "",
 	  "qType":"Text",
     "question":{
