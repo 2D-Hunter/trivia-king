@@ -10,16 +10,20 @@
     "options":["Taco's", "Burgers And Fries", "Sushi", "Fish And Seafood"],
     "answer": "Burgers And Fries",
     "title": "What type of food is McDonald's known for?",
-	"qType":"Image"
+	  "qType":"Image"
   },
   { 
     "id" : "2",
-    "questionIMG": "2.png",
+    "questionIMG": "",
     "solutionIMG": "",
     "options":["Instagram", "Snapchat", "Facebook", "Twitter"],
     "answer": "Twitter",
     "title": "",
-	"qType":"Text"
+	  "qType":"Text",
+    "question":{
+        "EN":"Which social media platform allows you to 'Tweet'?",
+        "FR":"Quelle plate-forme de médias sociaux vous permet de 'Tweeter'?"
+    }
   },
   { 
     "id" : "3",
