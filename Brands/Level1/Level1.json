@@ -74,6 +74,7 @@
     },
     "questionIMG": "4.png",
     "solutionIMG": "",
+    "question":"",
     "options":
     {
       "EN":["Adobe", "AT&T", "Atari", "Amazon"]
@@ -92,6 +93,7 @@
     },
     "questionIMG": "5.png",
     "solutionIMG": "",
+    "question":"",
     "options":
     {
       "EN":["Forever Faster", "Just Do It", "All Or Nothing", "Impossible Is Nothing"]
@@ -103,183 +105,382 @@
   },
   { 
     "id" : "6",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Starbucks was founded in which of the following Countries?"
+    },
     "questionIMG": "6.png",
     "solutionIMG": "",
-    "options":["United States", "Russia", "Canada", "China"],
-    "answer": "United States",
-    "title": "Starbucks was founded in which of the following Countries?",
-	"qType":"Image"
+    "question":"",
+    "options":
+    {
+      "EN":["United States", "Russia", "Canada", "China"]
+    },
+    "answer":
+    {
+      "EN":"United States"
+    }
   },
   { 
     "id" : "7",
-    "questionIMG": "7.png",
-    "solutionIMG": "",
-    "options":["Yahoo!", "Ask.com", "Bing", "Google"],
-    "answer": "Google",
+    "qType":"Text",
     "title": "",
-	"qType":"Text"
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":{
+      "EN":"What is the most popular search engine?"
+    },
+    "options":
+    {
+      "EN":["Yahoo!", "Ask.com", "Bing", "Google"]
+    },
+    "answer":
+    {
+      "EN":"Google"
+    }
   },
   { 
     "id" : "8",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Where would you find Cinderella's Castle?"
+    },
     "questionIMG": "8.png",
     "solutionIMG": "",
-    "options":["Paramount", "Pixar", "Disney World", "Warner Bros."],
-    "answer": "Disney World",
-    "title": "Where would you find Cinderella's Castle?",
-	"qType":"Image"
+    "question":"",
+    "options":
+    {
+      "EN":["Paramount", "Pixar", "Disney World", "Warner Bros."]
+    },
+    "answer":
+    {
+      "EN":"Disney World"
+    }
   },
   { 
     "id" : "9",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What is the slogan for Skittles?"
+    },
     "questionIMG": "9.png",
     "solutionIMG": "",
-    "options":["'Taste the rainbow'", "'Im lovin it'", "'Snap Crackle Pop'", "'Eat Fresh'"],
-    "answer": "'Taste the rainbow'",
-    "title": "What is the slogan for Skittles?",
-	"qType":"Image"
+    "question":"",
+    "options":
+    {
+      "EN":["'Taste the rainbow'", "'Im lovin it'", "'Snap Crackle Pop'", "'Eat Fresh'"]
+    },
+    "answer":
+    {
+      "EN":"'Taste the rainbow'"
+    }
   },
   { 
     "id" : "10",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What is the name of Nintendo's main character?"
+    },
     "questionIMG": "10.png",
     "solutionIMG": "",
-    "options":["Mario", "Link", "Sonic", "Luigi"],
-    "answer": "Mario",
-    "title": "What is the name of Nintendo's main character?",
-	"qType":"Image"
+    "question":"",
+    "options":
+    {
+      "EN":["Mario", "Link", "Sonic", "Luigi"]
+    },
+    "answer":
+    {
+      "EN":"Mario"
+    }
   },
   { 
     "id" : "11",
+    "qType":"Text",
+    "title": "",
     "questionIMG": "11.png",
     "solutionIMG": "",
-    "options":["Crave TV", "Amazon Prime", "Netflix", "Hulu"],
-    "answer": "Netflix",
-    "title": "",
-	"qType":"Text"
+    "question":
+    {
+      "EN":["Which of these streaming services produced 'Stranger Things' and 'House of Cards'?"]
+    },
+    "options":
+    {
+      "EN":["Crave TV", "Amazon Prime", "Netflix", "Hulu"]
+    },
+    "answer":
+    {
+      "EN":"Netflix"
+    }  
   },
   { 
     "id" : "12",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Name this video-sharing platform"
+    },
     "questionIMG": "12.png",
     "solutionIMG": "12_12.png",
-    "options":["Yamaha", "YoCam", "YouTube", "Yahoo"],
-    "answer": "YouTube",
-    "title": "Name this video-sharing platform",
-	"qType":"Image"
+    "question":"",
+    "options":
+    {
+      "EN":["Yamaha", "YoCam", "YouTube", "Yahoo"]
+    },
+    "answer":
+    {
+      "EN":"YouTube"
+    }
   },
   { 
     "id" : "13",
+    "qType":"Text",
+    "title": "",
     "questionIMG": "13.png",
     "solutionIMG": "",
-    "options":["Nestlé", "Grupo", "Ferraro Rocher", "Cadbury"],
-    "answer": "Nestlé",
-    "title": "",
-	"qType":"Text"
+    "question":
+    {
+      "EN":["Kit Kat is produced by which company?"]
+    },
+    "options":
+    {
+      "EN":["Nestlé", "Grupo", "Ferraro Rocher", "Cadbury"]
+    },
+    "answer":
+    {
+      "EN":"Nestlé"
+    }
   },
   { 
     "id" : "14",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What is this chips brand?"
+    },
     "questionIMG": "14.png",
     "solutionIMG": "14_14.png",
-    "options":["Doritos", "Tostitos", "Sun Chips", "Ruffles"],
-    "answer": "Doritos",
-    "title": "What is this chip brand?",
-	"qType":"Image"
+    "question":"",
+    "options":
+    {
+      "EN":["Doritos", "Tostitos", "Sun Chips", "Ruffles"]
+    },
+    "answer":
+    {
+      "EN":"Doritos"
+    }
   },
   { 
     "id" : "15",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Name this social networking company"
+    },
     "questionIMG": "15.png",
     "solutionIMG": "",
-    "options":["Friendsy", "Facebook", "Flickr", "Foursquare"],
-    "answer": "Facebook",
-    "title": "Name this social networking company",
-	"qType":"Image"
+    "question":"",
+    "options":
+    {
+      "EN":["Friendsy", "Facebook", "Flickr", "Foursquare"]
+    },
+    "answer":
+    {
+      "EN":"Facebook"
+    }
   },
   { 
     "id" : "16",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Name this hazelnut spread"
+    },
     "questionIMG": "16.png",
     "solutionIMG": "16_16.png",
-    "options":["Nutella", "Skippy", "Kraft", "Jif"],
-    "answer": "Nutella",
-    "title": "Name this hazelnut spread",
-	"qType":"Image"
+    "question":"",
+    "options":
+    {
+      "EN":["Nutella", "Skippy", "Kraft", "Jif"]
+    },
+    "answer":
+    {
+      "EN":"Nutella"
+    }
   },
   { 
     "id" : "17",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What brand of energy drink is this?"
+    },
     "questionIMG": "17.png",
     "solutionIMG": "17_17png",
-    "options":["Rockstar", "Red Bull", "Monster", "Five Hour Energy"],
-    "answer": "Red Bull",
-    "title": "What brand of energy drink is this?",
-	"qType":"Image"
+    "question":"",
+    "options":
+    {
+      "EN":["Rockstar", "Red Bull", "Monster", "Five Hour Energy"]
+    },
+    "answer":
+    {
+      "EN":"Red Bull"
+    }
   },
   { 
     "id" : "18",
+    "qType":"Text",
+    "title": "",
     "questionIMG": "18.png",
     "solutionIMG": "",
-    "options":["Pinterest", "Houzz", "Flickr", "eBay"],
-    "answer": "Pinterest",
-    "title": "",
-	"qType":"Text"
+    "question":
+    {
+      "EN":["Which of these platforms allows users to 'pin' images to interest boards?"]
+    },
+    "options":
+    {
+      "EN":["Pinterest", "Houzz", "Flickr", "eBay"]
+    },
+    "answer":
+    {
+      "EN":"Pinterest"
+    }
   },
   { 
     "id" : "19",
+    "qType":"Image",
+    "title":
+    {
+      "EN":["What fast food resturant is this?"]
+    },
     "questionIMG": "19.png",
     "solutionIMG": "19_19.png",
-    "options":["Harvey's", "Burger King", "Sonic", "McDonald's"],
-    "answer": "Burger King",
-    "title": "What fast food resturant is this?",
-	"qType":"Image"
+    "question": "",
+    "options":
+    {
+      "EN":["Harvey's", "Burger King", "Sonic", "McDonald's"]
+    },
+    "answer":
+    {
+      "EN":"Burger King"
+    }
   },
   { 
     "id" : "20",
+    "qType":"Text",
+    "title": "",
     "questionIMG": "20.png",
     "solutionIMG": "",
-    "options":["D.C.", "Grim brothers", "Marvel", "Warner Brothers"],
-    "answer": "Marvel",
-    "title": "",
-	"qType":"Text"
+    "question":
+    {
+      "EN":["Iron man is a part of which comic book company?"]
+    },
+    "options":
+    {
+      "EN":["D.C.", "Grim brothers", "Marvel", "Warner Brothers"]
+    },
+    "answer":
+    {
+      "EN":"Marvel"
+    }
   },
   { 
     "id" : "21",
+    "qType":"Image",
+    "title":
+    {
+      "EN":["What brand of mints are these?"]
+    },
     "questionIMG": "21.png",
     "solutionIMG": "21_21.png",
-    "options":["Excel", "Mentos", "LifeSavers", "Tic Tac"],
-    "answer": "Tic Tac",
-    "title": "What brand of mints are these?",
-	"qType":"Image"
+    "question": "",
+    "options":
+    {
+      "EN":["Excel", "Mentos", "LifeSavers", "Tic Tac"]
+    },
+    "answer":
+    {
+      "EN":"Tic Tac"
+    }
   },
   { 
     "id" : "22",
+    "qType":"Image",
+    "title":
+    {
+      "EN":["Name this restaurant chain"]
+    },
     "questionIMG": "22.png",
     "solutionIMG": "",
-    "options":["Burger King", "Chipotle", "Panera Bread", "Taco Bell"],
-    "answer": "Taco Bell",
-    "title": "Name this restaurant chain",
-	"qType":"Image"
+    "question": "",
+    "options":
+    {
+      "EN":["Burger King", "Chipotle", "Panera Bread", "Taco Bell"]
+    },
+    "answer":
+    {
+      "EN":"Taco Bell"
+    }	
   },
   { 
     "id" : "23",
+    "qType":"Text",
+    "title": "",
     "questionIMG": "23.png",
     "solutionIMG": "",
-    "options":["Olympic Games", "Fifa World Cup", "Grand Prix", "Super Bowl"],
-    "answer": "Olympic Games",
-    "title": "",
-	"qType":"Text"
+    "question":
+    {
+      "EN":["Which world-wide sporting event has Winter and Summer games?"]
+    },
+    "options":
+    {
+      "EN":["Olympic Games", "Fifa World Cup", "Grand Prix", "Super Bowl"]
+    },
+    "answer":
+    {
+      "EN":"Olympic Games"
+    }	
   },
   { 
     "id" : "24",
+    "qType":"Image",
+    "title":
+    {
+      "EN":["Name this brand"]
+    },
     "questionIMG": "24.png",
     "solutionIMG": "24_24.png",
-    "options":["Barielle", "Barrie", "Barbie", "Bebe"],
-    "answer": "Barbie",
-    "title": "Name this brand",
-	"qType":"Image"
+    "question": "",
+    "options":
+    {
+      "EN":["Barielle", "Barrie", "Barbie", "Bebe"]
+    },
+    "answer":
+    {
+      "EN":"Barbie"
+    }	
   },
   { 
     "id" : "25",
+    "qType":"Text",
+    "title": "",
     "questionIMG": "25.png",
     "solutionIMG": "",
-    "options":["Twitter", "Snapchat", "LinkedIn", "Facebook"],
-    "answer": "Snapchat",
-    "title": "",
-	"qType":"Text"
+    "question":
+    {
+      "EN":["Which social media platform is known for 'snapping' pictures?"]
+    },
+    "options":
+    {
+      "EN":["Twitter", "Snapchat", "LinkedIn", "Facebook"]
+    },
+    "answer":
+    {
+      "EN":"Snapchat"
+    }	
   }
 
 ]
