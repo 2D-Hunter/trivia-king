@@ -1,0 +1,482 @@
+[
+  {
+
+
+  },
+  { 
+    "id" : "1",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Who is this artist?"
+    },
+    "questionIMG": "1.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Ciara", "Beyonce", "Mariah Carey", "Whitney Houston"]
+    },
+    "answer":
+    {
+      "EN":"Beyonce"
+    }
+  },
+  { 
+    "id" : "2",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What is the name of this actor?"
+    },
+    "questionIMG": "2.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Gerard Butler", "Brad Pitt", "Tom Cruise", "George Clooney"]
+    },
+    "answer":
+    {
+      "EN":"Brad Pitt"
+    }	
+  },
+  { 
+    "id" : "3",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"Who was the male lead in Titanic?"
+    },
+    "options":
+    {
+      "EN":["Leonardo DiCaprio", "Brad Pitt", "Johny Depp", "George Clooney"]
+    },
+    "answer":
+    {
+      "EN":"Leonardo DiCaprio"
+    }
+  },
+  { 
+    "id" : "4",
+    "qType":"Image",
+    "title":
+    {
+      "EN":["Who is this woman?"]
+    },
+    "questionIMG": "4.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Michelle Obama", "Lauryn Hill", "Oprah Winfrey", "Whoopi Goldberg"]
+    },
+    "answer":
+    {
+      "EN":"Oprah Winfrey"
+    }
+  },
+  { 
+    "id" : "5",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"Who was the first black President of the United States?"
+    },
+    "options":
+    {
+      "EN":["Jessie Jackson", "Tim Scott", "Will Smith", "Barack Obama"]
+    },
+    "answer":
+    {
+      "EN":"Barack Obama"
+    }
+  },
+  { 
+    "id" : "6",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"Which of these women ran for President of the United States in 2016?"
+    },
+    "options":
+    {
+      "EN":["Sarah Palin", "Marilyn Dennis", "Hilary Clinton", "Martha Stewart"]
+    },
+    "answer":
+    {
+      "EN":"Hilary Clinton"
+    }
+  },
+  { 
+    "id" : "7",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Who is this actor?"
+    },
+    "questionIMG": "7.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Harrison Ford", "Tom Cruise", "Adam Arkin", "George Clooney"]
+    },
+    "answer":
+    {
+      "EN":"George Clooney"
+    }
+  },
+  { 
+    "id" : "8",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Who is this actress?"
+    },
+    "questionIMG": "8.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Chelsea Marr", "Meagan Fox", "Angelina Jolie", "Kate Beckinsale"]
+    },
+    "answer":
+    {
+      "EN":"Angelina Jolie"
+    }
+  },
+  { 
+    "id" : "9",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Who is this woman?"
+    },
+    "questionIMG": "9.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Nicki Minaj", "Kim Kardashian", "Beyoncé Knowles", "Kourtney Kardashian"]
+    },
+    "answer":
+    {
+      "EN":"Kim Kardashian"
+    }
+  },
+  { 
+    "id" : "10",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"He is known for his role in Forrest Gump (1994)"
+    },
+    "options":
+    {
+      "EN":["Bill Murray", "Jimmy Kimmel", "Tom Hanks", "Colin Hanks"]
+    },
+    "answer":
+    {
+      "EN":"Tom Hanks"
+    }
+  },
+  { 
+    "id" : "11",
+    "qType":"Image",
+    "title":
+    {
+      "EN":["Who is this lady?"]
+    },
+    "questionIMG": "11.png",
+    "solutionIMG": "",
+    "question": "",
+    "options":
+    {
+      "EN":["Cloris Leachman", "Doris Day", "Betty White", "Queen Elizabeth II"]
+    },
+    "answer":
+    {
+      "EN":"Queen Elizabeth II"
+    }
+  },
+  { 
+    "id" : "12",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":["Who created Mickey Mouse?"]
+    },
+    "options":
+    {
+      "EN":["Alvy Ray Smith", "Walt Disney", "Vincent Price", "Matt Groening"]
+    },
+    "answer":
+    {
+      "EN":"Walt Disney"
+    }
+  },
+  { 
+    "id" : "13",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Who is the most recent (45th) former president of the United States?"
+    },
+    "questionIMG": "13.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Stephen Baldwin", "Bill Clinton", "Donald Trump", "Alec Baldwin"]
+    },
+    "answer":
+    {
+      "EN":"Donald Trump"
+    }
+  },
+  { 
+    "id" : "14",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Who is this actress?"
+    },
+    "questionIMG": "14.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Anne Hathaway", "Keira Knightley", "Liv Tyler", "Krysten Ritter"]
+    },
+    "answer":
+    {
+      "EN":"Anne Hathaway"
+    }
+  },
+  { 
+    "id" : "15",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":["Which actor plays Harry Potter?"]
+    },
+    "options":
+    {
+      "EN":["Tobey Maguire", "Daniel Radcliffe", "Robert Pattinson", "Elijah Wood"]
+    },
+    "answer":
+    {
+      "EN":"Daniel Radcliffe"
+    }
+  },
+  { 
+    "id" : "16",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Who is this actress?"
+    },
+    "questionIMG": "16.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Margot Robbie", "Scarlett Johansson", "Jennifer Anniston", "Christina Applegate"]
+    },
+    "answer":
+    {
+      "EN":"Jennifer Anniston"
+    }
+    
+  },
+  { 
+    "id" : "17",
+    "qType":"Text",
+    "title":"",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":["Which of these actors starred in Mission Impossible?"]
+    },
+    "options":
+    {
+      "EN":["Bradley Cooper", "Eric Dane", "Tom Cruise", "Jude Law"]
+    },
+    "answer":
+    {
+      "EN":"Tom Cruise"
+    }
+  },
+  { 
+    "id" : "18",
+    "qType":"Image",
+    "title":
+    {
+      "EN":["What is the name of this actress?"]
+    },
+    "questionIMG": "18.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Kyra Sedgwick", "Jennifer Garner", "Sarah Jessica Parker", "Julia Roberts"]
+    },
+    "answer":
+    {
+      "EN":"Julia Roberts"
+    }
+  },
+  { 
+    "id" : "19",
+    "qType":"Text",
+    "title":"",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":["Who wrote Harry Potter?"]
+    },
+    "options":
+    {
+      "EN":["J.K. Rowling", "Sarah Jessica Parker", "Kylie Minogue", "Adele"]
+    },
+    "answer":
+    {
+      "EN":"J.K. Rowling"
+    }
+  },
+  { 
+    "id" : "20",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Who is this actor?"
+    },
+    "questionIMG": "20.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Ben Affleck", "Andy Samberg", "Jason Biggs", "Adam Sandler"]
+    },
+    "answer":
+    {
+      "EN":"Adam Sandler"
+    }
+  },
+  { 
+    "id" : "21",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Who is this actress?"
+    },
+    "questionIMG": "21.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Halle Berry", "Jordin Sparks", "Jennifer Lopez", "Jada Pickett-Smith"]
+    },
+    "answer":
+    {
+      "EN":"Halle Berry"
+    }
+  },
+  { 
+    "id" : "22",
+    "qType":"Text",
+    "title":"",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":["Who is the co-founder of Apple Computer?"]
+    },
+    "options":
+    {
+      "EN":["Mark Zuckerberg", "Steve Jobs", "Bill Gates", "Michael Dell"]
+    },
+    "answer":
+    {
+      "EN":"Steve Jobs"
+    }
+  },
+  { 
+    "id" : "23",
+    "qType":"Image",
+    "title":
+    {
+      "EN":["Who is this movie star?"]
+    },
+    "questionIMG": "23.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["James Franco", "Johnny Depp", "Skeet Ulrich", "Orlando Bloom"]
+    },
+    "answer":
+    {
+      "EN":"Johnny Depp"
+    }
+  },
+  { 
+    "id" : "24",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What is the artist's name?"
+    },
+    "questionIMG": "24.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Hilary Duff", "Lilly Osmet", "Miley Cyrus", "Kat Dennings"]
+    },
+    "answer":
+    {
+      "EN":"Hilary Duff"
+    }
+  },
+  { 
+    "id" : "25",
+    "qType":"Text",
+    "title":"",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":["His films include Jaws(1975), E.T. the Extra-Terrestrial (1982), and Jurassic Park (1993)."]
+    },
+    "options":
+    {
+      "EN":["Sam Mendes", "Steven Spielberg", "Christopher Nolan", "David Ayer"]
+    },
+    "answer":
+    {
+      "EN":"Steven Spielberg"
+    }
+  }
+]
