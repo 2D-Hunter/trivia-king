@@ -220,17 +220,18 @@
     "solutionIMG": "",
     "question":
     {
-      "EN":["Who created Mickey Mouse?"]
+      "EN":"Who was the male lead in Titanic?"
     },
     "options":
     {
-      "EN":["Alvy Ray Smith", "Walt Disney", "Vincent Price", "Matt Groening"]
+      "EN":["Leonardo DiCaprio", "Brad Pitt", "Johny Depp", "George Clooney"]
     },
     "answer":
     {
-      "EN":"Walt Disney"
+      "EN":"Leonardo DiCaprio"
     }
   },
+  
   { 
     "id" : "13",
     "qType":"Image",
