@@ -220,18 +220,17 @@
     "solutionIMG": "",
     "question":
     {
-      "EN":"Who was the male lead in Titanic?"
+      "EN":"Who created Mickey Mouse?"
     },
     "options":
     {
-      "EN":["Leonardo DiCaprio", "Brad Pitt", "Johny Depp", "George Clooney"]
+      "EN":["Alvy Ray Smith", "Walt Disney", "Vincent Price", "Matt Groening"]
     },
     "answer":
     {
-      "EN":"Leonardo DiCaprio"
+      "EN":"Walt Disney"
     }
   },
-  
   { 
     "id" : "13",
     "qType":"Image",
@@ -278,7 +277,7 @@
     "solutionIMG": "",
     "question":
     {
-      "EN":["Which actor plays Harry Potter?"]
+      "EN":"Which actor plays Harry Potter?"
     },
     "options":
     {
@@ -317,7 +316,7 @@
     "solutionIMG": "",
     "question":
     {
-      "EN":["Which of these actors starred in Mission Impossible?"]
+      "EN":"Which of these actors starred in Mission Impossible?"
     },
     "options":
     {
@@ -355,7 +354,7 @@
     "solutionIMG": "",
     "question":
     {
-      "EN":["Who wrote Harry Potter?"]
+      "EN":"Who wrote Harry Potter?"
     },
     "options":
     {
@@ -412,7 +411,7 @@
     "solutionIMG": "",
     "question":
     {
-      "EN":["Who is the co-founder of Apple Computer?"]
+      "EN":"Who is the co-founder of Apple Computer?"
     },
     "options":
     {
@@ -469,7 +468,7 @@
     "solutionIMG": "",
     "question":
     {
-      "EN":["His films include Jaws(1975), E.T. the Extra-Terrestrial (1982), and Jurassic Park (1993)."]
+      "EN":"His films include Jaws(1975), E.T. the Extra-Terrestrial (1982), and Jurassic Park (1993)."
     },
     "options":
     {
