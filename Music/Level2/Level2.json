@@ -1,0 +1,482 @@
+[
+  {
+
+
+  },
+  { 
+    "id" : "1",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Can you name this singer?"
+    },
+    "questionIMG": "1.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Selena Gomez", "Camila Cabello", "Demi Lovato", "Arianna Gomez"]
+    },
+    "answer":
+    {
+      "EN":"Demi Lovato"
+    }
+  },
+  { 
+    "id" : "2",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"Which singer goes by the nickname J.LO?"
+    },
+    "options":
+    {
+      "EN":["Jennifer Love-Hewitt", "Shakira", "Ciara", "Jennifer Lopez"]
+    },
+    "answer":
+    {
+      "EN":"Jennifer Lopez"
+    }
+  },
+  { 
+    "id" : "3",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Can you name this Beatles singer?"
+    },
+    "questionIMG": "3.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["John Lennon", "Bjorn Uvaeus", "Bob Dylan", "John Phillips"]
+    },
+    "answer":
+    {
+      "EN":"John Lennon"
+    }	
+  },
+  { 
+    "id" : "4",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"This British rock band sings popular songs such as 'Yellow' and 'Fix You'"
+    },
+    "questionIMG": "4.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Coldplay", "Maroon 5", "The Killers", "The Lumineers"]
+    },
+    "answer":
+    {
+      "EN":"Coldplay"
+    }
+  },
+  { 
+    "id" : "5",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"Which musical group includes members named Fergie and Will.i.am?"
+    },
+    "options":
+    {
+      "EN":["The Pussycat Dolls", "The Black Eyed Peas", "The Gorillaz", "LMFAO"]
+    },
+    "answer":
+    {
+      "EN":"The Black Eyed Peas"
+    }
+  },
+  { 
+    "id" : "6",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Can you name this singer?"
+    },
+    "questionIMG": "6.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Reba", "Loretta Lynn", "Dolly Parton", "June Carter"]
+    },
+    "answer":
+    {
+      "EN":"Dolly Parton"
+    }
+  },
+  { 
+    "id" : "7",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Can you name this rapper?"
+    },
+    "questionIMG": "7.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Mackelmore", "Eminem", "Mac Miller", "Logic"]
+    },
+    "answer":
+    {
+      "EN":"Eminem"
+    }
+  },
+  { 
+    "id" : "8",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"Can you name which duo sings 'Party Rock Anthem'?"
+    },
+    "options":
+    {
+      "EN":["The Chainsmokers", "LMFAO", "3OH!3", "Daft Punk"]
+    },
+    "answer":
+    {
+      "EN":"LMFAO"
+    }
+  },
+  { 
+    "id" : "9",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Can you name this artist?"
+    },
+    "questionIMG": "9.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Bob Marley", "Prince", "Michael Jackson", "Lenny Kravitz"]
+    },
+    "answer":
+    {
+      "EN":"Prince"
+    }
+  },
+  { 
+    "id" : "10",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Which rock band does this famous logo belong to?"
+    },
+    "questionIMG": "10.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Velvet Revolver", "AC/DC", "Guns N Roses", "Aerosmith"]
+    },
+    "answer":
+    {
+      "EN":"Guns N Roses"
+    }
+  },
+  { 
+    "id" : "11",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"This singer played Sandy in the film Grease"
+    },
+    "options":
+    {
+      "EN":["Madonna", "Jennifer Grey", "Paula Abdul", "Olivia Newton-John"]
+    },
+    "answer":
+    {
+      "EN":"Olivia Newton-John"
+    }
+  },
+  { 
+    "id" : "12",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Can you name this singer?"
+    },
+    "questionIMG": "12.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Justin Timberlake", "Adam Levine", "Robin Thicke", "Kevin Federline"]
+    },
+    "answer":
+    {
+      "EN":"Justin Timberlake"
+    }
+  },
+  { 
+    "id" : "13",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Can you name this singer?"
+    },
+    "questionIMG": "13.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Avril Lavigne", "Mandy Moore", "Kelly Clarkson", "Miranda Lambert"]
+    },
+    "answer":
+    {
+      "EN":"Kelly Clarkson"
+    }
+  },
+  { 
+    "id" : "14",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"This Jamaican artist is known worldwide for making reggae music popular"
+    },
+    "options":
+    {
+      "EN":["Ziggy Marley", "Bob Marley", "Sean Paul", "Shaggy"]
+    },
+    "answer":
+    {
+      "EN":"Bob Marley"
+    }
+  },
+  { 
+    "id" : "15",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Who is this singer?"
+    },
+    "questionIMG": "15.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["John Lennon", "George Martin", "Elton John", "Paul McCartney"]
+    },
+    "answer":
+    {
+      "EN":"Paul McCartney"
+    }
+    
+  },
+  { 
+    "id" : "16",
+    "qType":"Text",
+    "title":"",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"Which rock band brought us 'Highway to Hell'?"
+    },
+    "options":
+    {
+      "EN":["Journey", "The Cure", "Poison", "AC/DC"]
+    },
+    "answer":
+    {
+      "EN":"AC/DC"
+    }
+  },
+  { 
+    "id" : "17",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Can you name this rapper?"
+    },
+    "questionIMG": "17.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Snoop Dogg", "Kanye West", "Kodak Black", "Eminem"]
+    },
+    "answer":
+    {
+      "EN":"Snoop Dogg"
+    }
+  },
+  { 
+    "id" : "18",
+    "qType":"Text",
+    "title":"",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"This artist sang well known songs such as 'Someone Like You' and 'Rolling in the Deep'"
+    },
+    "options":
+    {
+      "EN":["Sam Smith", "Bruno Mars", "Beyonce", "Adele"]
+    },
+    "answer":
+    {
+      "EN":"Adele"
+    }
+  },
+  { 
+    "id" : "19",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Which Canadian band sings 'How you remind me?'"
+    },
+    "questionIMG": "19.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Nickelback", "Theory Of A Deadman", "Three Doors Down", "Daughtry"]
+    },
+    "answer":
+    {
+      "EN":"Nickelback"
+    }
+  },
+  { 
+    "id" : "20",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Can you name this singer?"
+    },
+    "questionIMG": "20.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Harry Styles", "Chris Martin", "Sam Smith", "Ed Sheeran"]
+    },
+    "answer":
+    {
+      "EN":"Ed Sheeran"
+    }
+  },
+  { 
+    "id" : "21",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What is the name of this singer?"
+    },
+    "questionIMG": "21.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Britney Spears", "Pink", "Christina Aguilera", "Shakira"]
+    },
+    "answer":
+    {
+      "EN":"Britney Spears"
+    }
+  },
+  { 
+    "id" : "22",
+    "qType":"Text",
+    "title":"",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"Which singer sang the hit song 'Closer' alongside The Chainsmokers?"
+    },
+    "options":
+    {
+      "EN":["Julia Michaels", "Tove Lo", "Miley Cyrus", "Halsey"]
+    },
+    "answer":
+    {
+      "EN":"Halsey"
+    }
+  },
+  { 
+    "id" : "23",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Can you name this artist?"
+    },
+    "questionIMG": "23.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Lil Kim", "Nicki Minaj", "Cardi B", "Blac Chyna"]
+    },
+    "answer":
+    {
+      "EN":"Nicki Minaj"
+    }
+  },
+  { 
+    "id" : "24",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What is the name of this singer?"
+    },
+    "questionIMG": "24.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Mario", "Bruno Mars", "Ricky Martin", "Usher"]
+    },
+    "answer":
+    {
+      "EN":"Bruno Mars"
+    }
+  },
+  { 
+    "id" : "25",
+    "qType":"Text",
+    "title":"",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"Who is the lead singer of The Rolling Stones?"
+    },
+    "options":
+    {
+      "EN":["Axl Rose", "Mick Jagger", "Keith Richards", "Gene Simmons"]
+    },
+    "answer":
+    {
+      "EN":"Mick Jagger"
+    }
+  }
+]

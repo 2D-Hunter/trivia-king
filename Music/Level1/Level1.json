@@ -1,0 +1,482 @@
+[
+  {
+
+
+  },
+  { 
+    "id" : "1",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Who is this singer?"
+    },
+    "questionIMG": "1.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Selena Gomez", "Beyonce", "Mariah Carey", "Rihanna"]
+    },
+    "answer":
+    {
+      "EN":"Rihanna"
+    }
+  },
+  { 
+    "id" : "2",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Who is this singer?"
+    },
+    "questionIMG": "2.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Taylor Swift", "Katy Perry", "Miley Cyrus", "Demi Lovato"]
+    },
+    "answer":
+    {
+      "EN":"Taylor Swift"
+    }	
+  },
+  { 
+    "id" : "3",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"Can you name the artist who sings 'Heroes'?"
+    },
+    "options":
+    {
+      "EN":["Prince", "Boy George", "David Bowie", "Elton John"]
+    },
+    "answer":
+    {
+      "EN":"David Bowie"
+    }
+  },
+  { 
+    "id" : "4",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Can you name this band?"
+    },
+    "questionIMG": "4.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["The Rolling Stones", "The Beatles", "Iron Maiden", "AC/DC"]
+    },
+    "answer":
+    {
+      "EN":"The Beatles"
+    }
+  },
+  { 
+    "id" : "5",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"Name the singer who was featured on 'Uptown Funk'?"
+    },
+    "options":
+    {
+      "EN":["The Weeknd", "Bruno Mars", "Jason Derulo", "Adam Levine"]
+    },
+    "answer":
+    {
+      "EN":"Bruno Mars"
+    }
+  },
+  { 
+    "id" : "6",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Can you name this singer?"
+    },
+    "questionIMG": "6.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Hilary Duff", "Miley Cyrus", "Demi Lovato", "Mandy Moore"]
+    },
+    "answer":
+    {
+      "EN":"Miley Cyrus"
+    }
+  },
+  { 
+    "id" : "7",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"Which rapper is married to Beyonce?"
+    },
+    "options":
+    {
+      "EN":["P. Diddy", "Dr. Dre", "Jay-Z", "Kanye West"]
+    },
+    "answer":
+    {
+      "EN":"Jay-Z"
+    }
+  },
+  { 
+    "id" : "8",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Can you name this singer?"
+    },
+    "questionIMG": "8.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Ellie Goulding", "Adele", "Lana Del Rey", "Celine Dion"]
+    },
+    "answer":
+    {
+      "EN":"Adele"
+    }
+  },
+  { 
+    "id" : "9",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Can you name this singer?"
+    },
+    "questionIMG": "9.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Lady Gaga", "Cher", "Britney Spears", "Katy Perry"]
+    },
+    "answer":
+    {
+      "EN":"Lady Gaga"
+    }
+  },
+  { 
+    "id" : "10",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Can you name this singer?"
+    },
+    "questionIMG": "10.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Selena", "Mariah Carey", "Jennifer Lopez", "Beyonce"]
+    },
+    "answer":
+    {
+      "EN":"Jennifer Lopez"
+    }
+  },
+  { 
+    "id" : "11",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"Which band sings 'Bohemian Rhapsody'?"
+    },
+    "options":
+    {
+      "EN":["Queen", "Guns N Roses", "The Rolling Stones", "U2"]
+    },
+    "answer":
+    {
+      "EN":"Queen"
+    }
+  },
+  { 
+    "id" : "12",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Can you name this singer?"
+    },
+    "questionIMG": "12.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Katy Perry", "Demi Lovato", "Zoey Deschannel", "Kesha"]
+    },
+    "answer":
+    {
+      "EN":"Katy Perry"
+    }
+  },
+  { 
+    "id" : "13",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Can you name this singer?"
+    },
+    "questionIMG": "13.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Elvis", "Elton John", "Prince", "Michael Jackson"]
+    },
+    "answer":
+    {
+      "EN":"Michael Jackson"
+    }
+  },
+  { 
+    "id" : "14",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"Who was nicknamed 'The King Of Rock N Roll'?"
+    },
+    "options":
+    {
+      "EN":["Johnny Cash", "Elvis Presley", "Frank Sinatra", "Buddy Holly"]
+    },
+    "answer":
+    {
+      "EN":"Elvis Presley"
+    }
+  },
+  { 
+    "id" : "15",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Who is this singer?"
+    },
+    "questionIMG": "15.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Madonna", "Cher", "Cyndi Lauper", "Kylie Minogue"]
+    },
+    "answer":
+    {
+      "EN":"Madonna"
+    }
+    
+  },
+  { 
+    "id" : "16",
+    "qType":"Text",
+    "title":"",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"What brand is Adam Levine the lead singer of?"
+    },
+    "options":
+    {
+      "EN":["Coldplay", "Maroon 5", "OneRepublic", "The Killers"]
+    },
+    "answer":
+    {
+      "EN":"Maroon 5"
+    }
+  },
+  { 
+    "id" : "17",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Which one of these songs are a hit single from Beyoncé?"
+    },
+    "questionIMG": "17.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Crazy in love", "we belong together", "Fallin'", "candy shop"]
+    },
+    "answer":
+    {
+      "EN":"Crazy in love"
+    }
+  },
+  { 
+    "id" : "18",
+    "qType":"Text",
+    "title":"",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"Who sings 'All About That Bass'?"
+    },
+    "options":
+    {
+      "EN":["Arianna Grande", "Demi Lovato", "Cher Lloyd", "Meghan Trainor"]
+    },
+    "answer":
+    {
+      "EN":"Meghan Trainor"
+    }
+  },
+  { 
+    "id" : "19",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Can you name this singer?"
+    },
+    "questionIMG": "19.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Nick Jonas", "Justin Timberlake", "Justin Bieber", "Shawn Mendes"]
+    },
+    "answer":
+    {
+      "EN":"Justin Bieber"
+    }
+  },
+  { 
+    "id" : "20",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Who is this singer?"
+    },
+    "questionIMG": "20.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Christina Aguilera", "Gwen Stefani", "Britney Spears", "Shakira"]
+    },
+    "answer":
+    {
+      "EN":"Christina Aguilera"
+    }
+  },
+  { 
+    "id" : "21",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What is the name of this singer?"
+    },
+    "questionIMG": "21.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Arianna Grande", "Vanessa Hudgens", "Selena Gomez", "Demi Lovato"]
+    },
+    "answer":
+    {
+      "EN":"Selena Gomez"
+    }
+  },
+  { 
+    "id" : "22",
+    "qType":"Text",
+    "title":"",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"This country singer also appears as a judge on The Voice?"
+    },
+    "options":
+    {
+      "EN":["Blake Shelton", "Luke Bryan", "Tim McGraw", "Kenny Chesney"]
+    },
+    "answer":
+    {
+      "EN":"Blake Shelton"
+    }
+  },
+  { 
+    "id" : "23",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Who is this singer?"
+    },
+    "questionIMG": "23.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Ne-Yo", "Usher", "Chris Brown", "Bruno Mars"]
+    },
+    "answer":
+    {
+      "EN":"Chris Brown"
+    }
+  },
+  { 
+    "id" : "24",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Can you name this singer?"
+    },
+    "questionIMG": "24.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Carrie Underwood", "Selena Gomez", "Britney Spears", "Rihanna"]
+    },
+    "answer":
+    {
+      "EN":"Carrie Underwood"
+    }
+  },
+  { 
+    "id" : "25",
+    "qType":"Text",
+    "title":"",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"Can you name the rapper married to Kim Kardashian?"
+    },
+    "options":
+    {
+      "EN":["Jay-Z", "Kanye West", "T.I.", "Snoop Dogg"]
+    },
+    "answer":
+    {
+      "EN":"Kanye West"
+    }
+  }
+]
