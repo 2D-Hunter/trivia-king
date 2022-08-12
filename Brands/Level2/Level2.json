@@ -1,0 +1,482 @@
+[
+  {
+
+
+  },
+  { 
+    "id" : "1",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Name the brand of these shoes"
+    },
+    "questionIMG": "1.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Adidas", "Nike", "Reebok", "Puma"]
+    },
+    "answer":
+    {
+      "EN":"Adidas"
+    }
+  },
+  { 
+    "id" : "2",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"This clothing brand was founded in 1985"
+    },
+    "questionIMG": "2.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Ralph Lauren", "Tommy Hillfiger", "Guess", "American Eagle"]
+    },
+    "answer":
+    {
+      "EN":"Tommy Hillfiger"
+    }	
+  },
+  { 
+    "id" : "3",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"This restaurant is known for their Root Beer"
+    },
+    "questionIMG": "3.png",
+    "solutionIMG": "3_3.png",
+    "question":"",
+    "options":
+    {
+      "EN":["H&M", "A&W", "M&M's", "Ben & Jerry's"]
+    },
+    "answer":
+    {
+      "EN":"A&W"
+    }
+  },
+  { 
+    "id" : "4",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"Which web browser was developed by Google?"
+    },
+    "options":
+    {
+      "EN":["Chrome", "Firefox", "Safari", "Microsoft Edge"]
+    },
+    "answer":
+    {
+      "EN":"Chrome"
+    }
+  },
+  { 
+    "id" : "5",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What multinational retail company is this?"
+    },
+    "questionIMG": "5.png",
+    "solutionIMG": "5_5.png",
+    "question":"",
+    "options":
+    {
+      "EN":["Winners", "Warner Bros", "Walmart", "Walgreens"]
+    },
+    "answer":
+    {
+      "EN":"Walmart"
+    }
+  },
+  { 
+    "id" : "6",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What is the name of this candy?"
+    },
+    "questionIMG": "6.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Smarties", "Skittles", "M&M's", "Rolo"]
+    },
+    "answer":
+    {
+      "EN":"M&M's"
+    }
+  },
+  { 
+    "id" : "7",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What is the slogan for Rice Krispies?"
+    },
+    "questionIMG": "7.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["'Eat fresh'", "'Snap Crackle Pop'", "Have a break", "Finger lickin good"]
+    },
+    "answer":
+    {
+      "EN":"Snap Crackle Pop"
+    }
+  },
+  { 
+    "id" : "8",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What is this restaurant?"
+    },
+    "questionIMG": "8.png",
+    "solutionIMG": "8_8.png",
+    "question":"",
+    "options":
+    {
+      "EN":["Chick-Fil-A", "Subway", "Pizza Hut", "Taco Bell"]
+    },
+    "answer":
+    {
+      "EN":"Pizza Hut"
+    }
+  },
+  { 
+    "id" : "9",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Name this package delivery company"
+    },
+    "questionIMG": "9.png",
+    "solutionIMG": "9_9.png",
+    "question":"",
+    "options":
+    {
+      "EN":["Off!", "GM", "Warner Bros", "UPS"]
+    },
+    "answer":
+    {
+      "EN":"UPS"
+    }
+  },
+  { 
+    "id" : "10",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"This brand produces swimwear"
+    },
+    "questionIMG": "10.png",
+    "solutionIMG": "10_10.png",
+    "question":"",
+    "options":
+    {
+      "EN":["Speedo", "Sea-Doo", "Soloman", "Sanuk"]
+    },
+    "answer":
+    {
+      "EN":"Speedo"
+    }
+  },
+  { 
+    "id" : "11",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"Which of these is an online auction and shopping website?"
+    },
+    "options":
+    {
+      "EN":["Facebook", "Pinterest", "Bling", "eBay"]
+    },
+    "answer":
+    {
+      "EN":"eBay"
+    }
+  },
+  { 
+    "id" : "12",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What fast food restaurant is this?"
+    },
+    "questionIMG": "12.png",
+    "solutionIMG": "12_12.png",
+    "question":"",
+    "options":
+    {
+      "EN":["Chick-fil-A", "A&W", "Swiss Chalet", "KFC"]
+    },
+    "answer":
+    {
+      "EN":"KFC"
+    }
+  },
+  { 
+    "id" : "13",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Name this brand of spring water"
+    },
+    "questionIMG": "13.png",
+    "solutionIMG": "13_13.png",
+    "question":"",
+    "options":
+    {
+      "EN":["Perrier", "Voss", "Fiji", "Evian"]
+    },
+    "answer":
+    {
+      "EN":"Evian"
+    }
+  },
+  { 
+    "id" : "14",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What is this brand?"
+    },
+    "questionIMG": "14.png",
+    "solutionIMG": "14_14.png",
+    "question":"",
+    "options":
+    {
+      "EN":["Nike", "ASICS", "Reebok", "Champion"]
+    },
+    "answer":
+    {
+      "EN":"Reebok"
+    }
+  },
+  { 
+    "id" : "15",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What is this online encyclopedia called?"
+    },
+    "questionIMG": "15.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Google Scholar", "Wikipedia", "McGraw-Hill", "Pearson Education"]
+    },
+    "answer":
+    {
+      "EN":"Wikipedia"
+    }
+  },
+  { 
+    "id" : "16",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What does this logo represent?"
+    },
+    "questionIMG": "16.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Hotmail", "Gmail", "AOL", "Outlook"]
+    },
+    "answer":
+    {
+      "EN":"Gmail"
+    }
+    
+  },
+  { 
+    "id" : "17",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What logo is this?"
+    },
+    "questionIMG": "17.png",
+    "solutionIMG": "17_17png",
+    "question":"",
+    "options":
+    {
+      "EN":["TLC", "TiVo", "TD", "TJX"]
+    },
+    "answer":
+    {
+      "EN":"TD"
+    }
+  },
+  { 
+    "id" : "18",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"Which restaurant is best known for their donuts?"
+    },
+    "options":
+    {
+      "EN":["New York Fries", "McDonald's", "Dunkin' Donuts", "Cinnabon"]
+    },
+    "answer":
+    {
+      "EN":"Dunkin' Donuts"
+    }
+  },
+  { 
+    "id" : "19",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Name this company"
+    },
+    "questionIMG": "19.png",
+    "solutionIMG": "19_19.png",
+    "question":"",
+    "options":
+    {
+      "EN":["Petro China", "Pandora", "PayPal", "Paramount"]
+    },
+    "answer":
+    {
+      "EN":"PayPal"
+    }
+  },
+  { 
+    "id" : "20",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Name the brand of this perfume"
+    },
+    "questionIMG": "20.png",
+    "solutionIMG": "20_20.png",
+    "question":"",
+    "options":
+    {
+      "EN":["Chloé", "Coach", "Chanel", "Cartier"]
+    },
+    "answer":
+    {
+      "EN":"Chanel"
+    }
+  },
+  { 
+    "id" : "21",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What watch brand is this?"
+    },
+    "questionIMG": "21.png",
+    "solutionIMG": "21_21.png",
+    "question":"",
+    "options":
+    {
+      "EN":["Timex", "Rolex", "Coach", "Fossil"]
+    },
+    "answer":
+    {
+      "EN":"Rolex"
+    }
+  },
+  { 
+    "id" : "22",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"This is a membership-only multinational brand"
+    },
+    "questionIMG": "22.png",
+    "solutionIMG": "22_22.png",
+    "question":"",
+    "options":
+    {
+      "EN":["Costco", "Cabela's", "Century 21", "Sam's Club"]
+    },
+    "answer":
+    {
+      "EN":"Costco"
+    }
+  },
+  { 
+    "id" : "23",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"Which pizza restaurant is named after a board game?"
+    },
+    "options":
+    {
+      "EN":["Little Caesars", "Pizza Hut", "Domino's", "Naples"]
+    },
+    "answer":
+    {
+      "EN":"Domino's"
+    }
+  },
+  { 
+    "id" : "24",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"This fast food company is known for their 6 inch or foot long sandwiches"
+    },
+    "questionIMG": "24.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Quiznos", "Subway", "Wendy's", "Arby's"]
+    },
+    "answer":
+    {
+      "EN":"Subway"
+    }
+  },
+  { 
+    "id" : "25",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Who is Pepsico's biggest competitor?"
+    },
+    "questionIMG": "25.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Dr. Pepper", "Fanta", "Root Beer", "Coca-Cola"]
+    },
+    "answer":
+    {
+      "EN":"Coca-Cola"
+    }
+  }
+]
