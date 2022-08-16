@@ -1,0 +1,482 @@
+[
+  {
+
+
+  },
+  { 
+    "id" : "1",
+    "qType":"Text",
+    "title":"",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"Which vegetable is grown as cob?"
+    },
+    "options":
+    {
+      "EN":["Corn", "Peas", "Green Beans", "Carrots"]
+    },
+    "answer":
+    {
+      "EN":"Corn"
+    }
+	
+  }, 
+  { 
+    "id" : "2",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What kind of cheese goes on a Greek salad?"
+    },
+    "questionIMG": "2.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Brie", "Goat Cheese", "Gouda", "Feta"]
+    },
+    "answer":
+    {
+      "EN":"Feta"
+    }
+  }, 
+  { 
+    "id" : "3",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Popular in American culture, what is this sausage meal called?"
+    },
+    "questionIMG": "3.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Frankfurter", "Sandwich", "Steak", "Hot Dog"]
+    },
+    "answer":
+    {
+      "EN":"Hot Dog"
+    }
+  },
+  { 
+    "id" : "4",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What type of cocktail is this?"
+    },
+    "questionIMG": "4.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Margarita", "Mojito", "Tonic water", "Martini"]
+    },
+    "answer":
+    {
+      "EN":"Martini"
+    }
+  },
+  { 
+    "id" : "5",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What is this?"
+    },
+    "questionIMG": "5.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Fajita", "Enchilada", "Burrito", "Quesadilla"]
+    },
+    "answer":
+    {
+      "EN":"Quesadilla"
+    }
+  },
+  { 
+    "id" : "6",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What kind of cheese is this?"
+    },
+    "questionIMG": "6.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Parmesan", "Mozzarella", "Brie", "Monterey Jack"]
+    },
+    "answer":
+    {
+      "EN":"Parmesan"
+    }
+  },
+  { 
+    "id" : "7",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"What is the name of the ice cream that contains chocolate, strawberry and vanilla, all in the same container?"
+    },
+    "options":
+    {
+      "EN":["Neapolitan", "Spumoni", "Moon Mist", "Hockey pokey"]
+    },
+    "answer":
+    {
+      "EN":"Neapolitan"
+    }
+  },
+  { 
+    "id" : "8",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What type of cuisine does Dim Sum come from?"
+    },
+    "questionIMG": "8.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Chinese", "Italian", "Japanese", "Mexican"]
+    },
+    "answer":
+    {
+      "EN":"Chinese"
+    }
+  },
+  { 
+    "id" : "9",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What type of nut is this?"
+    },
+    "questionIMG": "9.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Peanut", "Almond", "Cashew", "Brazil nut"]
+    },
+    "answer":
+    {
+      "EN":"Almond"
+    }
+  },
+  { 
+    "id" : "10",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"A snack made from marshmallows, graham crackers, and chocolate is called?"
+    },
+    "questionIMG": "10.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Cake", "Browine", "S'mores", "Cookies"]
+    },
+    "answer":
+    {
+      "EN":"S'mores"
+    }
+  },
+  { 
+    "id" : "11",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"What is the yellow condiment typically used on sandwiches or hotdogs?"
+    },
+    "options":
+    {
+      "EN":["Ketchup", "Mustard", "Horseraddish", "Mayonnaise"]
+    },
+    "answer":
+    {
+      "EN":"Mustard"
+    }
+  },
+  { 
+    "id" : "12",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"This is the most common morning beverage?"
+    },
+    "questionIMG": "12.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Tea", "Coffee", "Espresso", "Apple Juice"]
+    },
+    "answer":
+    {
+      "EN":"Coffee"
+    }
+  },
+  { 
+    "id" : "13",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What is this?"
+    },
+    "questionIMG": "13.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Vinarterta", "Dobos cake", "Mocha cake", "Tiramisu"]
+    },
+    "answer":
+    {
+      "EN":"Tiramisu"
+    }
+  },
+  { 
+    "id" : "14",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"What do you call someone who doesn't eat meat"
+    },
+    "options":
+    {
+      "EN":["Healthy", "Pescatarian", "Carnivore", "Vegetarian"]
+    },
+    "answer":
+    {
+      "EN":"Vegetarian"
+    }
+  },
+  { 
+    "id" : "15",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What are these?"
+    },
+    "questionIMG": "15.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Mussels", "Oysters", "Clams", "Shrimp"]
+    },
+    "answer":
+    {
+      "EN":"Oysters"
+    }
+  },
+  { 
+    "id" : "16",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What type of pasta is this?"
+    },
+    "questionIMG": "16.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Linguine", "Capellini", "Spaghetti", "Fiori"]
+    },
+    "answer":
+    {
+      "EN":"Linguine"
+    }
+  },
+  { 
+    "id" : "17",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"Which country did pizza originate from?"
+    },
+    "options":
+    {
+      "EN":["USA", "France", "Canada", "Italy"]
+    },
+    "answer":
+    {
+      "EN":"Italy"
+    }
+  },
+  { 
+    "id" : "18",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What fruit is this?"
+    },
+    "questionIMG": "18.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Apple", "Mango", "Orange", "Peach"]
+    },
+    "answer":
+    {
+      "EN":"Peach"
+    }
+  },
+  { 
+    "id" : "19",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"What ingredient in bread causes it to rise?"
+    },
+    "options":
+    {
+      "EN":["Eggs", "Flour", "Salt", "yeast"]
+    },
+    "answer":
+    {
+      "EN":"yeast"
+    }
+  },
+  { 
+    "id" : "20",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What do you normally eat with peanut butter on bread?"
+    },
+    "questionIMG": "20.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Syrup", "Jam", "Honey", "Fruit"]
+    },
+    "answer":
+    {
+      "EN":"Jam"
+    }
+  },
+  { 
+    "id" : "21",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What candy is famous around halloween?"
+    },
+    "questionIMG": "21.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["M & Ms", "Snickers", "Candy Corn", "Lollipop"]
+    },
+    "answer":
+    {
+      "EN":"Candy Corn"
+    }
+  },
+  { 
+    "id" : "22",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What type of tea has the most caffeine?"
+    },
+    "questionIMG": "22.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Jasmine", "Black", "Herbal", "Green"]
+    },
+    "answer":
+    {
+      "EN":"Black"
+    }
+  },
+  { 
+    "id" : "23",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What type of pepper is this?"
+    },
+    "questionIMG": "23.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Jalapeno", "Chili Pepper", "Banana Pepper", "Bell Pepper"]
+    },
+    "answer":
+    {
+      "EN":"Jalapeno"
+    }
+  },
+  { 
+    "id" : "24",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What type of cheese most commonly goes on a pizza?"
+    },
+    "questionIMG": "24.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Cheddar", "Mozzarella", "Feta", "Sheep"]
+    },
+    "answer":
+    {
+      "EN":"Mozzarella"
+    }
+  },
+  { 
+    "id" : "25",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Which of the following fruits is the highest in calories?"
+    },
+    "questionIMG": "25.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Kiwi", "Banana", "Orange", "Avocado"]
+    },
+    "answer":
+    {
+      "EN":"Avocado"
+    }
+  }
+]

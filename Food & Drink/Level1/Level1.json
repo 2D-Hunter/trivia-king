@@ -1,0 +1,482 @@
+[
+  {
+
+
+  },
+  { 
+    "id" : "1",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What is the name of this dessert?"
+    },
+    "questionIMG": "1.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["English Muffin", "Stottie cake", "Crumpet", "Cupcake"]
+    },
+    "answer":
+    {
+      "EN":"Cupcake"
+    }		
+  }, 
+  { 
+    "id" : "2",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What is this?"
+    },
+    "questionIMG": "2.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Manicotti", "Lasagna", "Fettuccine", "Spaghetti"]
+    },
+    "answer":
+    {
+      "EN":"Lasagna"
+    }
+  }, 
+  { 
+    "id" : "3",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What are these eggs cooked?"
+    },
+    "questionIMG": "3.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Over easy", "Sunny Side Up", "Soft Boiled", "Poached"]
+    },
+    "answer":
+    {
+      "EN":"Sunny Side Up"
+    }
+  }, 
+  { 
+    "id" : "4",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What is the main ingredient in guacamole?"
+    },
+    "questionIMG": "4.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Spinach", "Cabbage", "Avocado", "Peas"]
+    },
+    "answer":
+    {
+      "EN":"Avocado"
+    }
+  },
+  { 
+    "id" : "5",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What is this?"
+    },
+    "questionIMG": "5.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["English Muffins", "French toast", "Pancakes", "Waffles"]
+    },
+    "answer":
+    {
+      "EN":"French toast"
+    }
+  },
+  { 
+    "id" : "6",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What is the name of this meal?"
+    },
+    "questionIMG": "6.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["bread sticks", "Pasta", "panzerotti", "Pizza"]
+    },
+    "answer":
+    {
+      "EN":"Pizza"
+    }
+  },
+  { 
+    "id" : "7",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What fruit is this?"
+    },
+    "questionIMG": "7.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Plantain", "Cantaloupe", "Mango", "Banana"]
+    },
+    "answer":
+    {
+      "EN":"Banana"
+    }
+  },
+  { 
+    "id" : "8",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What is the main ingredient in hummus?"
+    },
+    "questionIMG": "8.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Pine nuts", "Navy beans", "Chickpeas", "Kidney beans"]
+    },
+    "answer":
+    {
+      "EN":"Chickpeas"
+    }
+  },
+  { 
+    "id" : "9",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What type of cheese has holes in it?"
+    },
+    "questionIMG": "9.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Gouda", "Cheddar", "Provolone", "Swiss"]
+    },
+    "answer":
+    {
+      "EN":"Swiss"
+    }
+  },
+  { 
+    "id" : "10",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What are these?"
+    },
+    "questionIMG": "10.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Bell Peppers", "Jalapeno peppers", "Zucchini", "Tomatoes"]
+    },
+    "answer":
+    {
+      "EN":"Bell Peppers"
+    }
+  },
+  { 
+    "id" : "11",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What is this popular japanese meal?"
+    },
+    "questionIMG": "11.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Cabbage", "Sushi", "Tempura", "Tofu"]
+    },
+    "answer":
+    {
+      "EN":"Sushi"
+    }
+  },
+  { 
+    "id" : "12",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What is this?"
+    },
+    "questionIMG": "12.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Croissant", "Pig in a Blanket", "Calzones", "Spinach pie"]
+    },
+    "answer":
+    {
+      "EN":"Croissant"
+    }
+  },
+  { 
+    "id" : "13",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What kind of pasta is this?"
+    },
+    "questionIMG": "13.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Tortellini", "Penne", "Macaroni", "Rotini"]
+    },
+    "answer":
+    {
+      "EN":"Penne"
+    }	
+  },
+  { 
+    "id" : "14",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What type of seafood is this?"
+    },
+    "questionIMG": "14.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Salmon", "Cod", "Octopus", "Squid"]
+    },
+    "answer":
+    {
+      "EN":"Salmon"
+    }	
+  },
+  { 
+    "id" : "15",
+    "qType":"Text",
+    "title":"",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"Which vegetable makes some people cry when cutting it?"
+    },
+    "options":
+    {
+      "EN":["Carrot", "Lettuce", "Onion", "Potato"]
+    },
+    "answer":
+    {
+      "EN":"Onion"
+    }
+  },
+  { 
+    "id" : "16",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"A tomato is considered a ....?"
+    },
+    "questionIMG": "16.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Herb", "Dessert", "Fruit", "Vegetable"]
+    },
+    "answer":
+    {
+      "EN":"Vegetable"
+    }
+  },
+  { 
+    "id" : "17",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What is this?"
+    },
+    "questionIMG": "17.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Apple Pie", "Apple Strudel", "Carmel Apple", "Apple Cake"]
+    },
+    "answer":
+    {
+      "EN":"Apple Pie"
+    }
+  },
+  { 
+    "id" : "18",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What is the name of this spicy sauce usually eaten with sushi?"
+    },
+    "questionIMG": "18.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Wasabi", "Soy Sauce", "Miso", "Plum Sauce"]
+    },
+    "answer":
+    {
+      "EN":"Wasabi"
+    }
+  },
+  { 
+    "id" : "19",
+    "qType":"Text",
+    "title":"",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"Which drink is typically taken as a shot with lemon and salt?"
+    },
+    "options":
+    {
+      "EN":["Tequila", "Whiskey", "Vodka", "Gin"]
+    },
+    "answer":
+    {
+      "EN":"Tequila"
+    }
+  },
+  { 
+    "id" : "20",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Which of the following is a type of grapefruit?"
+    },
+    "questionIMG": "20.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Ruby red", "Cripps Pink", "Golden delicious", "Tristar"]
+    },
+    "answer":
+    {
+      "EN":"Ruby red"
+    }
+  },
+  { 
+    "id" : "21",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What is this called?"
+    },
+    "questionIMG": "21.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Kale", "Spinach", "Parsley", "Garlic"]
+    },
+    "answer":
+    {
+      "EN":"Spinach"
+    }	
+  },
+  { 
+    "id" : "22",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What is this?"
+    },
+    "questionIMG": "22.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Burrito", "Taco", "Fajita", "Enchilada"]
+    },
+    "answer":
+    {
+      "EN":"Taco"
+    }	
+  },
+  { 
+    "id" : "23",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Which dried fruit is this?"
+    },
+    "questionIMG": "23.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Cranberries", "Dates", "Apricots", "Mangoes"]
+    },
+    "answer":
+    {
+      "EN":"Dates"
+    }	
+  },
+  { 
+    "id" : "24",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Which is the cooking term for soaking meat in a flavored liquid before cooking?"
+    },
+    "questionIMG": "24.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Saute", "julienne", "Caramelize", "Marinate"]
+    },
+    "answer":
+    {
+      "EN":"Marinate"
+    }
+  },
+  { 
+    "id" : "25",
+    "qType":"Text",
+    "title":"",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"What type of food is traditionally eaten to celebrate a birthday?"
+    },
+    "options":
+    {
+      "EN":["Cookies", "Donuts", "Cake", "Chocolate Bar"]
+    },
+    "answer":
+    {
+      "EN":"Cake"
+    }	
+  } 
+  
+]
