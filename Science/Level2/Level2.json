@@ -1,0 +1,483 @@
+[
+  {
+
+
+  },
+  { 
+    "id" : "1",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What is the closest planet to the sun?"
+    },
+    "questionIMG": "1.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Mercury", "Jupiter", "Uranus", "Venus"]
+    },
+    "answer":
+    {
+      "EN":"Mercury"
+    }
+  },
+  { 
+    "id" : "2",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Who discovered 3 laws of motion?"
+    },
+    "questionIMG": "2.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Albert Einstein", "Sir Isaac Newton", "Thomas Edison", "Charles Darwin"]
+    },
+    "answer":
+    {
+      "EN":"Sir Isaac Newton"
+    }
+  },
+  { 
+    "id" : "3",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Where is the coldest place on earth?"
+    },
+    "questionIMG": "3.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Antarctica", "Canada", "Arctic", "Russia"]
+    },
+    "answer":
+    {
+      "EN":"Antarctica"
+    }
+  },
+  { 
+    "id" : "4",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What organ is this?"
+    },
+    "questionIMG": "4.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Heart", "Liver", "Lungs", "Brain"]
+    },
+    "answer":
+    {
+      "EN":"Lungs"
+    }
+  },
+  { 
+    "id" : "5",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What is the compound of salt?"
+    },
+    "questionIMG": "5.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["K", " NaCl,", "H2O", "C2o"]
+    },
+    "answer":
+    {
+      "EN":"NaCl"
+    }
+  },
+  { 
+    "id" : "6",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"Which part of a plant soaks up nutrients?"
+    },
+    "options":
+    {
+      "EN":["Stem", "The flower", "Chlorophyll", "Roots"]
+    },
+    "answer":
+    {
+      "EN":"Roots"
+    }
+  },
+  { 
+    "id" : "7",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"Which organ pumps blood throughout your body?"
+    },
+    "options":
+    {
+      "EN":["Heart", "Lungs", "Skin", "Brain"]
+    },
+    "answer":
+    {
+      "EN":"Heart"
+    }
+  },
+  { 
+    "id" : "8",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"Which organ controls your nervous system?"
+    },
+    "options":
+    {
+      "EN":["Heart", "Kidney's", "Brain", "Liver"]
+    },
+    "answer":
+    {
+      "EN":"Brain"
+    }
+  },
+  { 
+    "id" : "9",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"What is the tallest animal in the world?"
+    },
+    "options":
+    {
+      "EN":["Grizzly Bear", "Giraffe", "Hippo", "Elephant"]
+    },
+    "answer":
+    {
+      "EN":"Giraffe"
+    }
+  },
+  { 
+    "id" : "10",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"In the animal kingdom what does arachnid mean?"
+    },
+    "options":
+    {
+      "EN":["Dragon Fly", "Spider", "Pill Bugs", "Crayfish"]
+    },
+    "answer":
+    {
+      "EN":"Spider"
+    }
+  },
+  { 
+    "id" : "11",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"How many legs does a spider have?"
+    },
+    "questionIMG": "11.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["4", "5,", "9", "8"]
+    },
+    "answer":
+    {
+      "EN":"8"
+    }
+  },
+  { 
+    "id" : "12",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"Which galaxy are we located in?"
+    },
+    "options":
+    {
+      "EN":["Whirlpool", "Andromeda", "Sombrero", "Milky Way"]
+    },
+    "answer":
+    {
+      "EN":"Milky Way"
+    }
+  },
+  { 
+    "id" : "13",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Where does solar power get its energy from?"
+    },
+    "questionIMG": "13.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["The Sun", "Water,", "Nuclear", "Wind"]
+    },
+    "answer":
+    {
+      "EN":"The Sun"
+    }
+  },
+  { 
+    "id" : "14",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"What does 'WWW' stand for?"
+    },
+    "options":
+    {
+      "EN":["Web Wide World", "World Wide Web", "Wise World Web", "Whole Web Work"]
+    },
+    "answer":
+    {
+      "EN":"World Wide Web"
+    }
+  },
+  { 
+    "id" : "15",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"Which color is emerald?"
+    },
+    "options":
+    {
+      "EN":["Red", "Yellow", "Green", "Blue"]
+    },
+    "answer":
+    {
+      "EN":"Green"
+    }
+  },
+  { 
+    "id" : "16",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What mineral supports strong bones?"
+    },
+    "questionIMG": "16.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["B12", "Vitamin D,", "Calcium", "Vitamin C"]
+    },
+    "answer":
+    {
+      "EN":"Calcium"
+    }
+  },
+  { 
+    "id" : "17",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"Which fruit is known to contain a lot of vitamin C?"
+    },
+    "options":
+    {
+      "EN":["Bananas", "Peaches", "Oranges", "Blueberries"]
+    },
+    "answer":
+    {
+      "EN":"Oranges"
+    }
+  },
+  { 
+    "id" : "18",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"Which substance can cause cancer?"
+    },
+    "options":
+    {
+      "EN":["Caprolactum", "Carcinogens", "Carrageenan", "Crude oil"]
+    },
+    "answer":
+    {
+      "EN":"Carcinogens"
+    }
+  },
+  { 
+    "id" : "19",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"Which acid gives sour foods like oranges and lemons its characteristic taste?"
+    },
+    "options":
+    {
+      "EN":["Spice", "Citric", "Hot", "Sweet"]
+    },
+    "answer":
+    {
+      "EN":"Citric"
+    }
+  },
+
+  { 
+    "id" : "20",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What kind of storm is this?"
+    },
+    "questionIMG": "20.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Hurricane", "Thunderstorm", "Tsunami", "Tornado"]
+    },
+    "answer":
+    {
+      "EN":"Hurricane"
+    }
+  },
+  { 
+    "id" : "21",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What kind of storm is this?"
+    },
+    "questionIMG": "21.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Thunderstorm", "Hurricane,", "Tsunami", "Tornado"]
+    },
+    "answer":
+    {
+      "EN":"Tornado"
+    }
+  },
+  { 
+    "id" : "22",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"Which system takes care of the heart?"
+    },
+    "options":
+    {
+      "EN":["Nervous System", "Muscular System", "Cardiovascular", "Skeletal System"]
+    },
+    "answer":
+    {
+      "EN":"Cardiovascular"
+    }
+  },
+  { 
+    "id" : "23",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What system takes care of the brain?"
+    },
+    "questionIMG": "23.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Cardiovascular", "Muscular System,", "Nervous System", "Skeletal System"]
+    },
+    "answer":
+    {
+      "EN":"Nervous System"
+    }
+  },
+  { 
+    "id" : "24",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"Which line of latitude is the hottest on earth?"
+    },
+    "options":
+    {
+      "EN":["Prime Meridian", "Antarctic Circle", "North to South Pole", "Equator"]
+    },
+    "answer":
+    {
+      "EN":"Equator"
+    }
+  },
+  { 
+    "id" : "25",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"Which is the longest river?"
+    },
+    "options":
+    {
+      "EN":["Amazon", "St. Lawrence", "Nile", "Mississippi"]
+    },
+    "answer":
+    {
+      "EN":"Nile"
+    }
+  }
+
+]

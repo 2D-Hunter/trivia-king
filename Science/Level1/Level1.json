@@ -1,0 +1,481 @@
+[
+  {
+
+
+  },
+  { 
+    "id" : "1",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"How does a plant get its energy to grow?"
+    },
+    "questionIMG": "1.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Sleep", "Water", "Insects", "Sun"]
+    },
+    "answer":
+    {
+      "EN":"Sun"
+    }
+  },
+  { 
+    "id" : "2",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"In meteorology what is another word for condensation?"
+    },
+    "options":
+    {
+      "EN":["Photosynthesis", "Precipitation", "Humidity", "Fog"]
+    },
+    "answer":
+    {
+      "EN":"Precipitation"
+    }
+  },
+  { 
+    "id" : "3",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"H2O is another name for?"
+    },
+    "options":
+    {
+      "EN":["Oxygen", "Salt", "Helium", "Water"]
+    },
+    "answer":
+    {
+      "EN":"Water"
+    }
+  },
+  { 
+    "id" : "4",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What classification of food consumption do humans belong in?"
+    },
+    "questionIMG": "4.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Herbivore", "Carnivore", "Omnivore", "Folivore"]
+    },
+    "answer":
+    {
+      "EN":"Omnivore"
+    }
+  },
+  { 
+    "id" : "5",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What is the name of this table?"
+    },
+    "questionIMG": "5.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Pie graph", "Food chart", "Periodic table", "Multiplication table"]
+    },
+    "answer":
+    {
+      "EN":""
+    }
+  },
+  { 
+    "id" : "6",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"Which element is liquid at room temperature?"
+    },
+    "options":
+    {
+      "EN":["Magnesium", "Potassium", "Mercury", "Zinc"]
+    },
+    "answer":
+    {
+      "EN":"Mercury"
+    }
+  },
+  { 
+    "id" : "7",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What does a caterpillar grow into?"
+    },
+    "questionIMG": "7.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Worm", "Fly", "Bird", "Butterfly"]
+    },
+    "answer":
+    {
+      "EN":"Butterfly"
+    }
+  },
+  { 
+    "id" : "8",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"What is the inner layer of the planet?"
+    },
+    "options":
+    {
+      "EN":["Crust", "Mantle", "Core", "Troposphere"]
+    },
+    "answer":
+    {
+      "EN":"Core"
+    }
+  },
+  { 
+    "id" : "9",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"How many states of matter are there?"
+    },
+    "options":
+    {
+      "EN":["3", "2", "7", "8"]
+    },
+    "answer":
+    {
+      "EN":"3"
+    }
+  },
+  { 
+    "id" : "10",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"What are clouds made out of?"
+    },
+    "options":
+    {
+      "EN":["Gas", "Water", "Soil", "All of the above"]
+    },
+    "answer":
+    {
+      "EN":"All of the above"
+    }
+  },
+  { 
+    "id" : "11",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"What is genetic code called?"
+    },
+    "options":
+    {
+      "EN":["Neuro", "Transcript", "Chromosome", "DNA"]
+    },
+    "answer":
+    {
+      "EN":"DNA"
+    }
+  },
+  { 
+    "id" : "12",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What is the largest ocean on earth?"
+    },
+    "questionIMG": "12.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Indian", "Southern", "Atlantic", "Pacific"]
+    },
+    "answer":
+    {
+      "EN":"Pacific"
+    }
+  },
+  { 
+    "id" : "13",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"Diamonds are comprised of which element?"
+    },
+    "options":
+    {
+      "EN":["Sulfur", "Carbon", "Calcium", "Helium"]
+    },
+    "answer":
+    {
+      "EN":"Carbon"
+    }
+  },
+  { 
+    "id" : "14",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Which element is found in pencils?"
+    },
+    "questionIMG": "14.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Zinc", "Mica", "Lead", "Graphite"]
+    },
+    "answer":
+    {
+      "EN":"Graphite"
+    }
+  },
+  { 
+    "id" : "15",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"What is the hardest substance found on earth?"
+    },
+    "options":
+    {
+      "EN":["Diamond", "Calcite", "Limestone", "Diorite"]
+    },
+    "answer":
+    {
+      "EN":"Diamond"
+    }
+  },
+  { 
+    "id" : "16",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"Which planet is known as red planet?"
+    },
+    "options":
+    {
+      "EN":["Venus", "Mars", "Neptune", "Saturn"]
+    },
+    "answer":
+    {
+      "EN":"Mars"
+    }
+  },
+  { 
+    "id" : "17",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What are baby frogs and toads called?"
+    },
+    "questionIMG": "17.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Pup", "Tadpoles", "Kit", "Doe"]
+    },
+    "answer":
+    {
+      "EN":"Tadpoles"
+    }
+  },
+  { 
+    "id" : "18",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"What did Albert Einstein discover?"
+    },
+    "options":
+    {
+      "EN":["Radioactivity", "3 laws of motion", "Natural Selection", "Theory of relativity"]
+    },
+    "answer":
+    {
+      "EN":"Theory of relativity"
+    }
+  },
+  { 
+    "id" : "19",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What can tropical storms turn into?"
+    },
+    "questionIMG": "19.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Sand Storm", "Tornadoes", "Hurricanes", "Firestorm"]
+    },
+    "answer":
+    {
+      "EN":"Hurricanes"
+    }
+  },
+  { 
+    "id" : "20",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"How many natural senses does a human have?"
+    },
+    "options":
+    {
+      "EN":["8", "2", "5", "3"]
+    },
+    "answer":
+    {
+      "EN":"5"
+    }
+  },
+  { 
+    "id" : "21",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Which planet is the largest in our solar system?"
+    },
+    "questionIMG": "21.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Venus", "Jupiter", "Neptune", "Mars"]
+    },
+    "answer":
+    {
+      "EN":"Jupiter"
+    }
+  },
+  { 
+    "id" : "22",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Who was the first man on the moon?"
+    },
+    "questionIMG": "22.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Buzz Aldrin", "Buzz Lightyear", "Neil Armstrong", "John Glenn"]
+    },
+    "answer":
+    {
+      "EN":"Neil Armstrong"
+    }
+  },
+  { 
+    "id" : "23",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"What is the name of the star all the planets in our system orbit?"
+    },
+    "options":
+    {
+      "EN":["The Moon", "Sun", "Mars", "Saturn"]
+    },
+    "answer":
+    {
+      "EN":"Sun"
+    }
+  },
+  { 
+    "id" : "24",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"What is the name of the earth's natural satellite?"
+    },
+    "options":
+    {
+      "EN":["The Moon", "Venus", "Pluto", "Mars"]
+    },
+    "answer":
+    {
+      "EN":"The Moon"
+    }
+  },
+  { 
+    "id" : "25",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"How many colours are in a rainbow?"
+    },
+    "options":
+    {
+      "EN":["7", "4", "3", "5"]
+    },
+    "answer":
+    {
+      "EN":"7"
+    }
+  }
+]
