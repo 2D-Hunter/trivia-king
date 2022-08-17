@@ -1,0 +1,386 @@
+[
+  {
+
+
+  },
+  { 
+    "id" : "1",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Which team player is the only one allowed to use their hands?"
+    },
+    "questionIMG": "1.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Right Back", "Striker", "Goalkeeper", "Forward"]
+    },
+    "answer":
+    {
+      "EN":"Goalkeeper"
+    }
+  },
+  { 
+    "id" : "2",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"What is another name for soccer?"
+    },
+    "options":
+    {
+      "EN":["basketball", "football", "baseball", "hacky sack"]
+    },
+    "answer":
+    {
+      "EN":"football"
+    }
+  },
+  { 
+    "id" : "3",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"What is the major international competition for soccer?"
+    },
+    "options":
+    {
+      "EN":["FIFA World cup", "NHL", "The Master", "Super Bowl"]
+    },
+    "answer":
+    {
+      "EN":"FIFA World cup"
+    }
+  },
+  { 
+    "id" : "4",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Which professional soccer team is this?"
+    },
+    "questionIMG": "4.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["D.C. United", "Leicester City F.C.", "FC Dallas", "Sounders FC"]
+    },
+    "answer":
+    {
+      "EN":"FC Dallas"
+    }
+  },
+  { 
+    "id" : "5",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Whis is this famous athlete?"
+    },
+    "questionIMG": "5.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["David Beckham", "Steven Gerard", "Michael Owen", "Lionel Messi"]
+    },
+    "answer":
+    {
+      "EN":"David Beckham"
+    }
+  },
+  { 
+    "id" : "6",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Who is this famous footballer?"
+    },
+    "questionIMG": "6.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Ronaldinho", "Christiano Ronaldo", "Lionel Messi", "Luis Suarez"]
+    },
+    "answer":
+    {
+      "EN":"Lionel Messi"
+    }
+  },
+  { 
+    "id" : "7",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Which football club is this?"
+    },
+    "questionIMG": "7.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Real Madrid C.F.", "Paris St-Germain", "Manchester United", "F.C.Barcelona"]
+    },
+    "answer":
+    {
+      "EN":"Real Madrid C.F."
+    }
+  },
+  { 
+    "id" : "8",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Who is this famous soccer player?"
+    },
+    "questionIMG": "8.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Lionel Messi", "Luis Suarez", "Christiano Ronaldo", "David Beckham"]
+    },
+    "answer":
+    {
+      "EN":"Christiano Ronaldo"
+    }
+  },
+  { 
+    "id" : "9",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Which famous soccer club is this?"
+    },
+    "questionIMG": "9.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Santos FC", "Manchester City", "Juventus FC", "Aston Villa"]
+    },
+    "answer":
+    {
+      "EN":"Manchester City"
+    }
+  },
+  { 
+    "id" : "10",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Which soccer team is this?"
+    },
+    "questionIMG": "10.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Arsenal F.C.", "Chelsea FC", "Leeds United", "Manchester United F.C."]
+    },
+    "answer":
+    {
+      "EN":"Chelsea FC"
+    }
+  },
+  { 
+    "id" : "11",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Which football club has the motto 'Més que un club' (More than a club)?"
+    },
+    "questionIMG": "11.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["AFC Ajax", "FC Barcelona", "FC Porto", "Melbourne FC"]
+    },
+    "answer":
+    {
+      "EN":"FC Barcelona"
+    }
+  },
+  { 
+    "id" : "12",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Which professional soccer team is this?"
+    },
+    "questionIMG": "12.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Liverpool", "Real Madrid", "Manchester United", "F.C.Barcelona"]
+    },
+    "answer":
+    {
+      "EN":"Manchester United"
+    }
+  },
+  { 
+    "id" : "13",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Which professional soccer team is this?"
+    },
+    "questionIMG": "12.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Atlético", "Juventus AC", "Athetico Bilbao", "Valencia CF"]
+    },
+    "answer":
+    {
+      "EN":"Atlético"
+    }
+  },
+  { 
+    "id" : "14",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Which professional soccer team is this?"
+    },
+    "questionIMG": "14.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Barbarian FC", "Paris Saint-Germaine FC", "Panathinaikos FC", "Everton FC"]
+    },
+    "answer":
+    {
+      "EN":"Everton FC"
+    }    
+  },
+  { 
+    "id" : "15",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Which famous soccer team is this?"
+    },
+    "questionIMG": "15.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Manchester City F.C.", "Liverpool F.C.", "Chelsea F.C.", "Arsenal F.C."]
+    },
+    "answer":
+    {
+      "EN":"Arsenal F.C."
+    }
+  },
+  { 
+    "id" : "16",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Which professional soccer team is this?"
+    },
+    "questionIMG": "16.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["S.L. Benfica", "Liverpool FC", "A.S. Roma", "AFC Ajax"]
+    },
+    "answer":
+    {
+      "EN":"A.S. Roma"
+    }
+  },
+  { 
+    "id" : "17",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What is the most successful club in the Netherlands?"
+    },
+    "questionIMG": "17.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["AFC Ajax", "Juventus FC", "Frölunda HC", "FC Porto"]
+    },
+    "answer":
+    {
+      "EN":"AFC Ajax"
+    }
+  },
+  { 
+    "id" : "18",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Which professional soccer team is this?"
+    },
+    "questionIMG": "18.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Liverpool FC", "Santos FC", "FC Porto", "Panathinaikos FC"]
+    },
+    "answer":
+    {
+      "EN":"Liverpool FC"
+    }
+  },
+  { 
+    "id" : "19",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Which professional soccer team is this?"
+    },
+    "questionIMG": "19.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["FC Porto", "Inter Milan", "Juventus FC", "S.L. Benfica"]
+    },
+    "answer":
+    {
+      "EN":"Inter Milan"
+    }
+  },
+  { 
+    "id" : "20",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Which football club was the highest-earning for 12 years in a row?"
+    },
+    "questionIMG": "20.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["A.S. Roma", "Real Madrid C.F.", "Liverpool FC", "AFC Ajax"]
+    },
+    "answer":
+    {
+      "EN":"Real Madrid C.F."
+    }
+  }
+]
