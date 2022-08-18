@@ -1,0 +1,386 @@
+[
+  {
+
+
+  },
+  { 
+    "id" : "1",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What is another name for American Football?"
+    },
+    "questionIMG": "1.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Bandy", "Gridiron", "Cricket", "Squash"]
+    },
+    "answer":
+    {
+      "EN":"Gridiron"
+    }
+  },
+  { 
+    "id" : "2",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"Which country was created American football?"
+    },
+    "options":
+    {
+      "EN":["Jamaica", "United States", "Mexico", "Canada"]
+    },
+    "answer":
+    {
+      "EN":"United States"
+    }
+  },
+  { 
+    "id" : "3",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"Which game is played during the super bowl?"
+    },
+    "options":
+    {
+      "EN":["Football", "Baseball", "Hockey", "Soccer"]
+    },
+    "answer":
+    {
+      "EN":"Football"
+    }
+  },
+  { 
+    "id" : "4",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Which Dallas team is this?"
+    },
+    "questionIMG": "4.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Redskins", "Cowboys", "Raiders", "Eagles"]
+    },
+    "answer":
+    {
+      "EN":"Cowboys"
+    }
+  },
+  { 
+    "id" : "5",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Which professional American football franchise is based in Seattle, Washington?"
+    },
+    "questionIMG": "5.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Packers", "Eagles", "Seahawks", "Raiders"]
+    },
+    "answer":
+    {
+      "EN":"Seahawks"
+    }
+  },
+  { 
+    "id" : "6",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Which NFL team is this?"
+    },
+    "questionIMG": "6.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["49ers", "Eagles", "Bears", "Vikings"]
+    },
+    "answer":
+    {
+      "EN":"Bears"
+    }
+  },
+  { 
+    "id" : "7",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What NFL team is in Pittsburgh?"
+    },
+    "questionIMG": "7.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Patriots", "Giants", "Steelers", "Raiders"]
+    },
+    "answer":
+    {
+      "EN":"Steelers"
+    }
+  },
+  { 
+    "id" : "8",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Which NFL team is this?"
+    },
+    "questionIMG": "8.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Seahawks", "Patriots", "Bills", "Steelers"]
+    },
+    "answer":
+    {
+      "EN":"Patriots"
+    }
+  },
+  { 
+    "id" : "9",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Which professional American football franchise is based in Oakland, California?"
+    },
+    "questionIMG": "9.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Bears", "Raiders", "Lions", "Vikings"]
+    },
+    "answer":
+    {
+      "EN":"Raiders"
+    }
+  },
+  { 
+    "id" : "10",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Who is quarterback for the New England Patriots?"
+    },
+    "questionIMG": "10.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Jared Goff", "Andy Dalton", "Tom Savage", "Tom Brady"]
+    },
+    "answer":
+    {
+      "EN":"Tom Brady"
+    }
+  },
+  { 
+    "id" : "11",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Who is this famous football player?"
+    },
+    "questionIMG": "11.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Tom Brady", "Peyton Manning", "Adrian Peterson", "Antonio Brown"]
+    },
+    "answer":
+    {
+      "EN":"Peyton Manning"
+    }
+  },
+  { 
+    "id" : "12",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Which NFL team is this?"
+    },
+    "questionIMG": "12.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Pistons", "Red Wings", "Tigers", "Lions"]
+    },
+    "answer":
+    {
+      "EN":"Lions"
+    }
+  },
+  { 
+    "id" : "13",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Which NFL player is this?"
+    },
+    "questionIMG": "12.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Antonio Brown", "Michael Vick", "Russel Wilson", "Odell Beckham Jr."]
+    },
+    "answer":
+    {
+      "EN":"Michael Vick"
+    }
+  },
+  { 
+    "id" : "14",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Which NFL player is this?"
+    },
+    "questionIMG": "14.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Clay Matthews", "Tom Brady", "Eli Manning", "Jimmy Garoppolo"]
+    },
+    "answer":
+    {
+      "EN":"Eli Manning"
+    }    
+  },
+  { 
+    "id" : "15",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Which professional football team is this?"
+    },
+    "questionIMG": "15.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Rams", "Ravens", "Chiefs", "Jets"]
+    },
+    "answer":
+    {
+      "EN":"Jets"
+    }
+  },
+  { 
+    "id" : "16",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Which NFL team is this?"
+    },
+    "questionIMG": "16.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Ravens", "Eagles", "Saints", "Panthers"]
+    },
+    "answer":
+    {
+      "EN":"Eagles"
+    }
+  },
+  { 
+    "id" : "17",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Which NFL team is this?"
+    },
+    "questionIMG": "17.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Ravens", "Patriots", "Steelers", "Bengals"]
+    },
+    "answer":
+    {
+      "EN":"Steelers"
+    }
+  },
+  { 
+    "id" : "18",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Which professional football team is this?"
+    },
+    "questionIMG": "18.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Falcons", "Cardinals", "Bills", "Titans"]
+    },
+    "answer":
+    {
+      "EN":"Falcons"
+    }
+  },
+  { 
+    "id" : "19",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Which NFL team is this?"
+    },
+    "questionIMG": "19.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Dolphins", "Patriots", "Lions", "Giants"]
+    },
+    "answer":
+    {
+      "EN":"Dolphins"
+    }
+  },
+  { 
+    "id" : "20",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Who is this NFL player?"
+    },
+    "questionIMG": "20.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Cam Newton", "Jameis Winston", "Matt Ryan", "Drew Brees"]
+    },
+    "answer":
+    {
+      "EN":"Drew Brees"
+    }
+  }
+]
