@@ -1,0 +1,483 @@
+[
+  {
+
+
+  },
+  { 
+    "id" : "1",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Who is this actress?"
+    },
+    "questionIMG": "1.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Emma Watson", "Kristen Stewart", "Emma Roberts", "Cara Delevigne"]
+    },
+    "answer":
+    {
+      "EN":"Emma Watson"
+    }
+  },
+  { 
+    "id" : "2",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Who is this man?"
+    },
+    "questionIMG": "2.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Forest Whitaker", "Morgan Freeman", "Nelson Mandela", "Samuel L. Jackson"]
+    },
+    "answer":
+    {
+      "EN":"Nelson Mandela"
+    }	
+  },
+  { 
+    "id" : "3",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Who is this comedian?"
+    },
+    "questionIMG": "3.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Christopher Reeve", "Jonathan Winters", "Robin Williams", "John Belushi"]
+    },
+    "answer":
+    {
+      "EN":"Robin Williams"
+    }	
+  },
+  { 
+    "id" : "4",
+    "qType":"Text",
+    "title":"",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"Who played Edward Cullen in Twilight?"
+    },
+    "options":
+    {
+      "EN":["Robert Pattinson", "Zac Efron", "Daniel Radcliffe", "Taylor Lautner"]
+    },
+    "answer":
+    {
+      "EN":"Robert Pattinson"
+    }
+  },
+  { 
+    "id" : "5",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"The main character in Breakfast At Tiffany's was played by:"
+    },
+    "options":
+    {
+      "EN":["Joan Crawford", "Grace Kelly", "Audrey Hepburn", "Betty Davis"]
+    },
+    "answer":
+    {
+      "EN":"Audrey Hepburn"
+    }
+  },
+  { 
+    "id" : "6",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What is this woman's name?"
+    },
+    "questionIMG": "6.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Laura Bush", "Michelle Obama", "Hillary Clinton", "Melania Trump"]
+    },
+    "answer":
+    {
+      "EN":"Michelle Obama"
+    }
+  },
+  { 
+    "id" : "7",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"The Joker in The Dark Knight tragically passed away."
+    },
+    "options":
+    {
+      "EN":["Hugh Jackman", "Heath Ledger", "Simon Baker", "Chris Hemsworth"]
+    },
+    "answer":
+    {
+      "EN":"Heath Ledger"
+    }
+  },
+  { 
+    "id" : "8",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Who is this actress?"
+    },
+    "questionIMG": "8.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Lindsay Lohan", "Emma Stone", "Amanda Bynes", "JoJo"]
+    },
+    "answer":
+    {
+      "EN":"Lindsay Lohan"
+    }
+  },
+  { 
+    "id" : "9",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Who is this actor?"
+    },
+    "questionIMG": "9.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Zac Efron", "Chris Hemsworth", "Matt Bomer", "Channing Tatum"]
+    },
+    "answer":
+    {
+      "EN":"Channing Tatum"
+    }
+  },
+  { 
+    "id" : "10",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"Which of these women was the most famous sex icon of the 1950's?"
+    },
+    "options":
+    {
+      "EN":["Audrey Hepburn", "Michelle Pfieffer", "Jean Harlow", "Marilyn Monroe"]
+    },
+    "answer":
+    {
+      "EN":"Marilyn Monroe"
+    }
+  },
+  { 
+    "id" : "11",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Who is this English actor?"
+    },
+    "questionIMG": "11.png",
+    "solutionIMG": "",
+    "question": "",
+    "options":
+    {
+      "EN":["Johnny Depp", "Luke Evans", "Orlando Bloom", "Kit Harrington"]
+    },
+    "answer":
+    {
+      "EN":"Orlando Bloom"
+    }
+  },
+  { 
+    "id" : "12",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"Who is the founder of Microsoft?"
+    },
+    "options":
+    {
+      "EN":["Stephen Harper", "Steve Jobs", "Bill Gates", "George Bush"]
+    },
+    "answer":
+    {
+      "EN":"Bill Gates"
+    }
+  },
+  { 
+    "id" : "13",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"What is this actress's name?"
+    },
+    "questionIMG": "13.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Sandra Bullock", "Julia Roberts", "Kelly Preston", "Marisa Tomei"]
+    },
+    "answer":
+    {
+      "EN":"Sandra Bullock"
+    }
+  },
+  { 
+    "id" : "14",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Who is this actor?"
+    },
+    "questionIMG": "14.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Heath Ledger", "Theo James", "David Franco", "James Franco"]
+    },
+    "answer":
+    {
+      "EN":"James Franco"
+    }
+  },
+  { 
+    "id" : "15",
+    "qType":"Text",
+    "title": "",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"Who is best known for his long-running role as Wolverine in the X-Men film series?"
+    },
+    "options":
+    {
+      "EN":["Christian Bale", "Dermot Mulroney", "Hugh Jackman", "Patrick Dempsey"]
+    },
+    "answer":
+    {
+      "EN":"Hugh Jackman"
+    }
+  },
+  { 
+    "id" : "16",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Who is this actress?"
+    },
+    "questionIMG": "16.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Sandra Ellis Lafferty", "Barbra Steisand", "Meryl Streep", "Jodie Foster"]
+    },
+    "answer":
+    {
+      "EN":"Meryl Streep"
+    }
+    
+  },
+  { 
+    "id" : "17",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Who is this actress?"
+    },
+    "questionIMG": "17.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Emma Watson", "Emma Roberts", "Isla Fisher", "Emma Stone"]
+    },
+    "answer":
+    {
+      "EN":"Emma Stone"
+    }
+    
+  },
+  { 
+    "id" : "18",
+    "qType":"Text",
+    "title":"",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"Who is honored in India as the father of the nation?"
+    },
+    "options":
+    {
+      "EN":["Desmond Tutu", "Mahatma Gandhi", "Muhammad Yunus", "Dalai Lama"]
+    },
+    "answer":
+    {
+      "EN":"Mahatma Gandhi"
+    }
+  },
+  { 
+    "id" : "19",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Name this actor."
+    },
+    "questionIMG": "19.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Vin Diesel", "Arnold Schwarzenegger", "Dwayne Johnson", "Sylvester Stallone"]
+    },
+    "answer":
+    {
+      "EN":"Arnold Schwarzenegger"
+    }
+  },
+  { 
+    "id" : "20",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Who is this actress?"
+    },
+    "questionIMG": "20.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Jennifer Anniston", "Gwen Stefani", "Kate Hudson", "Cameron Diaz"]
+    },
+    "answer":
+    {
+      "EN":"Cameron Diaz"
+    }
+  },
+  { 
+    "id" : "21",
+    "qType":"Text",
+    "title":"",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"which royal married Kate Middleton?"
+    },
+    "options":
+    {
+      "EN":["Prince Charles", "Prince Edward", "Prince William", "Prince Harry"]
+    },
+    "answer":
+    {
+      "EN":"Prince William"
+    }
+  },
+  { 
+    "id" : "22",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Who is this actress?"
+    },
+    "questionIMG": "22.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Natalie Portman", "Keira Knightley", "Rose Byrne", "Winona Ryder"]
+    },
+    "answer":
+    {
+      "EN":"Keira Knightley"
+    }
+  },
+  { 
+    "id" : "23",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Who is this actor?"
+    },
+    "questionIMG": "23.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Ron Palillo", "John Travolta", "Robert Hegyes", "Tom Cruise"]
+    },
+    "answer":
+    {
+      "EN":"John Travolta"
+    }
+  },
+  { 
+    "id" : "24",
+    "qType":"Text",
+    "title":"",
+    "questionIMG": "",
+    "solutionIMG": "",
+    "question":
+    {
+      "EN":"Who is the most famous playwright of all time?"
+    },
+    "options":
+    {
+      "EN":["Arthur Miller", "Sophocles", "William Shakespeare", "Tennessee Williams"]
+    },
+    "answer":
+    {
+      "EN":"William Shakespeare"
+    }
+  },
+  { 
+    "id" : "25",
+    "qType":"Image",
+    "title":
+    {
+      "EN":"Who is this actor?"
+    },
+    "questionIMG": "25.png",
+    "solutionIMG": "",
+    "question":"",
+    "options":
+    {
+      "EN":["Clint Eastwood", "Robert De Niro", "Al Pacino", "Jack Nicholson"]
+    },
+    "answer":
+    {
+      "EN":"Jack Nicholson"
+    }
+  }
+]
